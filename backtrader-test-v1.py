@@ -186,7 +186,10 @@ def perform_simulation(args):
     # cerebro.adddata(data)
     
     # Resample data to timeframe specified with default being weekly
-    cerebro.resampledata(data, timeframe=tframes[args.timeframe])
+    cerebro.resampledata(
+            data,
+            timeframe=tframes[args.timeframe],
+            compression=args.compression)
 
     # Set our desired cash start
     initial_value = 100000.0
