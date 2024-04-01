@@ -11,20 +11,24 @@ import sys  # To find out the script name (in argv[0])
 import backtrader as bt
 
 MAX_COST = 1000
-initial_price = 0
 
 class MaxCostSizer(bt.Sizer):
-    params = (('max_cost', MAX_COST),)  # Set the maximum cost parameter
+    params = (
+            ('max_cost', MAX_COST), # Set the maximum cost parameter
+            ('initial_max_cost', MAX_COST)
+        )
 
     def _getsizing(self, comminfo, cash, data, isbuy):
         if isbuy:
             # Calculate the maximum number of shares that can be purchased
-            max_shares = int(self.params.max_cost / data.close[0])
+            max_shares = int(self.params.max_cost / data.open[0])
             # Ensure that the maximum number of shares does not exceed available cash
-            max_shares = min(max_shares, int(cash / data.close[0]))
+            max_shares = min(max_shares, int(cash / data.open[0]))
             return max_shares
         # For selling, use the default sizing logic
         else:
+            # Increase max cost based off cash in account from selling
+            self.params.max_cost = self.params.initial_max_cost + cash
             return self.broker.getposition(data).size
 
 class FixedCommissionScheme(bt.CommInfoBase):
@@ -46,16 +50,18 @@ class FixedCommissionScheme(bt.CommInfoBase):
 class TestStrategy(bt.Strategy):
     params = (
         ('exitbars', 5),
+        ('file_handle', None)
     )
 
     def log(self, txt, dt=None):
         ''' Logging function fot this strategy'''
         dt = dt or self.datas[0].datetime.date(0)
-        print('%s, %s' % (dt.isoformat(), txt))
+        # print('%s, %s' % (dt.isoformat(), txt))
+        self.params.file_handle.write("{}, {}\n".format(dt.isoformat(), txt))
 
     def __init__(self):
-        # Keep a reference to the "close" line in the data[0] dataseries
-        self.data_close = self.datas[0].close
+        # Keep a reference to the "open" line in the data[0] dataseries
+        self.data_open = self.datas[0].open
 
         # To keep track of pending orders and buy price/commission
         self.order = None
@@ -105,7 +111,7 @@ class TestStrategy(bt.Strategy):
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        self.log('Close, %.2f' % self.data_close[0])
+        self.log('Open, %.2f' % self.data_open[0])
 
         # Check if an order is pending ... if yes, we cannot send a 2nd one
         if self.order:
@@ -115,22 +121,22 @@ class TestStrategy(bt.Strategy):
         if not self.position:
 
             # Not yet ... we MIGHT BUY if ...
-            if self.data_close[0] < self.data_close[-1]:
-                    # current close less than previous close
+            if self.data_open[0] < self.data_open[-1]:
+                    # current open less than previous open
                     # Keep track of the created order to avoid a 2nd order
                     self.order = self.buy()
                     # print(self.order)
 
         else:
 
-            if self.data_close[0] * self.size > self.buy_price * self.size + self.buycomm:
+            if self.data_open[0] * self.size > self.buy_price * self.size + self.buycomm:
                 # Keep track ot created order to avoid a 2nd order
                 self.order = self.sell()
 
             # # Already in the market ... we might sell
             # if len(self) >= (self.bar_executed + self.params.exitbars):
             #     # SELL, SELL, SELL!!! (with all possible default parameters)
-            #     self.log('SELL CREATE, %.2f' % self.data_close[0])
+            #     self.log('SELL CREATE, %.2f' % self.data_open[0])
 
             #     # Keep track of the created order to avoid a 2nd order
             #     self.order = self.sell()
@@ -156,14 +162,15 @@ def perform_simulation(args):
     share_name = args.dataname or 'cba'
     # Create a cerebro entity
     cerebro = bt.Cerebro()
-
+    
+    f = open("./order-execs/{}-{}.txt".format(share_name, args.timeframe), "w")
     # Add a strategy
-    cerebro.addstrategy(TestStrategy)
+    cerebro.addstrategy(TestStrategy, file_handle=f)
 
     # Datas are in a subfolder of the samples. Need to find where the script is
     # because it could have been called from anywhere
     modpath = os.path.dirname(os.path.abspath(sys.argv[0]))
-    datapath = os.path.join(modpath, './data/{}-2019-2024.csv'.format(share_name))
+    datapath = os.path.join(modpath, './data/historical-prices/{}-2019-2024.csv'.format(share_name))
 
     # Create a Data Feed
     data = bt.feeds.YahooFinanceCSVData(
@@ -192,33 +199,42 @@ def perform_simulation(args):
             compression=args.compression)
 
     # Set our desired cash start
-    initial_value = 100000.0
+    initial_value = 1000.0
     cerebro.broker.setcash(initial_value)
 
     # # Add a FixedSize sizer according to the stake
     # cerebro.addsizer(bt.sizers.FixedSize, stake=10)
 
     # Add a sizer to determine number of shares should be brought with max value for a buy trade
-    cerebro.addsizer(MaxCostSizer, max_cost=MAX_COST)
+    cerebro.addsizer(MaxCostSizer, max_cost=MAX_COST, initial_max_cost=MAX_COST)
 
     # Set the commission - 0.12% ... divide by 100 to remove the %
     # cerebro.broker.setcommission(commission=0.0012)
 
     # Need to set a flat fee if order placed is less than $25,000
     # cerebro.broker.addcommissioninfo(FixedCommissionScheme)
-    cerebro.broker.setcommission(commission=0.5,
-                                 commtype=bt.CommInfoBase.COMM_FIXED)
+    # cerebro.broker.setcommission(commission=0.5,
+    #                              commtype=bt.CommInfoBase.COMM_FIXED)
 
-    print('Share Name: {}'.format(share_name.upper()))
+    share_name_txt = 'Share Name: {}\n'.format(share_name.upper())
+    print(share_name_txt)
+    f.write(share_name_txt)
     # Print out the starting conditions
-    print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
+    portfolio_value = 'Starting Portfolio Value: %.2f\n' % cerebro.broker.getvalue()
+    print(portfolio_value)
+    f.write(portfolio_value)
 
     # Run over everything
     cerebro.run()
 
     # Print out the final result
-    print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
-    print("Total Profit: {:.2f}".format(cerebro.broker.getvalue() - initial_value))
+    portfolio_value = 'Final Portfolio Value: %.2f\n' % cerebro.broker.getvalue()
+    print(portfolio_value)
+    f.write(portfolio_value)
+    profit = "Total Profit: {:.2f}\n".format(cerebro.broker.getvalue() - initial_value)
+    print(profit)
+    f.write(profit)
+    f.close()
 
     # Plot the result
     cerebro.plot()
