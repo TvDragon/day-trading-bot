@@ -28,6 +28,7 @@ class MaxCostSizer(bt.Sizer):
         # For selling, use the default sizing logic
         else:
             # Increase max cost based off cash in account from selling
+            # Should change this for next bot where we only have 1% or 2% of account's value per trade
             self.params.max_cost = self.params.initial_max_cost + cash
             return self.broker.getposition(data).size
 
