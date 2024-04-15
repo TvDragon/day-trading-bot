@@ -2,13 +2,13 @@ appdirs==1.4.4
 beautifulsoup4==4.12.3
 certifi==2024.2.2
 charset-normalizer==3.3.2
-frozendict==2.4.1
+frozendict==2.4.2
 html5lib==1.1
-idna==3.6
+idna==3.7
 lxml==5.2.1
 multitasking==0.0.11
 numpy==1.26.4
-pandas==2.2.1
+pandas==2.2.2
 peewee==3.17.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
