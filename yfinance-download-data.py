@@ -13,7 +13,7 @@ def parse_args():
                         help='Share name to download')
     
     parser.add_argument('--interval', default='1m', required=False,
-                        choices=['1m', '5m', '15m', '30m'],
+                        choices=['1m', '5m', '15m'],
                         help='Interval ticks to get data for')
 
     return parser.parse_args()
@@ -24,22 +24,24 @@ def download_data(args):
     if args.interval == "1m":
         # Only allowed up to last 7 days of data
         days_ago = (datetime.datetime.now() - datetime.timedelta(days = 7)).strftime("%Y-%m-%d")
-    if args.interval == "15m":
+    elif args.interval == "5m" or args.interval == "15m":
         # Only allowed up to last 60 days of data
         days_ago = (datetime.datetime.now() - datetime.timedelta(days = 59)).strftime("%Y-%m-%d")
 
     dataF = yf.download("{}".format(args.sharename), start=days_ago, end=today, interval=args.interval)
     market_data = dataF.iloc[:,:]
     date_indexes = market_data.index
-    f = open("./data/historical-prices/ticks/{}-{}-{}-{}.csv".format(args.sharename.lower().split(".")[0], today, days_ago, args.interval), "w")
-    f.write("Date,Open,High,Close,Adj Close,Volume\n")
+    f = open("./data/ticks/{}-{}-{}-{}.csv".format(args.sharename.lower().split(".")[0], today, days_ago, args.interval), "w")
+    f.write("Date,Open,High,Low,Close,Adj Close,Volume\n")
     for idx in date_indexes:
-        f.write("{},{},{},{},{},{},{}\n".format(idx,market_data["Open"][idx],
-                                                market_data["High"][idx],
-                                                market_data["Low"][idx],
-                                                market_data["Close"][idx],
-                                                market_data["Adj Close"][idx],
-                                                market_data["Volume"][idx]))
+        f.write("{},{},{},{},{},{},{}\n".format(
+            idx,
+            market_data["Open"][idx],
+            market_data["High"][idx],
+            market_data["Low"][idx],
+            market_data["Close"][idx],
+            market_data["Adj Close"][idx],
+            market_data["Volume"][idx]))
     # dataF.open.iloc
 
     f.close()
