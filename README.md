@@ -7,14 +7,14 @@ The motivation behind creating this project is to create a day trading bot that 
 ### Built With
 
 * [![Python][Python]][Python-url]
-* [![Backtrader][]][Backtrader-url]
-* [![Yahoo Finance][]][Yahoo-Finance-url]
+* [Backtrader](https://www.backtrader.com/)
+* [yfinance](https://pypi.org/project/yfinance/)
 
 ## Getting Started
 
 ### Prerequisites
 
-- [python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/)
 
 ### Installation
 
@@ -47,13 +47,10 @@ The motivation behind creating this project is to create a day trading bot that 
 
 ## Contact
 
-
+Tony Vo - tonyvo249@gmail.com
 
 ## Acknowledgements
 
 
 [Python]: https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&logo=python&logoColor=3776AB
 [Python-url]: https://www.python.org/downloads/
-[Backtrader-url]: https://www.backtrader.com/
-[Yahoo-Finance-url]: https://au.finance.yahoo.com/
-
