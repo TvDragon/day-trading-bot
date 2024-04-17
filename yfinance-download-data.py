@@ -34,8 +34,10 @@ def download_data(args):
     f = open("./data/ticks/{}-{}-{}-{}.csv".format(args.sharename.lower().split(".")[0], today, days_ago, args.interval), "w")
     f.write("Date,Open,High,Low,Close,Adj Close,Volume\n")
     for idx in date_indexes:
+        # Sets date time format as "YYYY-MM-DD HH:MM:SS"
+        date_time = str(idx).split("+")[0]
         f.write("{},{},{},{},{},{},{}\n".format(
-            idx,
+            date_time,
             market_data["Open"][idx],
             market_data["High"][idx],
             market_data["Low"][idx],
