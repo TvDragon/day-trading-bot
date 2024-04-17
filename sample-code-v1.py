@@ -178,9 +178,9 @@ def perform_simulation(args):
         dataname=datapath,
         name=share_name.upper(),
         # Do not pass values before this date
-        fromdate=datetime.datetime(2020, 3, 23),
+        fromdate=datetime.datetime(2019, 1, 1),
         # Do not pass values after this date
-        todate=datetime.datetime(2024, 3, 26),
+        todate=datetime.datetime(2024, 1, 1),
         # Do not pass values after this date
         reverse=False)
 
