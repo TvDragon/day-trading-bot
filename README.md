@@ -7,14 +7,14 @@ The motivation behind creating this project is to create a day trading bot that 
 ### Built With
 
 * [![Python][Python]][Python-url]
-* [Backtrader](https://www.backtrader.com/)
-* [yfinance](https://pypi.org/project/yfinance/)
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Python](https://www.python.org/downloads/)
+* [Python](https://www.python.org/downloads/)
+* [Backtrader](https://www.backtrader.com/)
+* [yfinance](https://pypi.org/project/yfinance/)
 
 ### Installation
 
