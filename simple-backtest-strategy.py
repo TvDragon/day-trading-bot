@@ -7,7 +7,6 @@ import sys
 class MaxCostSizer(bt.Sizer):
     params = (
             ('max_trade_value', 0), # Set the maximum cost per trade parameter
-            ('starting_cash', 0),
         )
 
     def _getsizing(self, comminfo, cash, data, isbuy):
@@ -19,8 +18,8 @@ class MaxCostSizer(bt.Sizer):
             return max_shares
         # For selling, use the default sizing logic
         else:
-            # Max trade value is 1% of account's value for buy option
-            self.params.max_trade_value = (self.params.starting_cash + cash) * 0.1
+            # Max trade value is 10% of cash in account for buy option
+            self.params.max_trade_value = cash * 0.1
             return self.broker.getposition(data).size
 
 class SimpleStrategy(bt.Strategy):
@@ -154,7 +153,7 @@ def perform_simulation(args):
     cerebro.broker.setcash(cash)
 
     # Add a sizer to determine number of shares should be brought with max value for a buy trade
-    cerebro.addsizer(MaxCostSizer, max_trade_value=cash*0.1, starting_cash=cash)
+    cerebro.addsizer(MaxCostSizer, max_trade_value=cash*0.1)
 
     # Set the commission - 0% ... divide by 100 to remove the %
     cerebro.broker.setcommission(commission=0.0)
