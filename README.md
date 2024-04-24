@@ -49,7 +49,7 @@ This simple strategy involved placing a buy order only if the current open price
 
 ![backtest-simple-strategy](./results/backtest-simple-strategy.png)
 
-Viewing the results we can see that this strategy provided a positive yield making profits although there were times when placed orders ended up causing a net loss due to sell order placed at market price waiting for order execution. In the future this could be improved on by ensuring a large enough profit will be made before placing a sell order to cater for market price sell order placed.
+Viewing the results we can see that this strategy provided a positive yield making profits although there were times when placed orders ended up causing a net loss due to sell order placed at market price waiting for order execution. In the future this could be improved on by ensuring a large enough profit will be made before placing a sell order to cater for market price sell order placed. Additionally, this strategy puts the risk per trade at potentially losing all its value if share prices continue to plummet downwards. This is extremely risky with the potential to use all our money.
 
 ### Backtest trending strategy
 
