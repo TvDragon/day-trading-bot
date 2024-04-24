@@ -118,7 +118,7 @@ def perform_simulation(args):
     # Create a cerebro entity
     cerebro = bt.Cerebro()
     
-    f = open("./order-execs/{}-{}-{}.txt".format(args.dataname, args.compression, args.timeframe), "w")
+    f = open("./order-execs/simple-{}-{}-{}.txt".format(args.dataname, args.compression, args.timeframe), "w")
     # Add a strategy
     cerebro.addstrategy(SimpleStrategy, file_handle=f)
 
