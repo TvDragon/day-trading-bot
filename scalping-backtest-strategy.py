@@ -57,10 +57,14 @@ class ScalpingStrategy(bt.Strategy):
         self.ema100 = bt.indicators.ExponentialMovingAverage(self.data, period=self.params.ema_period_3)
 
         self.is_uptrend = False
+        self.is_downtrend = False
         self.is_below_25_or_50_ema = False
+        self.is_above_25_or_50_ema = False
         self.stop_loss = 0
         self.take_profit = 0
         self.buy_order = self.sell_order = False
+        self.duration_for_order = 0
+        self.max_duration = 30
 
     def notify_order(self, order):
         if order.status in [order.Submitted, order.Accepted]:
@@ -106,7 +110,7 @@ class ScalpingStrategy(bt.Strategy):
         # Check if we are in the market
         if not self.position:
             # Check if in uptrend
-            # TODO: Still needs fixing bc on 04-08-202, 16-05-2022, 08-08-2023 we could've placed a buy order
+            # TODO: Still needs fixing bc on 08-08-2023 we could've placed a buy order
             if self.is_uptrend == False:
                 # Set up for potential buy order
                 self.is_uptrend = True
@@ -114,20 +118,15 @@ class ScalpingStrategy(bt.Strategy):
                     if not (self.ema25[-i] >= self.ema25[-i-1] and \
                             self.ema50[-i] >= self.ema50[-i-1] and \
                             self.ema100[-i] >= self.ema100[-i-1] and \
-                            self.ema25[-i] > self.ema50[-i] > self.ema100[-i]):
+                            self.data_close[-i] > self.ema25[-i] > self.ema50[-i] > self.ema100[-i]):
                         self.is_uptrend = False
                         break
-                if self.is_uptrend:
-                    for i in range(3):
-                        if not (self.data_close[-i * 5] > self.data_close[(-i-1) * 5]):
-                            self.is_uptrend = False
-                            break
             else:
                 # Is in an uptrend so could place buy order if criteria is met
                 if self.data_close[0] <= self.ema25[0] and self.data_close[0] > self.ema100[0]:
                     if self.is_below_25_or_50_ema == False:
                         self.is_below_25_or_50_ema = True
-                elif self.data_close[0] > self.ema25[0] and self.ema25[0] > self.ema50[0] > self.ema100[0]:
+                elif self.data_close[0] > self.ema25[0] > self.ema50[0] > self.ema100[0]:
                     if self.is_below_25_or_50_ema:
                         self.order = self.buy()
                         self.buy_order = True
@@ -138,13 +137,47 @@ class ScalpingStrategy(bt.Strategy):
                     self.is_uptrend = self.is_below_25_or_50_ema = False
 
             # Check if in downtrend
+            if self.is_downtrend == False:
+                self.is_downtrend = True
+                for i in range(15):
+                    if not (self.ema25[-i] <= self.ema25[-i-1] and \
+                            self.ema50[-i] <= self.ema50[-i-1] and \
+                            self.ema100[-i] <= self.ema100[-i-1] and \
+                            self.data_close[-i] < self.ema25[-i] < self.ema50[-i] < self.ema100[-i]):
+                        self.is_downtrend = False
+                        break
+            else:
+                # Is in a down trend so we could place a sell order if criteria is met
+                if self.data_close[0] >= self.ema25[0] and self.data_close[0] < self.ema100[0]:
+                    if self.is_above_25_or_50_ema == False:
+                        self.is_above_25_or_50_ema = True
+                elif self.data_close[0] < self.ema25[0] < self.ema50[0] < self.ema100[0]:
+                    if self.is_above_25_or_50_ema:
+                        self.order = self.sell()
+                        self.sell_order = True
+                        self.is_downtrend = self.is_above_25_or_50_ema = False
+                        self.stop_loss = round(self.ema50[0], 2)
+                        self.take_profit = round(self.data_close[0] - (self.stop_loss - self.data_close[0]) * 1.5, 2)
         else:
             # Sell for the placed buy order
-            if self.data_close[0] <= self.stop_loss or self.data_close[0] >= self.take_profit and self.buy_order == True:
+            # TODO: Set time expiry for stop loss and take profit like after 15 ticks or something if not yet sold
+            if self.data_close[0] <= self.stop_loss or \
+                    self.data_close[0] >= self.take_profit or \
+                    self.duration_for_order == self.max_duration and \
+                    self.buy_order == True:
                 self.order = self.sell()
                 self.is_uptrend = self.is_below_25_or_50_ema = self.buy_order = False
+                self.duration_for_order = -1
 
             # Buy for the placed sell order
+            if self.data_close[0] >= self.stop_loss or \
+                    self.data_close[0] <= self.take_profit or \
+                    self.duration_for_order == self.max_duration and \
+                    self.sell_order == True:
+                self.order = self.buy()
+                self.is_downtrend = self.is_above_25_or_50_ema = self.sell_order = False
+                self.duration_for_order = -1
+            self.duration_for_order += 1
 
 def parse_args():
     parser = argparse.ArgumentParser(
@@ -169,7 +202,7 @@ def perform_simulation(args):
     # Create a cerebro entity
     cerebro = bt.Cerebro()
     
-    f = open("./order-execs/scalping-{}-{}-{}.txt".format(args.dataname, args.compression, args.timeframe), "w")
+    f = open("./order-execs/scalping/{}/scalping-{}-{}-{}.txt".format(args.dataname, args.dataname, args.compression, args.timeframe), "w")
     # Add a strategy
     cerebro.addstrategy(ScalpingStrategy, file_handle=f)
 
