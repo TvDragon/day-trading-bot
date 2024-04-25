@@ -103,7 +103,7 @@ def parse_args():
                         choices=['cba', 'gmg', 'ioo', 'ndq', 'vas', 'wes'],
                         help='File Data to Load')
 
-    parser.add_argument('--timeframe', default='weekly', required=False,
+    parser.add_argument('--timeframe', default='daily', required=False,
                         choices=['daily', 'weekly', 'monthly'],
                         help='Timeframe to resample to')
 
@@ -118,7 +118,7 @@ def perform_simulation(args):
     # Create a cerebro entity
     cerebro = bt.Cerebro()
     
-    f = open("./order-execs/simple-{}-{}-{}.txt".format(args.dataname, args.compression, args.timeframe), "w")
+    f = open("./order-execs/simple/{}/simple-{}-{}-{}.txt".format(args.dataname, args.dataname, args.compression, args.timeframe), "w")
     # Add a strategy
     cerebro.addstrategy(SimpleStrategy, file_handle=f)
 
