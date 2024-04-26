@@ -4,29 +4,29 @@ import datetime
 import os.path
 import sys
 
-# class MaxCostSizer(bt.Sizer):
-#     params = (
-#             ('max_trade_value', 0), # Set the maximum cost per trade parameter
-#             ('initial_trade_value', 0)
-#         )
+class MaxCostSizer(bt.Sizer):
+    params = (
+            ('max_trade_value', 0), # Set the maximum cost per trade parameter
+            ('initial_trade_value', 0)
+        )
 
-#     def _getsizing(self, comminfo, cash, data, isbuy):
-#         if isbuy:
-#             # Calculate the maximum number of shares that can be purchased
-#             max_shares = int(self.params.max_trade_value / data.close[0])
-#             # Ensure that the maximum number of shares does not exceed available cash
-#             max_shares = min(max_shares, int(cash / data.close[0]))
-#             return max_shares
-#         # For selling, use the default sizing logic
-#         else:
-#             # Calculate the current trade value based on the position size and current price
-#             current_trade_value = self.broker.getposition(data).size * data.close[0]
-#             # Calculate the remaining cash after accounting for the current trade value
-#             remaining_cash = cash + current_trade_value
-#             # Update max_trade_value to account for remaining cash
-#             self.params.max_trade_value = remaining_cash
-#             # Use the default sizing logic
-#             return self.broker.getposition(data).size
+    def _getsizing(self, comminfo, cash, data, isbuy):
+        if isbuy:
+            # Calculate the maximum number of shares that can be purchased
+            max_shares = int(self.params.max_trade_value / data.close[0])
+            # Ensure that the maximum number of shares does not exceed available cash
+            max_shares = min(max_shares, int(cash / data.close[0]))
+            return max_shares
+        # For selling, use the default sizing logic
+        else:
+            # Calculate the current trade value based on the position size and current price
+            current_trade_value = self.broker.getposition(data).size * data.close[0]
+            # Calculate the remaining cash after accounting for the current trade value
+            remaining_cash = cash + current_trade_value
+            # Update max_trade_value to account for remaining cash
+            self.params.max_trade_value = remaining_cash
+            # Use the default sizing logic
+            return self.broker.getposition(data).size
 
 class ScalpingStrategy(bt.Strategy):
     params = (
@@ -56,10 +56,8 @@ class ScalpingStrategy(bt.Strategy):
         self.ema50 = bt.indicators.ExponentialMovingAverage(self.data, period=self.params.ema_period_2)
         self.ema100 = bt.indicators.ExponentialMovingAverage(self.data, period=self.params.ema_period_3)
 
-        self.is_uptrend = False
-        self.is_downtrend = False
-        self.is_below_25_or_50_ema = False
-        self.is_above_25_or_50_ema = False
+        self.is_uptrend = self.is_downtrend = False
+        self.is_below_25_or_50_ema = self.is_above_25_or_50_ema = False
         self.stop_loss = 0
         self.take_profit = 0
         self.buy_order = self.sell_order = False
@@ -78,10 +76,8 @@ class ScalpingStrategy(bt.Strategy):
                         'BUY EXECUTED, Size: %d, Price: %.2f, Cost: %.2f, Comm %.2f' %
                         (order.executed.size, order.executed.price,
                         order.executed.value, order.executed.comm))
-                
                 self.buy_price = order.executed.price
                 self.buy_comm = order.executed.comm
-                self.size = order.executed.size
             else:   # Sell order
                 self.log(
                         'SELL EXECUTED, Size: %d, Price: %.2f, Cost: %.2f, Comm %.2f' %
@@ -109,25 +105,76 @@ class ScalpingStrategy(bt.Strategy):
 
         # Check if we are in the market
         if not self.position:
-            # Check for up trend
-            if self.is_uptrend == False and self.is_downtrend == False:
-                pass
-            elif self.is_uptrend == True:
-                pass
-            # In an up trend
+            # Check if in uptrend
+            # TODO: Still needs fixing bc on 08-08-2023 we could've placed a buy order
+            if self.is_uptrend == False and self.is_downtrend == False and self.buy_order == False:
+                # Set up for potential buy order
+                self.is_uptrend = True
+                for i in range(15):
+                    if not (self.ema25[-i] >= self.ema25[-i-1] and \
+                            self.ema50[-i] >= self.ema50[-i-1] and \
+                            self.ema100[-i] >= self.ema100[-i-1] and \
+                            self.data_close[-i] > self.ema25[-i] > self.ema50[-i] > self.ema100[-i]):
+                        self.is_uptrend = False
+                        break
+            elif self.is_uptrend == True and self.buy_order == False:
+                # Is in an uptrend so could place buy order if criteria is met
+                if self.data_close[0] <= self.ema25[0] and self.data_close[0] > self.ema100[0]:
+                    if self.is_below_25_or_50_ema == False:
+                        self.is_below_25_or_50_ema = True
+                elif self.data_close[0] > self.ema25[0] > self.ema50[0] > self.ema100[0]:
+                    if self.is_below_25_or_50_ema:
+                        self.order = self.buy()
+                        self.buy_order = True
+                        self.is_uptrend = self.is_below_25_or_50_ema = False
+                        self.stop_loss = round(self.ema50[0],2)
+                        self.take_profit = round(self.data_close[0] + (self.data_close[0] - self.stop_loss) * 1.5, 2)
+                else:
+                    self.is_uptrend = self.is_below_25_or_50_ema = False
 
-
-            # Check for down trend
-            if self.is_uptrend == False and self.is_downtrend == False:
-                pass
-            elif self.is_downtrend == True:
-                pass
-            # in a down trend
+            # Check if in downtrend
+            if self.is_downtrend == False and self.is_uptrend == False and self.sell_order == False:
+                self.is_downtrend = True
+                for i in range(15):
+                    if not (self.ema25[-i] <= self.ema25[-i-1] and \
+                            self.ema50[-i] <= self.ema50[-i-1] and \
+                            self.ema100[-i] <= self.ema100[-i-1] and \
+                            self.data_close[-i] < self.ema25[-i] < self.ema50[-i] < self.ema100[-i]):
+                        self.is_downtrend = False
+                        break
+            elif self.is_downtrend == True and self.sell_order == False:
+                # Is in a down trend so we could place a sell order if criteria is met
+                if self.data_close[0] >= self.ema25[0] and self.data_close[0] < self.ema100[0]:
+                    if self.is_above_25_or_50_ema == False:
+                        self.is_above_25_or_50_ema = True
+                elif self.data_close[0] < self.ema25[0] < self.ema50[0] < self.ema100[0]:
+                    if self.is_above_25_or_50_ema:
+                        self.order = self.sell()
+                        self.sell_order = True
+                        self.is_downtrend = self.is_above_25_or_50_ema = False
+                        self.stop_loss = round(self.ema50[0], 2)
+                        self.take_profit = round(self.data_close[0] - (self.stop_loss - self.data_close[0]) * 1.5, 2)
         else:
-            pass
-            # Stop loss and take profit for buy order
+            # Sell for the placed buy order
+            # TODO: Set time expiry for stop loss and take profit like after 15 ticks or something if not yet sold
+            if self.data_close[0] <= self.stop_loss or \
+                    self.data_close[0] >= self.take_profit or \
+                    self.duration_for_order == self.max_duration and \
+                    self.buy_order == True:
+                self.order = self.sell()
+                self.is_uptrend = self.is_below_25_or_50_ema = self.buy_order = False
+                self.duration_for_order = -1
 
-            # Stop loss and take profit for sell order
+            # Buy for the placed sell order
+            if self.data_close[0] >= self.stop_loss or \
+                    self.data_close[0] <= self.take_profit or \
+                    self.duration_for_order == self.max_duration and \
+                    self.sell_order == True:
+                self.order = self.buy()
+                self.is_downtrend = self.is_above_25_or_50_ema = self.sell_order = False
+                self.duration_for_order = -1
+            self.duration_for_order += 1
+
 
 def parse_args():
     parser = argparse.ArgumentParser(
@@ -187,7 +234,7 @@ def perform_simulation(args):
     cerebro.broker.setcash(cash)
 
     # Add a sizer to determine number of shares should be brought with max value for a buy trade
-    # cerebro.addsizer(MaxCostSizer, max_trade_value=cash, initial_trade_value=cash)
+    cerebro.addsizer(MaxCostSizer, max_trade_value=cash, initial_trade_value=cash)
 
     # Set the commission - 0% ... divide by 100 to remove the %
     cerebro.broker.setcommission(commission=0.0)
