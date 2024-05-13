@@ -34,7 +34,7 @@ The motivation behind creating this project is to create a day trading bot that 
 ## Roadmap
 
 - [x] Backtest a simple strategy
-- [ ] Backtest trending strategy
+- [x] Backtest trending strategy
 - [ ] Backtest scalping strategy
 - [ ] Implement a day trading bot
 	- [ ] Trending strategy
@@ -54,7 +54,7 @@ Viewing the results we can see that this strategy provided a positive yield maki
 
 To implement this onto the day trading bot we would need to determine what timeframe would be best used for this strategy.
 
-### Backtest Scalping strategy
+### Backtest Scalping Strategy
 
 This scalping strategy involved the use of three exponential moving averages: 25, 50 and 100 period. This was tested for the daily intervals where we looked for existing trends where all three lines needed to be heading in the same direction either in an uptrend or downtrend and the candles are outside of the EMAs. During an uptrend when prices make a pullback to below the 25 or 50 EMA this acts as our entry setup. Once the price goes back to the 25 EMA we take a buy position. Setting a stop-loss at the 50 EMA and the take-profit at 1.5 times that of the stop-loss. However if the price falls below the 100 EMA we cancel our setup. During a downtrend when prices make a pullback to above the 25 or 50 EMA this acts as our entry setup. Once the price falls back to the 25 EMA we take a sell position. Setting a stop-loss at the 50 EMA and the take-profit at 1.5 times that of the stop-loss. However if the price rises above the 100 EMA we cancel our setup. Additionally, we set a duration for how long to hold onto the buy or sell option as part of the exit strategy if we fail to hit either the stop-loss or take-profit.
 
@@ -67,6 +67,8 @@ When comparing the scalping strategy against the simple strategy the combined pr
 Although this strategy provided positive yeld making profits changes made to determining when we are in an uptrend or downtrend and prices for stop-loss and take-profit could potentially yield higher profits which would need to be tested.
 
 To implement this into the day trading bot the timeframe that would be used is either 1 minute or 5 minute timeframes.
+
+### Backtest Trending Strategy
 
 ## Contact
 
