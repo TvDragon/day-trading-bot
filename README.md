@@ -34,8 +34,8 @@ The motivation behind creating this project is to create a day trading bot that 
 ## Roadmap
 
 - [x] Backtest a simple strategy
-- [x] Backtest trending strategy
-- [ ] Backtest scalping strategy
+- [x] Backtest scalping strategy
+- [ ] Backtest trending strategy
 - [ ] Implement a day trading bot
 	- [ ] Trending strategy
 	- [ ] Scalping strategy
