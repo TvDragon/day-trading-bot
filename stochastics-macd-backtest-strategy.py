@@ -5,15 +5,10 @@ import os.path
 import sys
 
 class StochasticStrategy(bt.Strategy):
-    lines = ('k', 'd')
-
     params = (
             ('exitbars', 5),
             ('file_handle', None),
             ('ema_period', 200),
-            ('period', 14),     # Stochastic
-            ('period_d', 3),    # Period for %D line
-            ('smooth_d', 3)     # Smoothing period for %D line 
         )
 
     def log(self, txt, dt=None):
@@ -29,9 +24,6 @@ class StochasticStrategy(bt.Strategy):
         self.buy_price = None
         self.buy_comm = None
         self.size = 0
-
-        # Ensure enough data for calculation
-        self.addminperiod(self.params.period)
 
         # Create EMAs
         self.ema200 = bt.indicators.ExponentialMovingAverage(self.data, period=self.params.ema_period)
@@ -77,26 +69,6 @@ class StochasticStrategy(bt.Strategy):
 
     def next(self):
         self.log('Open, %.2f' % self.data_close[0])
-
-        # Get high, low, and close prices for the required period
-        high = self.data.high.get(size=self.params.period)
-        low = self.data.low.get(size=self.params.period)
-        close = self.data.close.get(size=self.params.period)
-
-        # Calculate %k
-        highest_high = max(high)
-        lowest_low = max(low)
-        if highest_high != lowest_low:
-            k = 100 * ((close[-1] - lowest_low) / (highest_high - lowest_low))
-        else:
-            k = 0.0
-
-        # Calculate %D
-        d = bt.indicators.SMA(bt.indicators.SMA(bt.indicators.SMA(k, period=self.params.period_d), period=self.params.smooth_d), period=self.params.smooth_d)
-
-        # Update the %K and %D lines
-        self.lines.k[0] = k
-        self.lines.d[0] = d
 
         # If order is still pending we cannot place another order
         if self.order:
