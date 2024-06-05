@@ -4,6 +4,35 @@ import datetime
 import os.path
 import sys
 
+class Stochastic(bt.Indicator):
+    lines = ('k', 'd')
+
+    params = (
+            ('period_k', 14),
+            ('period_d', 3),
+            ('smooth_d', 3)
+        )
+
+    def __init__(self):
+        # Adding minimum period required for the indicator calculations
+        self.addminperiod(self.params.period_k + self.params.period_d + self.params.smooth_d - 2)
+
+        # Get highest high over the previous k trading sessions
+        highest_high = bt.ind.Highest(self.data.high, period=self.params.period_k)
+        # Get lowest low over the previous k trading sessions
+        lowest_low = bt.ind.Lowest(self.data.low, period=self.params.period_k)
+
+        # %D line calcuation
+        self.lines.k = 100 * (self.data.close - lowest_low) / (highest_high - lowest_low)
+        # Smooth %D line calculation
+        self.lines.d = bt.indicators.SMA(self.lines.k, period=self.params.period_d)
+        self.lines.d_smooth = bt.indicators.SMA(self.lines.d, period=self.params.smooth_d)
+
+    def next(self):
+        # Assigning the smoothed %D to the output line
+        self.lines.k[0] = self.lines.k[0]
+        self.lines.d[0] = self.lines.d_smooth[0]
+
 class StochasticStrategy(bt.Strategy):
     params = (
             ('exitbars', 5),
@@ -16,6 +45,8 @@ class StochasticStrategy(bt.Strategy):
         self.params.file_handle.write("{}, {}\n".format(dt.isoformat(), txt))
     
     def __init__(self):
+        self.stochastic = Stochastic(self.data)
+
         # Keep a reference to the "close" line in the data[0] dataseries
         self.data_close = self.datas[0].close
 
