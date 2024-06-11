@@ -79,6 +79,7 @@ class StochasticStrategy(bt.Strategy):
         self.buy_order = self.sell_order = False
         self.duration_for_order = 0
         self.max_duration = 30
+        self.stochastic_at_oversold = self.stochastic_at_overbrought = False
 
     def notify_order(self, order):
         if order.status in [order.Submitted, order.Accepted]:
@@ -120,10 +121,83 @@ class StochasticStrategy(bt.Strategy):
             return
 
         # Check if we are in the market
-        if not self.position:
-            pass
+        if not self.position and self.buy_order == False and self.sell_order == False:
+            # Check if in uptrend
+            if self.is_uptrend == False and self.is_downtrend == False and self.buy_order == False:
+                # Setup for potential buy order
+                self.is_uptrend = True
+                for i in range(15):
+                    if not (self.data_close[-i] > self.ema200[-i]):
+                        self.is_uptrend = False
+                        break
+            elif self.is_uptrend == True and self.buy_order == False:
+                # Is in an uptrend so could place buy order if criteria is met
+                if self.stochastic.k[0] <= 20 and self.stochastic.d[0] <= 20:
+                    self.stochastic_at_oversold = True
+                elif self.stochastic.k[0] > 20 and self.stochastic.d[0] > 20 and self.stochastic_at_oversold == True:
+                    if self.macd.macd[0] >= self.macd.signal[0]:
+                        cash = self.broker.get_cash()
+                        max_shares_to_buy = int(cash / self.data_close[0])
+                        self.order = self.buy(size=max_shares_to_buy)
+                        self.buy_order = True
+                        self.is_uptrend = self.stochastic_at_oversold = False
+                        
+                        self.stop_loss = round(self.data_close[-1], 2)
+                        i = 2
+                        while i < 15 or self.stop_loss == round(self.data_close[0], 2):
+                            if self.data_close[-i] < self.stop_loss:
+                                self.stop_loss = round(self.data_close[-i], 2)
+                            i += 1
+                        self.take_profit = round(self.data_close[0] + (self.data_close[0] - self.stop_loss) * 2, 2) 
+
+            # Check if in downtrend
+            if self.is_uptrend == False and self.is_downtrend == False and self.sell_order == False:
+                # Setup for potential sell order
+                self.is_downtrend = True
+                for i in range(15):
+                    if not (self.data_close[-i] < self.ema200[-i]):
+                        self.is_downtrend = False
+                        break
+            elif self.is_downtrend == True and self.sell_order == False:
+                # Is in a downtrend so could place sell order if criteria is met
+                if self.stochastic.k[0] >= 80 and self.stochastic.d[0] >= 80:
+                    self.stochastic_at_overbrought = True
+                elif self.stochastic.k[0] < 80 and self.stochastic.d[0] < 80 and self.stochastic_at_overbrought == True:
+                    if self.macd.macd[0] <= self.macd.signal[0]:
+                        cash = self.broker.get_cash()
+                        max_shares_to_sell = int(cash / self.data_close[0])
+                        self.order = self.sell(size=max_shares_to_sell)
+                        self.sell_order = True
+                        self.is_downtrend = self.stochastic_at_overbrought = False
+
+                        self.stop_loss = round(self.data_close[-1], 2)
+                        i = 2
+                        while i < 15 or self.stop_loss == round(self.data_close[0], 2):
+                            if self.data_close[-i] > self.stop_loss:
+                                self.stop_loss = round(self.data_close[-i], 2)
+                            i += 1
+                        self.take_profit = round(self.data_close[0] - (self.stop_loss - self.data_close[0]) * 2, 2)
         else:
-            pass
+
+            # Sell for placed buy order
+            if self.data_close[0] <= self.stop_loss or \
+                    self.data_close[0] >= self.take_profit or \
+                    self.duration_for_order == self.max_duration and \
+                    self.buy_order == True:
+                self.order = self.sell(size=self.position.size)
+                self.is_uptrend = self.stochastic_at_oversold = self.buy_order = False
+                self.duration_for_order = -1
+
+            # Buy for placed sell order
+            if self.data_close[0] >= self.stop_loss or \
+                    self.data_close[0] <= self.take_profit or \
+                    self.duration_for_order == self.max_duration and \
+                    self.sell_order == True:
+                self.order = self.buy(size=self.position.size)
+                self.is_downtrend = self.stochastic_at_overbrought = self.sell_order = False
+                self.duration_for_order = -1
+
+            self.duration_for_order += 1
 
 def parse_args():
     parser = argparse.ArgumentParser(
@@ -211,5 +285,8 @@ def perform_simulation(args):
 if __name__ == '__main__':
 
     args = parse_args()
-    perform_simulation(args)
+    choices=['cba', 'gmg', 'ioo', 'ndq', 'vas', 'wes']
+    for choice in choices:
+        args.dataname = choice
+        perform_simulation(args)
 

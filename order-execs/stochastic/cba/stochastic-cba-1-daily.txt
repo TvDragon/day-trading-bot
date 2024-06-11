@@ -1,3 +1,3562 @@
 Share Name: CBA
 Starting Portfolio Value: 1000.00
 2019-10-15, Open, 66.57
+2019-10-16, Open, 67.51
+2019-10-17, Open, 67.24
+2019-10-18, Open, 66.84
+2019-10-21, Open, 66.97
+2019-10-22, Open, 66.86
+2019-10-23, Open, 67.10
+2019-10-24, Open, 67.39
+2019-10-25, Open, 67.73
+2019-10-28, Open, 67.55
+2019-10-29, Open, 67.53
+2019-10-30, Open, 66.89
+2019-10-31, Open, 66.02
+2019-11-01, Open, 65.67
+2019-11-04, Open, 64.67
+2019-11-05, Open, 65.22
+2019-11-06, Open, 65.47
+2019-11-07, Open, 66.34
+2019-11-08, Open, 66.45
+2019-11-11, Open, 67.19
+2019-11-12, Open, 67.84
+2019-11-13, Open, 66.51
+2019-11-14, Open, 66.95
+2019-11-15, Open, 67.72
+2019-11-18, Open, 67.43
+2019-11-19, Open, 67.71
+2019-11-20, Open, 66.81
+2019-11-21, Open, 66.58
+2019-11-22, Open, 66.81
+2019-11-25, Open, 67.05
+2019-11-26, Open, 67.77
+2019-11-27, Open, 68.56
+2019-11-28, Open, 68.49
+2019-11-29, Open, 67.83
+2019-12-02, Open, 68.35
+2019-12-03, Open, 66.59
+2019-12-04, Open, 65.31
+2019-12-05, Open, 65.99
+2019-12-06, Open, 66.30
+2019-12-09, Open, 66.52
+2019-12-10, Open, 66.50
+2019-12-11, Open, 67.41
+2019-12-12, Open, 66.91
+2019-12-13, Open, 67.20
+2019-12-16, Open, 68.37
+2019-12-17, Open, 68.74
+2019-12-18, Open, 68.74
+2019-12-19, Open, 68.60
+2019-12-20, Open, 68.19
+2019-12-23, Open, 67.85
+2019-12-24, Open, 67.74
+2019-12-27, Open, 68.04
+2019-12-30, Open, 68.07
+2019-12-31, Open, 67.06
+2020-01-02, Open, 67.05
+2020-01-03, Open, 67.41
+2020-01-06, Open, 66.95
+2020-01-07, Open, 68.15
+2020-01-08, Open, 67.90
+2020-01-09, Open, 68.40
+2020-01-10, Open, 69.24
+2020-01-13, Open, 69.23
+2020-01-14, Open, 69.81
+2020-01-15, Open, 70.22
+2020-01-16, Open, 70.89
+2020-01-17, Open, 70.55
+2020-01-20, Open, 70.44
+2020-01-21, Open, 70.07
+2020-01-22, Open, 70.88
+2020-01-23, Open, 70.94
+2020-01-24, Open, 71.29
+2020-01-28, Open, 70.52
+2020-01-29, Open, 71.02
+2020-01-30, Open, 71.71
+2020-01-31, Open, 71.56
+2020-02-03, Open, 70.96
+2020-02-04, Open, 70.76
+2020-02-05, Open, 69.90
+2020-02-06, Open, 70.70
+2020-02-07, Open, 71.17
+2020-02-10, Open, 70.77
+2020-02-11, Open, 71.11
+2020-02-12, Open, 74.01
+2020-02-13, Open, 74.47
+2020-02-14, Open, 76.37
+2020-02-17, Open, 75.09
+2020-02-18, Open, 75.76
+2020-02-19, Open, 75.39
+2020-02-20, Open, 75.41
+2020-02-21, Open, 76.22
+2020-02-24, Open, 75.53
+2020-02-25, Open, 74.50
+2020-02-26, Open, 73.26
+2020-02-27, Open, 72.47
+2020-02-28, Open, 70.20
+2020-03-02, Open, 69.07
+2020-03-03, Open, 67.90
+2020-03-04, Open, 66.19
+2020-03-05, Open, 65.88
+2020-03-06, Open, 63.46
+2020-03-09, Open, 59.35
+2020-03-10, Open, 62.98
+2020-03-11, Open, 58.80
+2020-03-12, Open, 54.17
+2020-03-13, Open, 56.96
+2020-03-16, Open, 51.26
+2020-03-17, Open, 58.06
+2020-03-18, Open, 54.89
+2020-03-19, Open, 52.32
+2020-03-20, Open, 51.42
+2020-03-23, Open, 46.57
+2020-03-24, Open, 48.93
+2020-03-25, Open, 53.56
+2020-03-26, Open, 53.05
+2020-03-27, Open, 49.49
+2020-03-30, Open, 54.89
+2020-03-31, BUY EXECUTED, Size: 18, Price: 55.45, Cost: 998.10, Comm 0.00
+2020-03-31, Open, 53.06
+2020-04-01, Order Canceled/Margin/Rejected
+2020-04-01, Open, 54.65
+2020-04-02, Order Canceled/Margin/Rejected
+2020-04-02, Open, 52.56
+2020-04-03, Order Canceled/Margin/Rejected
+2020-04-03, Open, 51.59
+2020-04-06, Order Canceled/Margin/Rejected
+2020-04-06, Open, 53.62
+2020-04-07, Order Canceled/Margin/Rejected
+2020-04-07, Open, 53.11
+2020-04-08, Order Canceled/Margin/Rejected
+2020-04-08, Open, 51.34
+2020-04-09, Order Canceled/Margin/Rejected
+2020-04-09, Open, 53.01
+2020-04-14, Order Canceled/Margin/Rejected
+2020-04-14, Open, 53.86
+2020-04-15, Order Canceled/Margin/Rejected
+2020-04-15, Open, 53.28
+2020-04-16, Order Canceled/Margin/Rejected
+2020-04-16, Open, 52.58
+2020-04-17, Order Canceled/Margin/Rejected
+2020-04-17, Open, 52.41
+2020-04-20, Order Canceled/Margin/Rejected
+2020-04-20, Open, 51.40
+2020-04-21, Order Canceled/Margin/Rejected
+2020-04-21, Open, 50.32
+2020-04-22, Order Canceled/Margin/Rejected
+2020-04-22, Open, 50.86
+2020-04-23, Order Canceled/Margin/Rejected
+2020-04-23, Open, 50.50
+2020-04-24, Order Canceled/Margin/Rejected
+2020-04-24, Open, 50.54
+2020-04-27, Order Canceled/Margin/Rejected
+2020-04-27, Open, 50.54
+2020-04-28, Order Canceled/Margin/Rejected
+2020-04-28, Open, 50.31
+2020-04-29, Order Canceled/Margin/Rejected
+2020-04-29, Open, 52.42
+2020-04-30, Order Canceled/Margin/Rejected
+2020-04-30, Open, 53.81
+2020-05-01, Order Canceled/Margin/Rejected
+2020-05-01, Open, 50.50
+2020-05-04, Order Canceled/Margin/Rejected
+2020-05-04, Open, 51.40
+2020-05-05, Order Canceled/Margin/Rejected
+2020-05-05, Open, 52.23
+2020-05-06, Order Canceled/Margin/Rejected
+2020-05-06, Open, 51.80
+2020-05-07, Order Canceled/Margin/Rejected
+2020-05-07, Open, 50.87
+2020-05-08, Order Canceled/Margin/Rejected
+2020-05-08, Open, 51.16
+2020-05-11, Order Canceled/Margin/Rejected
+2020-05-11, Open, 51.62
+2020-05-12, Order Canceled/Margin/Rejected
+2020-05-12, Open, 51.25
+2020-05-13, Order Canceled/Margin/Rejected
+2020-05-13, Open, 52.23
+2020-05-14, Order Canceled/Margin/Rejected
+2020-05-14, Open, 50.56
+2020-05-15, Order Canceled/Margin/Rejected
+2020-05-15, Open, 51.16
+2020-05-18, Order Canceled/Margin/Rejected
+2020-05-18, Open, 50.56
+2020-05-19, Order Canceled/Margin/Rejected
+2020-05-19, Open, 51.20
+2020-05-20, Order Canceled/Margin/Rejected
+2020-05-20, Open, 51.56
+2020-05-21, Order Canceled/Margin/Rejected
+2020-05-21, Open, 50.69
+2020-05-22, Order Canceled/Margin/Rejected
+2020-05-22, Open, 50.38
+2020-05-25, Order Canceled/Margin/Rejected
+2020-05-25, Open, 50.63
+2020-05-26, Order Canceled/Margin/Rejected
+2020-05-26, Open, 52.62
+2020-05-27, Order Canceled/Margin/Rejected
+2020-05-27, Open, 55.19
+2020-05-28, Order Canceled/Margin/Rejected
+2020-05-28, Open, 56.42
+2020-05-29, Order Canceled/Margin/Rejected
+2020-05-29, Open, 54.72
+2020-06-01, Order Canceled/Margin/Rejected
+2020-06-01, Open, 54.85
+2020-06-02, Order Canceled/Margin/Rejected
+2020-06-02, Open, 54.96
+2020-06-03, Order Canceled/Margin/Rejected
+2020-06-03, Open, 56.75
+2020-06-04, Order Canceled/Margin/Rejected
+2020-06-04, Open, 58.08
+2020-06-05, Order Canceled/Margin/Rejected
+2020-06-05, Open, 58.99
+2020-06-09, Order Canceled/Margin/Rejected
+2020-06-09, Open, 61.97
+2020-06-10, Order Canceled/Margin/Rejected
+2020-06-10, Open, 61.46
+2020-06-11, Order Canceled/Margin/Rejected
+2020-06-11, Open, 58.74
+2020-06-12, Order Canceled/Margin/Rejected
+2020-06-12, Open, 57.78
+2020-06-15, Order Canceled/Margin/Rejected
+2020-06-15, Open, 56.91
+2020-06-16, Order Canceled/Margin/Rejected
+2020-06-16, Open, 59.30
+2020-06-17, Order Canceled/Margin/Rejected
+2020-06-17, Open, 59.73
+2020-06-18, Order Canceled/Margin/Rejected
+2020-06-18, Open, 59.23
+2020-06-19, Order Canceled/Margin/Rejected
+2020-06-19, Open, 58.95
+2020-06-22, Order Canceled/Margin/Rejected
+2020-06-22, Open, 59.60
+2020-06-23, Order Canceled/Margin/Rejected
+2020-06-23, Open, 59.25
+2020-06-24, Order Canceled/Margin/Rejected
+2020-06-24, Open, 59.43
+2020-06-25, Order Canceled/Margin/Rejected
+2020-06-25, Open, 58.07
+2020-06-26, Order Canceled/Margin/Rejected
+2020-06-26, Open, 59.46
+2020-06-29, Order Canceled/Margin/Rejected
+2020-06-29, Open, 58.87
+2020-06-30, Order Canceled/Margin/Rejected
+2020-06-30, Open, 59.59
+2020-07-01, Order Canceled/Margin/Rejected
+2020-07-01, Open, 59.98
+2020-07-02, Order Canceled/Margin/Rejected
+2020-07-02, Open, 61.03
+2020-07-03, Order Canceled/Margin/Rejected
+2020-07-03, Open, 61.43
+2020-07-06, Order Canceled/Margin/Rejected
+2020-07-06, Open, 61.30
+2020-07-07, Order Canceled/Margin/Rejected
+2020-07-07, Open, 61.15
+2020-07-08, Order Canceled/Margin/Rejected
+2020-07-08, Open, 60.56
+2020-07-09, Order Canceled/Margin/Rejected
+2020-07-09, Open, 60.44
+2020-07-10, Order Canceled/Margin/Rejected
+2020-07-10, Open, 60.62
+2020-07-13, Order Canceled/Margin/Rejected
+2020-07-13, Open, 61.90
+2020-07-14, Order Canceled/Margin/Rejected
+2020-07-14, Open, 61.57
+2020-07-15, Order Canceled/Margin/Rejected
+2020-07-15, Open, 62.43
+2020-07-16, Order Canceled/Margin/Rejected
+2020-07-16, Open, 62.35
+2020-07-17, Order Canceled/Margin/Rejected
+2020-07-17, Open, 62.32
+2020-07-20, Order Canceled/Margin/Rejected
+2020-07-20, Open, 61.79
+2020-07-21, Order Canceled/Margin/Rejected
+2020-07-21, Open, 63.89
+2020-07-22, Order Canceled/Margin/Rejected
+2020-07-22, Open, 63.63
+2020-07-23, Order Canceled/Margin/Rejected
+2020-07-23, Open, 63.29
+2020-07-24, Order Canceled/Margin/Rejected
+2020-07-24, Open, 62.54
+2020-07-27, Order Canceled/Margin/Rejected
+2020-07-27, Open, 62.22
+2020-07-28, Order Canceled/Margin/Rejected
+2020-07-28, Open, 61.98
+2020-07-29, Order Canceled/Margin/Rejected
+2020-07-29, Open, 62.67
+2020-07-30, Order Canceled/Margin/Rejected
+2020-07-30, Open, 62.85
+2020-07-31, Order Canceled/Margin/Rejected
+2020-07-31, Open, 61.11
+2020-08-03, Order Canceled/Margin/Rejected
+2020-08-03, Open, 60.02
+2020-08-04, Order Canceled/Margin/Rejected
+2020-08-04, Open, 61.37
+2020-08-05, Order Canceled/Margin/Rejected
+2020-08-05, Open, 61.54
+2020-08-06, Order Canceled/Margin/Rejected
+2020-08-06, Open, 61.55
+2020-08-07, Order Canceled/Margin/Rejected
+2020-08-07, Open, 61.39
+2020-08-10, Order Canceled/Margin/Rejected
+2020-08-10, Open, 63.50
+2020-08-11, Order Canceled/Margin/Rejected
+2020-08-11, Open, 64.12
+2020-08-12, Order Canceled/Margin/Rejected
+2020-08-12, Open, 63.81
+2020-08-13, Order Canceled/Margin/Rejected
+2020-08-13, Open, 62.17
+2020-08-14, Order Canceled/Margin/Rejected
+2020-08-14, Open, 61.59
+2020-08-17, Order Canceled/Margin/Rejected
+2020-08-17, Open, 60.74
+2020-08-18, Order Canceled/Margin/Rejected
+2020-08-18, Open, 60.50
+2020-08-19, Order Canceled/Margin/Rejected
+2020-08-19, Open, 61.84
+2020-08-20, Order Canceled/Margin/Rejected
+2020-08-20, Open, 61.16
+2020-08-21, Order Canceled/Margin/Rejected
+2020-08-21, Open, 60.61
+2020-08-24, Order Canceled/Margin/Rejected
+2020-08-24, Open, 60.02
+2020-08-25, Order Canceled/Margin/Rejected
+2020-08-25, Open, 61.32
+2020-08-26, Order Canceled/Margin/Rejected
+2020-08-26, Open, 60.63
+2020-08-27, Order Canceled/Margin/Rejected
+2020-08-27, Open, 60.12
+2020-08-28, Order Canceled/Margin/Rejected
+2020-08-28, Open, 60.14
+2020-08-31, Order Canceled/Margin/Rejected
+2020-08-31, Open, 59.43
+2020-09-01, Order Canceled/Margin/Rejected
+2020-09-01, Open, 58.14
+2020-09-02, Order Canceled/Margin/Rejected
+2020-09-02, Open, 58.85
+2020-09-03, Order Canceled/Margin/Rejected
+2020-09-03, Open, 59.35
+2020-09-04, Order Canceled/Margin/Rejected
+2020-09-04, Open, 58.08
+2020-09-07, Order Canceled/Margin/Rejected
+2020-09-07, Open, 58.64
+2020-09-08, Order Canceled/Margin/Rejected
+2020-09-08, Open, 59.62
+2020-09-09, Order Canceled/Margin/Rejected
+2020-09-09, Open, 58.14
+2020-09-10, Order Canceled/Margin/Rejected
+2020-09-10, Open, 58.08
+2020-09-11, Order Canceled/Margin/Rejected
+2020-09-11, Open, 57.28
+2020-09-14, Order Canceled/Margin/Rejected
+2020-09-14, Open, 57.60
+2020-09-15, Order Canceled/Margin/Rejected
+2020-09-15, Open, 56.61
+2020-09-16, Order Canceled/Margin/Rejected
+2020-09-16, Open, 57.19
+2020-09-17, Order Canceled/Margin/Rejected
+2020-09-17, Open, 56.58
+2020-09-18, Order Canceled/Margin/Rejected
+2020-09-18, Open, 56.03
+2020-09-21, Order Canceled/Margin/Rejected
+2020-09-21, Open, 55.27
+2020-09-22, Order Canceled/Margin/Rejected
+2020-09-22, Open, 54.90
+2020-09-23, Order Canceled/Margin/Rejected
+2020-09-23, Open, 55.94
+2020-09-24, Order Canceled/Margin/Rejected
+2020-09-24, Open, 55.88
+2020-09-25, Order Canceled/Margin/Rejected
+2020-09-25, Open, 57.56
+2020-09-28, Order Canceled/Margin/Rejected
+2020-09-28, Open, 57.01
+2020-09-29, Order Canceled/Margin/Rejected
+2020-09-29, Open, 56.60
+2020-09-30, Order Canceled/Margin/Rejected
+2020-09-30, Open, 55.37
+2020-10-01, Order Canceled/Margin/Rejected
+2020-10-01, Open, 55.74
+2020-10-02, Order Canceled/Margin/Rejected
+2020-10-02, Open, 55.46
+2020-10-05, Order Canceled/Margin/Rejected
+2020-10-05, Open, 57.44
+2020-10-06, Order Canceled/Margin/Rejected
+2020-10-06, Open, 57.58
+2020-10-07, Order Canceled/Margin/Rejected
+2020-10-07, Open, 58.82
+2020-10-08, Order Canceled/Margin/Rejected
+2020-10-08, Open, 59.29
+2020-10-09, Order Canceled/Margin/Rejected
+2020-10-09, Open, 58.94
+2020-10-12, Order Canceled/Margin/Rejected
+2020-10-12, Open, 59.72
+2020-10-13, Order Canceled/Margin/Rejected
+2020-10-13, Open, 60.39
+2020-10-14, Order Canceled/Margin/Rejected
+2020-10-14, Open, 59.77
+2020-10-15, Order Canceled/Margin/Rejected
+2020-10-15, Open, 60.30
+2020-10-16, Order Canceled/Margin/Rejected
+2020-10-16, Open, 60.27
+2020-10-19, Order Canceled/Margin/Rejected
+2020-10-19, Open, 60.94
+2020-10-20, Order Canceled/Margin/Rejected
+2020-10-20, Open, 60.18
+2020-10-21, Order Canceled/Margin/Rejected
+2020-10-21, Open, 60.64
+2020-10-22, Order Canceled/Margin/Rejected
+2020-10-22, Open, 60.35
+2020-10-23, Order Canceled/Margin/Rejected
+2020-10-23, Open, 60.84
+2020-10-26, Order Canceled/Margin/Rejected
+2020-10-26, Open, 60.68
+2020-10-27, Order Canceled/Margin/Rejected
+2020-10-27, Open, 59.84
+2020-10-28, Order Canceled/Margin/Rejected
+2020-10-28, Open, 59.58
+2020-10-29, Order Canceled/Margin/Rejected
+2020-10-29, Open, 59.31
+2020-10-30, Order Canceled/Margin/Rejected
+2020-10-30, Open, 60.08
+2020-11-02, Order Canceled/Margin/Rejected
+2020-11-02, Open, 59.95
+2020-11-03, Order Canceled/Margin/Rejected
+2020-11-03, Open, 60.77
+2020-11-04, Order Canceled/Margin/Rejected
+2020-11-04, Open, 59.55
+2020-11-05, Order Canceled/Margin/Rejected
+2020-11-05, Open, 60.64
+2020-11-06, Order Canceled/Margin/Rejected
+2020-11-06, Open, 60.75
+2020-11-09, Order Canceled/Margin/Rejected
+2020-11-09, Open, 61.20
+2020-11-10, Order Canceled/Margin/Rejected
+2020-11-10, Open, 63.02
+2020-11-11, Order Canceled/Margin/Rejected
+2020-11-11, Open, 64.76
+2020-11-12, Order Canceled/Margin/Rejected
+2020-11-12, Open, 63.60
+2020-11-13, Order Canceled/Margin/Rejected
+2020-11-13, Open, 63.66
+2020-11-16, Order Canceled/Margin/Rejected
+2020-11-16, Open, 64.84
+2020-11-17, Order Canceled/Margin/Rejected
+2020-11-17, Open, 65.62
+2020-11-18, Order Canceled/Margin/Rejected
+2020-11-18, Open, 67.50
+2020-11-19, Order Canceled/Margin/Rejected
+2020-11-19, Open, 68.65
+2020-11-20, Order Canceled/Margin/Rejected
+2020-11-20, Open, 69.64
+2020-11-23, Order Canceled/Margin/Rejected
+2020-11-23, Open, 69.29
+2020-11-24, Order Canceled/Margin/Rejected
+2020-11-24, Open, 70.65
+2020-11-25, Order Canceled/Margin/Rejected
+2020-11-25, Open, 71.70
+2020-11-26, SELL EXECUTED, Size: -18, Price: 71.29, Cost: 998.10, Comm 0.00
+2020-11-26, BUY EXECUTED, Size: 18, Price: 71.29, Cost: 1283.22, Comm 0.00
+2020-11-26, OPERATION PROFIT, GROSS 285.12, NET 285.12
+2020-11-26, Open, 70.58
+2020-11-27, Order Canceled/Margin/Rejected
+2020-11-27, Open, 70.25
+2020-11-30, Order Canceled/Margin/Rejected
+2020-11-30, Open, 68.83
+2020-12-01, Order Canceled/Margin/Rejected
+2020-12-01, Open, 69.85
+2020-12-02, Order Canceled/Margin/Rejected
+2020-12-02, Open, 69.72
+2020-12-03, Order Canceled/Margin/Rejected
+2020-12-03, Open, 69.25
+2020-12-04, Order Canceled/Margin/Rejected
+2020-12-04, Open, 69.79
+2020-12-07, Order Canceled/Margin/Rejected
+2020-12-07, Open, 70.28
+2020-12-08, Order Canceled/Margin/Rejected
+2020-12-08, Open, 71.21
+2020-12-09, Order Canceled/Margin/Rejected
+2020-12-09, Open, 72.40
+2020-12-10, SELL EXECUTED, Size: -18, Price: 72.73, Cost: 1283.22, Comm 0.00
+2020-12-10, BUY EXECUTED, Size: 18, Price: 72.73, Cost: 1309.14, Comm 0.00
+2020-12-10, OPERATION PROFIT, GROSS 25.92, NET 25.92
+2020-12-10, Open, 72.33
+2020-12-11, SELL EXECUTED, Size: -18, Price: 72.16, Cost: 1309.14, Comm 0.00
+2020-12-11, BUY EXECUTED, Size: 18, Price: 72.16, Cost: 1298.88, Comm 0.00
+2020-12-11, OPERATION PROFIT, GROSS -10.26, NET -10.26
+2020-12-11, Open, 71.72
+2020-12-14, SELL EXECUTED, Size: -18, Price: 71.81, Cost: 1298.88, Comm 0.00
+2020-12-14, BUY EXECUTED, Size: 18, Price: 71.81, Cost: 1292.58, Comm 0.00
+2020-12-14, OPERATION PROFIT, GROSS -6.30, NET -6.30
+2020-12-14, Open, 73.05
+2020-12-15, SELL EXECUTED, Size: -18, Price: 73.38, Cost: 1292.58, Comm 0.00
+2020-12-15, BUY EXECUTED, Size: 18, Price: 73.38, Cost: 1320.84, Comm 0.00
+2020-12-15, OPERATION PROFIT, GROSS 28.26, NET 28.26
+2020-12-15, Open, 72.31
+2020-12-16, SELL EXECUTED, Size: -18, Price: 72.36, Cost: 1320.84, Comm 0.00
+2020-12-16, BUY EXECUTED, Size: 18, Price: 72.36, Cost: 1302.48, Comm 0.00
+2020-12-16, OPERATION PROFIT, GROSS -18.36, NET -18.36
+2020-12-16, Open, 72.99
+2020-12-17, SELL EXECUTED, Size: -18, Price: 73.63, Cost: 1302.48, Comm 0.00
+2020-12-17, BUY EXECUTED, Size: 18, Price: 73.63, Cost: 1325.34, Comm 0.00
+2020-12-17, OPERATION PROFIT, GROSS 22.86, NET 22.86
+2020-12-17, Open, 73.74
+2020-12-18, SELL EXECUTED, Size: -18, Price: 73.47, Cost: 1325.34, Comm 0.00
+2020-12-18, BUY EXECUTED, Size: 18, Price: 73.47, Cost: 1322.46, Comm 0.00
+2020-12-18, OPERATION PROFIT, GROSS -2.88, NET -2.88
+2020-12-18, Open, 72.39
+2020-12-21, SELL EXECUTED, Size: -18, Price: 72.35, Cost: 1322.46, Comm 0.00
+2020-12-21, BUY EXECUTED, Size: 18, Price: 72.35, Cost: 1302.30, Comm 0.00
+2020-12-21, OPERATION PROFIT, GROSS -20.16, NET -20.16
+2020-12-21, Open, 72.25
+2020-12-22, SELL EXECUTED, Size: -18, Price: 72.03, Cost: 1302.30, Comm 0.00
+2020-12-22, BUY EXECUTED, Size: 18, Price: 72.03, Cost: 1296.54, Comm 0.00
+2020-12-22, OPERATION PROFIT, GROSS -5.76, NET -5.76
+2020-12-22, Open, 71.74
+2020-12-23, SELL EXECUTED, Size: -18, Price: 72.06, Cost: 1296.54, Comm 0.00
+2020-12-23, BUY EXECUTED, Size: 18, Price: 72.06, Cost: 1297.08, Comm 0.00
+2020-12-23, OPERATION PROFIT, GROSS 0.54, NET 0.54
+2020-12-23, Open, 72.40
+2020-12-24, SELL EXECUTED, Size: -18, Price: 73.09, Cost: 1297.08, Comm 0.00
+2020-12-24, BUY EXECUTED, Size: 18, Price: 73.09, Cost: 1315.62, Comm 0.00
+2020-12-24, OPERATION PROFIT, GROSS 18.54, NET 18.54
+2020-12-24, Open, 72.38
+2020-12-29, SELL EXECUTED, Size: -18, Price: 72.94, Cost: 1315.62, Comm 0.00
+2020-12-29, BUY EXECUTED, Size: 18, Price: 72.94, Cost: 1312.92, Comm 0.00
+2020-12-29, OPERATION PROFIT, GROSS -2.70, NET -2.70
+2020-12-29, Open, 73.13
+2020-12-30, SELL EXECUTED, Size: -18, Price: 72.73, Cost: 1312.92, Comm 0.00
+2020-12-30, BUY EXECUTED, Size: 18, Price: 72.73, Cost: 1309.14, Comm 0.00
+2020-12-30, OPERATION PROFIT, GROSS -3.78, NET -3.78
+2020-12-30, Open, 72.76
+2020-12-31, SELL EXECUTED, Size: -18, Price: 72.60, Cost: 1309.14, Comm 0.00
+2020-12-31, BUY EXECUTED, Size: 18, Price: 72.60, Cost: 1306.80, Comm 0.00
+2020-12-31, OPERATION PROFIT, GROSS -2.34, NET -2.34
+2020-12-31, Open, 71.47
+2021-01-04, Order Canceled/Margin/Rejected
+2021-01-04, Open, 72.90
+2021-01-05, SELL EXECUTED, Size: -18, Price: 72.25, Cost: 1306.80, Comm 0.00
+2021-01-05, BUY EXECUTED, Size: 18, Price: 72.25, Cost: 1300.50, Comm 0.00
+2021-01-05, OPERATION PROFIT, GROSS -6.30, NET -6.30
+2021-01-05, Open, 72.45
+2021-01-06, SELL EXECUTED, Size: -18, Price: 71.98, Cost: 1300.50, Comm 0.00
+2021-01-06, BUY EXECUTED, Size: 18, Price: 71.98, Cost: 1295.64, Comm 0.00
+2021-01-06, OPERATION PROFIT, GROSS -4.86, NET -4.86
+2021-01-06, Open, 72.16
+2021-01-07, SELL EXECUTED, Size: -18, Price: 73.45, Cost: 1295.64, Comm 0.00
+2021-01-07, BUY EXECUTED, Size: 18, Price: 73.45, Cost: 1322.10, Comm 0.00
+2021-01-07, OPERATION PROFIT, GROSS 26.46, NET 26.46
+2021-01-07, Open, 73.62
+2021-01-08, SELL EXECUTED, Size: -18, Price: 73.98, Cost: 1322.10, Comm 0.00
+2021-01-08, BUY EXECUTED, Size: 18, Price: 73.98, Cost: 1331.64, Comm 0.00
+2021-01-08, OPERATION PROFIT, GROSS 9.54, NET 9.54
+2021-01-08, Open, 74.54
+2021-01-11, SELL EXECUTED, Size: -18, Price: 74.34, Cost: 1331.64, Comm 0.00
+2021-01-11, BUY EXECUTED, Size: 18, Price: 74.34, Cost: 1338.12, Comm 0.00
+2021-01-11, OPERATION PROFIT, GROSS 6.48, NET 6.48
+2021-01-11, Open, 74.13
+2021-01-12, SELL EXECUTED, Size: -18, Price: 74.41, Cost: 1338.12, Comm 0.00
+2021-01-12, BUY EXECUTED, Size: 18, Price: 74.41, Cost: 1339.38, Comm 0.00
+2021-01-12, OPERATION PROFIT, GROSS 1.26, NET 1.26
+2021-01-12, Open, 74.75
+2021-01-13, SELL EXECUTED, Size: -18, Price: 74.34, Cost: 1339.38, Comm 0.00
+2021-01-13, BUY EXECUTED, Size: 18, Price: 74.34, Cost: 1338.12, Comm 0.00
+2021-01-13, OPERATION PROFIT, GROSS -1.26, NET -1.26
+2021-01-13, Open, 74.83
+2021-01-14, SELL EXECUTED, Size: -18, Price: 74.42, Cost: 1338.12, Comm 0.00
+2021-01-14, BUY EXECUTED, Size: 18, Price: 74.42, Cost: 1339.56, Comm 0.00
+2021-01-14, OPERATION PROFIT, GROSS 1.44, NET 1.44
+2021-01-14, Open, 75.15
+2021-01-15, SELL EXECUTED, Size: -18, Price: 74.95, Cost: 1339.56, Comm 0.00
+2021-01-15, BUY EXECUTED, Size: 18, Price: 74.95, Cost: 1349.10, Comm 0.00
+2021-01-15, OPERATION PROFIT, GROSS 9.54, NET 9.54
+2021-01-15, Open, 74.32
+2021-01-18, SELL EXECUTED, Size: -18, Price: 74.07, Cost: 1349.10, Comm 0.00
+2021-01-18, BUY EXECUTED, Size: 18, Price: 74.07, Cost: 1333.26, Comm 0.00
+2021-01-18, OPERATION PROFIT, GROSS -15.84, NET -15.84
+2021-01-18, Open, 73.70
+2021-01-19, SELL EXECUTED, Size: -18, Price: 73.99, Cost: 1333.26, Comm 0.00
+2021-01-19, BUY EXECUTED, Size: 18, Price: 73.99, Cost: 1331.82, Comm 0.00
+2021-01-19, OPERATION PROFIT, GROSS -1.44, NET -1.44
+2021-01-19, Open, 74.08
+2021-01-20, SELL EXECUTED, Size: -18, Price: 74.08, Cost: 1331.82, Comm 0.00
+2021-01-20, BUY EXECUTED, Size: 18, Price: 74.08, Cost: 1333.44, Comm 0.00
+2021-01-20, OPERATION PROFIT, GROSS 1.62, NET 1.62
+2021-01-20, Open, 73.44
+2021-01-21, SELL EXECUTED, Size: -18, Price: 74.01, Cost: 1333.44, Comm 0.00
+2021-01-21, BUY EXECUTED, Size: 18, Price: 74.01, Cost: 1332.18, Comm 0.00
+2021-01-21, OPERATION PROFIT, GROSS -1.26, NET -1.26
+2021-01-21, Open, 74.27
+2021-01-22, SELL EXECUTED, Size: -18, Price: 73.99, Cost: 1332.18, Comm 0.00
+2021-01-22, BUY EXECUTED, Size: 18, Price: 73.99, Cost: 1331.82, Comm 0.00
+2021-01-22, OPERATION PROFIT, GROSS -0.36, NET -0.36
+2021-01-22, Open, 74.07
+2021-01-25, SELL EXECUTED, Size: -18, Price: 74.08, Cost: 1331.82, Comm 0.00
+2021-01-25, BUY EXECUTED, Size: 18, Price: 74.08, Cost: 1333.44, Comm 0.00
+2021-01-25, OPERATION PROFIT, GROSS 1.62, NET 1.62
+2021-01-25, Open, 74.22
+2021-01-27, SELL EXECUTED, Size: -18, Price: 74.91, Cost: 1333.44, Comm 0.00
+2021-01-27, BUY EXECUTED, Size: 18, Price: 74.91, Cost: 1348.38, Comm 0.00
+2021-01-27, OPERATION PROFIT, GROSS 14.94, NET 14.94
+2021-01-27, Open, 75.38
+2021-01-28, SELL EXECUTED, Size: -18, Price: 74.26, Cost: 1348.38, Comm 0.00
+2021-01-28, BUY EXECUTED, Size: 18, Price: 74.26, Cost: 1336.68, Comm 0.00
+2021-01-28, OPERATION PROFIT, GROSS -11.70, NET -11.70
+2021-01-28, Open, 74.11
+2021-01-29, SELL EXECUTED, Size: -18, Price: 74.85, Cost: 1336.68, Comm 0.00
+2021-01-29, BUY EXECUTED, Size: 18, Price: 74.85, Cost: 1347.30, Comm 0.00
+2021-01-29, OPERATION PROFIT, GROSS 10.62, NET 10.62
+2021-01-29, Open, 72.69
+2021-02-01, SELL EXECUTED, Size: -18, Price: 72.25, Cost: 1347.30, Comm 0.00
+2021-02-01, BUY EXECUTED, Size: 18, Price: 72.25, Cost: 1300.50, Comm 0.00
+2021-02-01, OPERATION PROFIT, GROSS -46.80, NET -46.80
+2021-02-01, Open, 73.71
+2021-02-02, SELL EXECUTED, Size: -18, Price: 74.53, Cost: 1300.50, Comm 0.00
+2021-02-02, BUY EXECUTED, Size: 18, Price: 74.53, Cost: 1341.54, Comm 0.00
+2021-02-02, OPERATION PROFIT, GROSS 41.04, NET 41.04
+2021-02-02, Open, 75.37
+2021-02-03, SELL EXECUTED, Size: -18, Price: 75.91, Cost: 1341.54, Comm 0.00
+2021-02-03, BUY EXECUTED, Size: 18, Price: 75.91, Cost: 1366.38, Comm 0.00
+2021-02-03, OPERATION PROFIT, GROSS 24.84, NET 24.84
+2021-02-03, Open, 76.24
+2021-02-04, SELL EXECUTED, Size: -18, Price: 76.49, Cost: 1366.38, Comm 0.00
+2021-02-04, BUY EXECUTED, Size: 18, Price: 76.49, Cost: 1376.82, Comm 0.00
+2021-02-04, OPERATION PROFIT, GROSS 10.44, NET 10.44
+2021-02-04, Open, 75.78
+2021-02-05, SELL EXECUTED, Size: -18, Price: 76.77, Cost: 1376.82, Comm 0.00
+2021-02-05, BUY EXECUTED, Size: 18, Price: 76.77, Cost: 1381.86, Comm 0.00
+2021-02-05, OPERATION PROFIT, GROSS 5.04, NET 5.04
+2021-02-05, Open, 77.16
+2021-02-08, SELL EXECUTED, Size: -18, Price: 77.30, Cost: 1381.86, Comm 0.00
+2021-02-08, BUY EXECUTED, Size: 18, Price: 77.30, Cost: 1391.40, Comm 0.00
+2021-02-08, OPERATION PROFIT, GROSS 9.54, NET 9.54
+2021-02-08, Open, 77.14
+2021-02-09, SELL EXECUTED, Size: -18, Price: 76.93, Cost: 1391.40, Comm 0.00
+2021-02-09, BUY EXECUTED, Size: 18, Price: 76.93, Cost: 1384.74, Comm 0.00
+2021-02-09, OPERATION PROFIT, GROSS -6.66, NET -6.66
+2021-02-09, Open, 76.09
+2021-02-10, SELL EXECUTED, Size: -18, Price: 76.60, Cost: 1384.74, Comm 0.00
+2021-02-10, BUY EXECUTED, Size: 18, Price: 76.60, Cost: 1378.80, Comm 0.00
+2021-02-10, OPERATION PROFIT, GROSS -5.94, NET -5.94
+2021-02-10, Open, 74.96
+2021-02-11, SELL EXECUTED, Size: -18, Price: 74.81, Cost: 1378.80, Comm 0.00
+2021-02-11, BUY EXECUTED, Size: 18, Price: 74.81, Cost: 1346.58, Comm 0.00
+2021-02-11, OPERATION PROFIT, GROSS -32.22, NET -32.22
+2021-02-11, Open, 75.77
+2021-02-12, SELL EXECUTED, Size: -18, Price: 75.73, Cost: 1346.58, Comm 0.00
+2021-02-12, BUY EXECUTED, Size: 18, Price: 75.73, Cost: 1363.14, Comm 0.00
+2021-02-12, OPERATION PROFIT, GROSS 16.56, NET 16.56
+2021-02-12, Open, 75.62
+2021-02-15, SELL EXECUTED, Size: -18, Price: 75.82, Cost: 1363.14, Comm 0.00
+2021-02-15, BUY EXECUTED, Size: 18, Price: 75.82, Cost: 1364.76, Comm 0.00
+2021-02-15, OPERATION PROFIT, GROSS 1.62, NET 1.62
+2021-02-15, Open, 75.37
+2021-02-16, SELL EXECUTED, Size: -18, Price: 75.43, Cost: 1364.76, Comm 0.00
+2021-02-16, BUY EXECUTED, Size: 18, Price: 75.43, Cost: 1357.74, Comm 0.00
+2021-02-16, OPERATION PROFIT, GROSS -7.02, NET -7.02
+2021-02-16, Open, 76.10
+2021-02-17, SELL EXECUTED, Size: -18, Price: 75.65, Cost: 1357.74, Comm 0.00
+2021-02-17, BUY EXECUTED, Size: 18, Price: 75.65, Cost: 1361.70, Comm 0.00
+2021-02-17, OPERATION PROFIT, GROSS 3.96, NET 3.96
+2021-02-17, Open, 74.65
+2021-02-18, SELL EXECUTED, Size: -18, Price: 74.48, Cost: 1361.70, Comm 0.00
+2021-02-18, BUY EXECUTED, Size: 18, Price: 74.48, Cost: 1340.64, Comm 0.00
+2021-02-18, OPERATION PROFIT, GROSS -21.06, NET -21.06
+2021-02-18, Open, 74.07
+2021-02-19, SELL EXECUTED, Size: -18, Price: 73.61, Cost: 1340.64, Comm 0.00
+2021-02-19, BUY EXECUTED, Size: 18, Price: 73.61, Cost: 1324.98, Comm 0.00
+2021-02-19, OPERATION PROFIT, GROSS -15.66, NET -15.66
+2021-02-19, Open, 73.09
+2021-02-22, SELL EXECUTED, Size: -18, Price: 73.09, Cost: 1324.98, Comm 0.00
+2021-02-22, BUY EXECUTED, Size: 18, Price: 73.09, Cost: 1315.62, Comm 0.00
+2021-02-22, OPERATION PROFIT, GROSS -9.36, NET -9.36
+2021-02-22, Open, 72.55
+2021-02-23, SELL EXECUTED, Size: -18, Price: 72.58, Cost: 1315.62, Comm 0.00
+2021-02-23, BUY EXECUTED, Size: 18, Price: 72.58, Cost: 1306.44, Comm 0.00
+2021-02-23, OPERATION PROFIT, GROSS -9.18, NET -9.18
+2021-02-23, Open, 73.78
+2021-02-24, SELL EXECUTED, Size: -18, Price: 73.76, Cost: 1306.44, Comm 0.00
+2021-02-24, BUY EXECUTED, Size: 18, Price: 73.76, Cost: 1327.68, Comm 0.00
+2021-02-24, OPERATION PROFIT, GROSS 21.24, NET 21.24
+2021-02-24, Open, 73.33
+2021-02-25, SELL EXECUTED, Size: -18, Price: 73.98, Cost: 1327.68, Comm 0.00
+2021-02-25, BUY EXECUTED, Size: 18, Price: 73.98, Cost: 1331.64, Comm 0.00
+2021-02-25, OPERATION PROFIT, GROSS 3.96, NET 3.96
+2021-02-25, Open, 74.14
+2021-02-26, SELL EXECUTED, Size: -18, Price: 73.20, Cost: 1331.64, Comm 0.00
+2021-02-26, BUY EXECUTED, Size: 18, Price: 73.20, Cost: 1317.60, Comm 0.00
+2021-02-26, OPERATION PROFIT, GROSS -14.04, NET -14.04
+2021-02-26, Open, 72.25
+2021-03-01, SELL EXECUTED, Size: -18, Price: 72.55, Cost: 1317.60, Comm 0.00
+2021-03-01, BUY EXECUTED, Size: 18, Price: 72.55, Cost: 1305.90, Comm 0.00
+2021-03-01, OPERATION PROFIT, GROSS -11.70, NET -11.70
+2021-03-01, Open, 74.50
+2021-03-02, SELL EXECUTED, Size: -18, Price: 74.95, Cost: 1305.90, Comm 0.00
+2021-03-02, BUY EXECUTED, Size: 18, Price: 74.95, Cost: 1349.10, Comm 0.00
+2021-03-02, OPERATION PROFIT, GROSS 43.20, NET 43.20
+2021-03-02, Open, 74.84
+2021-03-03, SELL EXECUTED, Size: -18, Price: 74.63, Cost: 1349.10, Comm 0.00
+2021-03-03, BUY EXECUTED, Size: 18, Price: 74.63, Cost: 1343.34, Comm 0.00
+2021-03-03, OPERATION PROFIT, GROSS -5.76, NET -5.76
+2021-03-03, Open, 75.65
+2021-03-04, SELL EXECUTED, Size: -18, Price: 75.92, Cost: 1343.34, Comm 0.00
+2021-03-04, BUY EXECUTED, Size: 18, Price: 75.92, Cost: 1366.56, Comm 0.00
+2021-03-04, OPERATION PROFIT, GROSS 23.22, NET 23.22
+2021-03-04, Open, 76.51
+2021-03-05, SELL EXECUTED, Size: -18, Price: 76.53, Cost: 1366.56, Comm 0.00
+2021-03-05, BUY EXECUTED, Size: 18, Price: 76.53, Cost: 1377.54, Comm 0.00
+2021-03-05, OPERATION PROFIT, GROSS 10.98, NET 10.98
+2021-03-05, Open, 76.58
+2021-03-08, SELL EXECUTED, Size: -18, Price: 77.80, Cost: 1377.54, Comm 0.00
+2021-03-08, BUY EXECUTED, Size: 18, Price: 77.80, Cost: 1400.40, Comm 0.00
+2021-03-08, OPERATION PROFIT, GROSS 22.86, NET 22.86
+2021-03-08, Open, 77.35
+2021-03-09, SELL EXECUTED, Size: -18, Price: 78.35, Cost: 1400.40, Comm 0.00
+2021-03-09, BUY EXECUTED, Size: 18, Price: 78.35, Cost: 1410.30, Comm 0.00
+2021-03-09, OPERATION PROFIT, GROSS 9.90, NET 9.90
+2021-03-09, Open, 77.85
+2021-03-10, SELL EXECUTED, Size: -18, Price: 77.94, Cost: 1410.30, Comm 0.00
+2021-03-10, BUY EXECUTED, Size: 18, Price: 77.94, Cost: 1402.92, Comm 0.00
+2021-03-10, OPERATION PROFIT, GROSS -7.38, NET -7.38
+2021-03-10, Open, 76.82
+2021-03-11, SELL EXECUTED, Size: -18, Price: 77.79, Cost: 1402.92, Comm 0.00
+2021-03-11, BUY EXECUTED, Size: 18, Price: 77.79, Cost: 1400.22, Comm 0.00
+2021-03-11, OPERATION PROFIT, GROSS -2.70, NET -2.70
+2021-03-11, Open, 76.58
+2021-03-12, SELL EXECUTED, Size: -18, Price: 76.68, Cost: 1400.22, Comm 0.00
+2021-03-12, BUY EXECUTED, Size: 18, Price: 76.68, Cost: 1380.24, Comm 0.00
+2021-03-12, OPERATION PROFIT, GROSS -19.98, NET -19.98
+2021-03-12, Open, 76.61
+2021-03-15, SELL EXECUTED, Size: -18, Price: 76.63, Cost: 1380.24, Comm 0.00
+2021-03-15, BUY EXECUTED, Size: 18, Price: 76.63, Cost: 1379.34, Comm 0.00
+2021-03-15, OPERATION PROFIT, GROSS -0.90, NET -0.90
+2021-03-15, Open, 76.53
+2021-03-16, SELL EXECUTED, Size: -18, Price: 76.70, Cost: 1379.34, Comm 0.00
+2021-03-16, BUY EXECUTED, Size: 18, Price: 76.70, Cost: 1380.60, Comm 0.00
+2021-03-16, OPERATION PROFIT, GROSS 1.26, NET 1.26
+2021-03-16, Open, 77.22
+2021-03-17, SELL EXECUTED, Size: -18, Price: 77.00, Cost: 1380.60, Comm 0.00
+2021-03-17, BUY EXECUTED, Size: 18, Price: 77.00, Cost: 1386.00, Comm 0.00
+2021-03-17, OPERATION PROFIT, GROSS 5.40, NET 5.40
+2021-03-17, Open, 77.16
+2021-03-18, SELL EXECUTED, Size: -18, Price: 76.99, Cost: 1386.00, Comm 0.00
+2021-03-18, BUY EXECUTED, Size: 18, Price: 76.99, Cost: 1385.82, Comm 0.00
+2021-03-18, OPERATION PROFIT, GROSS -0.18, NET -0.18
+2021-03-18, Open, 75.96
+2021-03-19, SELL EXECUTED, Size: -18, Price: 75.74, Cost: 1385.82, Comm 0.00
+2021-03-19, BUY EXECUTED, Size: 18, Price: 75.74, Cost: 1363.32, Comm 0.00
+2021-03-19, OPERATION PROFIT, GROSS -22.50, NET -22.50
+2021-03-19, Open, 75.04
+2021-03-22, SELL EXECUTED, Size: -18, Price: 75.03, Cost: 1363.32, Comm 0.00
+2021-03-22, BUY EXECUTED, Size: 18, Price: 75.03, Cost: 1350.54, Comm 0.00
+2021-03-22, OPERATION PROFIT, GROSS -12.78, NET -12.78
+2021-03-22, Open, 75.36
+2021-03-23, SELL EXECUTED, Size: -18, Price: 74.60, Cost: 1350.54, Comm 0.00
+2021-03-23, BUY EXECUTED, Size: 18, Price: 74.60, Cost: 1342.80, Comm 0.00
+2021-03-23, OPERATION PROFIT, GROSS -7.74, NET -7.74
+2021-03-23, Open, 75.09
+2021-03-24, SELL EXECUTED, Size: -18, Price: 75.34, Cost: 1342.80, Comm 0.00
+2021-03-24, BUY EXECUTED, Size: 18, Price: 75.34, Cost: 1356.12, Comm 0.00
+2021-03-24, OPERATION PROFIT, GROSS 13.32, NET 13.32
+2021-03-24, Open, 76.51
+2021-03-25, SELL EXECUTED, Size: -18, Price: 76.35, Cost: 1356.12, Comm 0.00
+2021-03-25, BUY EXECUTED, Size: 18, Price: 76.35, Cost: 1374.30, Comm 0.00
+2021-03-25, OPERATION PROFIT, GROSS 18.18, NET 18.18
+2021-03-25, Open, 76.66
+2021-03-26, SELL EXECUTED, Size: -18, Price: 76.90, Cost: 1374.30, Comm 0.00
+2021-03-26, BUY EXECUTED, Size: 18, Price: 76.90, Cost: 1384.20, Comm 0.00
+2021-03-26, OPERATION PROFIT, GROSS 9.90, NET 9.90
+2021-03-26, Open, 76.18
+2021-03-29, SELL EXECUTED, Size: -18, Price: 76.33, Cost: 1384.20, Comm 0.00
+2021-03-29, BUY EXECUTED, Size: 18, Price: 76.33, Cost: 1373.94, Comm 0.00
+2021-03-29, OPERATION PROFIT, GROSS -10.26, NET -10.26
+2021-03-29, Open, 75.80
+2021-03-30, SELL EXECUTED, Size: -18, Price: 75.88, Cost: 1373.94, Comm 0.00
+2021-03-30, BUY EXECUTED, Size: 18, Price: 75.88, Cost: 1365.84, Comm 0.00
+2021-03-30, OPERATION PROFIT, GROSS -8.10, NET -8.10
+2021-03-30, Open, 75.65
+2021-03-31, SELL EXECUTED, Size: -18, Price: 76.19, Cost: 1365.84, Comm 0.00
+2021-03-31, BUY EXECUTED, Size: 18, Price: 76.19, Cost: 1371.42, Comm 0.00
+2021-03-31, OPERATION PROFIT, GROSS 5.58, NET 5.58
+2021-03-31, Open, 76.27
+2021-04-01, SELL EXECUTED, Size: -18, Price: 76.13, Cost: 1371.42, Comm 0.00
+2021-04-01, BUY EXECUTED, Size: 18, Price: 76.13, Cost: 1370.34, Comm 0.00
+2021-04-01, OPERATION PROFIT, GROSS -1.08, NET -1.08
+2021-04-01, Open, 76.36
+2021-04-06, SELL EXECUTED, Size: -18, Price: 77.02, Cost: 1370.34, Comm 0.00
+2021-04-06, BUY EXECUTED, Size: 18, Price: 77.02, Cost: 1386.36, Comm 0.00
+2021-04-06, OPERATION PROFIT, GROSS 16.02, NET 16.02
+2021-04-06, Open, 76.20
+2021-04-07, SELL EXECUTED, Size: -18, Price: 76.23, Cost: 1386.36, Comm 0.00
+2021-04-07, BUY EXECUTED, Size: 18, Price: 76.23, Cost: 1372.14, Comm 0.00
+2021-04-07, OPERATION PROFIT, GROSS -14.22, NET -14.22
+2021-04-07, Open, 76.65
+2021-04-08, SELL EXECUTED, Size: -18, Price: 76.98, Cost: 1372.14, Comm 0.00
+2021-04-08, BUY EXECUTED, Size: 18, Price: 76.98, Cost: 1385.64, Comm 0.00
+2021-04-08, OPERATION PROFIT, GROSS 13.50, NET 13.50
+2021-04-08, Open, 77.17
+2021-04-09, SELL EXECUTED, Size: -18, Price: 77.24, Cost: 1385.64, Comm 0.00
+2021-04-09, BUY EXECUTED, Size: 18, Price: 77.24, Cost: 1390.32, Comm 0.00
+2021-04-09, OPERATION PROFIT, GROSS 4.68, NET 4.68
+2021-04-09, Open, 77.18
+2021-04-12, SELL EXECUTED, Size: -18, Price: 77.16, Cost: 1390.32, Comm 0.00
+2021-04-12, BUY EXECUTED, Size: 18, Price: 77.16, Cost: 1388.88, Comm 0.00
+2021-04-12, OPERATION PROFIT, GROSS -1.44, NET -1.44
+2021-04-12, Open, 76.82
+2021-04-13, SELL EXECUTED, Size: -18, Price: 76.75, Cost: 1388.88, Comm 0.00
+2021-04-13, BUY EXECUTED, Size: 18, Price: 76.75, Cost: 1381.50, Comm 0.00
+2021-04-13, OPERATION PROFIT, GROSS -7.38, NET -7.38
+2021-04-13, Open, 77.23
+2021-04-14, SELL EXECUTED, Size: -18, Price: 77.29, Cost: 1381.50, Comm 0.00
+2021-04-14, BUY EXECUTED, Size: 18, Price: 77.29, Cost: 1391.22, Comm 0.00
+2021-04-14, OPERATION PROFIT, GROSS 9.72, NET 9.72
+2021-04-14, Open, 77.77
+2021-04-15, SELL EXECUTED, Size: -18, Price: 77.95, Cost: 1391.22, Comm 0.00
+2021-04-15, BUY EXECUTED, Size: 18, Price: 77.95, Cost: 1403.10, Comm 0.00
+2021-04-15, OPERATION PROFIT, GROSS 11.88, NET 11.88
+2021-04-15, Open, 77.87
+2021-04-16, SELL EXECUTED, Size: -18, Price: 77.67, Cost: 1403.10, Comm 0.00
+2021-04-16, BUY EXECUTED, Size: 18, Price: 77.67, Cost: 1398.06, Comm 0.00
+2021-04-16, OPERATION PROFIT, GROSS -5.04, NET -5.04
+2021-04-16, Open, 77.94
+2021-04-19, SELL EXECUTED, Size: -18, Price: 78.38, Cost: 1398.06, Comm 0.00
+2021-04-19, BUY EXECUTED, Size: 18, Price: 78.38, Cost: 1410.84, Comm 0.00
+2021-04-19, OPERATION PROFIT, GROSS 12.78, NET 12.78
+2021-04-19, Open, 78.69
+2021-04-20, SELL EXECUTED, Size: -18, Price: 78.56, Cost: 1410.84, Comm 0.00
+2021-04-20, BUY EXECUTED, Size: 18, Price: 78.56, Cost: 1414.08, Comm 0.00
+2021-04-20, OPERATION PROFIT, GROSS 3.24, NET 3.24
+2021-04-20, Open, 77.72
+2021-04-21, SELL EXECUTED, Size: -18, Price: 77.11, Cost: 1414.08, Comm 0.00
+2021-04-21, BUY EXECUTED, Size: 18, Price: 77.11, Cost: 1387.98, Comm 0.00
+2021-04-21, OPERATION PROFIT, GROSS -26.10, NET -26.10
+2021-04-21, Open, 78.10
+2021-04-22, SELL EXECUTED, Size: -18, Price: 78.45, Cost: 1387.98, Comm 0.00
+2021-04-22, BUY EXECUTED, Size: 18, Price: 78.45, Cost: 1412.10, Comm 0.00
+2021-04-22, OPERATION PROFIT, GROSS 24.12, NET 24.12
+2021-04-22, Open, 78.96
+2021-04-23, SELL EXECUTED, Size: -18, Price: 78.78, Cost: 1412.10, Comm 0.00
+2021-04-23, BUY EXECUTED, Size: 18, Price: 78.78, Cost: 1418.04, Comm 0.00
+2021-04-23, OPERATION PROFIT, GROSS 5.94, NET 5.94
+2021-04-23, Open, 79.18
+2021-04-26, SELL EXECUTED, Size: -18, Price: 79.50, Cost: 1418.04, Comm 0.00
+2021-04-26, BUY EXECUTED, Size: 18, Price: 79.50, Cost: 1431.00, Comm 0.00
+2021-04-26, OPERATION PROFIT, GROSS 12.96, NET 12.96
+2021-04-26, Open, 78.88
+2021-04-27, SELL EXECUTED, Size: -18, Price: 78.84, Cost: 1431.00, Comm 0.00
+2021-04-27, BUY EXECUTED, Size: 18, Price: 78.84, Cost: 1419.12, Comm 0.00
+2021-04-27, OPERATION PROFIT, GROSS -11.88, NET -11.88
+2021-04-27, Open, 79.13
+2021-04-28, SELL EXECUTED, Size: -18, Price: 79.29, Cost: 1419.12, Comm 0.00
+2021-04-28, BUY EXECUTED, Size: 18, Price: 79.29, Cost: 1427.22, Comm 0.00
+2021-04-28, OPERATION PROFIT, GROSS 8.10, NET 8.10
+2021-04-28, Open, 79.91
+2021-04-29, SELL EXECUTED, Size: -18, Price: 80.25, Cost: 1427.22, Comm 0.00
+2021-04-29, BUY EXECUTED, Size: 18, Price: 80.25, Cost: 1444.50, Comm 0.00
+2021-04-29, OPERATION PROFIT, GROSS 17.28, NET 17.28
+2021-04-29, Open, 79.72
+2021-04-30, SELL EXECUTED, Size: -18, Price: 79.53, Cost: 1444.50, Comm 0.00
+2021-04-30, BUY EXECUTED, Size: 18, Price: 79.53, Cost: 1431.54, Comm 0.00
+2021-04-30, OPERATION PROFIT, GROSS -12.96, NET -12.96
+2021-04-30, Open, 78.87
+2021-05-03, SELL EXECUTED, Size: -18, Price: 79.25, Cost: 1431.54, Comm 0.00
+2021-05-03, BUY EXECUTED, Size: 18, Price: 79.25, Cost: 1426.50, Comm 0.00
+2021-05-03, OPERATION PROFIT, GROSS -5.04, NET -5.04
+2021-05-03, Open, 79.46
+2021-05-04, SELL EXECUTED, Size: -18, Price: 79.67, Cost: 1426.50, Comm 0.00
+2021-05-04, BUY EXECUTED, Size: 18, Price: 79.67, Cost: 1434.06, Comm 0.00
+2021-05-04, OPERATION PROFIT, GROSS 7.56, NET 7.56
+2021-05-04, Open, 80.12
+2021-05-05, SELL EXECUTED, Size: -18, Price: 81.94, Cost: 1434.06, Comm 0.00
+2021-05-05, BUY EXECUTED, Size: 18, Price: 81.94, Cost: 1474.92, Comm 0.00
+2021-05-05, OPERATION PROFIT, GROSS 40.86, NET 40.86
+2021-05-05, Open, 82.13
+2021-05-06, SELL EXECUTED, Size: -18, Price: 82.38, Cost: 1474.92, Comm 0.00
+2021-05-06, BUY EXECUTED, Size: 18, Price: 82.38, Cost: 1482.84, Comm 0.00
+2021-05-06, OPERATION PROFIT, GROSS 7.92, NET 7.92
+2021-05-06, Open, 82.33
+2021-05-07, SELL EXECUTED, Size: -18, Price: 82.38, Cost: 1482.84, Comm 0.00
+2021-05-07, BUY EXECUTED, Size: 18, Price: 82.38, Cost: 1482.84, Comm 0.00
+2021-05-07, OPERATION PROFIT, GROSS 0.00, NET 0.00
+2021-05-07, Open, 83.19
+2021-05-10, SELL EXECUTED, Size: -18, Price: 83.18, Cost: 1482.84, Comm 0.00
+2021-05-10, BUY EXECUTED, Size: 18, Price: 83.18, Cost: 1497.24, Comm 0.00
+2021-05-10, OPERATION PROFIT, GROSS 14.40, NET 14.40
+2021-05-10, Open, 84.28
+2021-05-11, SELL EXECUTED, Size: -18, Price: 84.15, Cost: 1497.24, Comm 0.00
+2021-05-11, BUY EXECUTED, Size: 18, Price: 84.15, Cost: 1514.70, Comm 0.00
+2021-05-11, OPERATION PROFIT, GROSS 17.46, NET 17.46
+2021-05-11, Open, 83.78
+2021-05-12, SELL EXECUTED, Size: -18, Price: 83.26, Cost: 1514.70, Comm 0.00
+2021-05-12, BUY EXECUTED, Size: 18, Price: 83.26, Cost: 1498.68, Comm 0.00
+2021-05-12, OPERATION PROFIT, GROSS -16.02, NET -16.02
+2021-05-12, Open, 84.65
+2021-05-13, SELL EXECUTED, Size: -18, Price: 84.53, Cost: 1498.68, Comm 0.00
+2021-05-13, BUY EXECUTED, Size: 18, Price: 84.53, Cost: 1521.54, Comm 0.00
+2021-05-13, OPERATION PROFIT, GROSS 22.86, NET 22.86
+2021-05-13, Open, 85.02
+2021-05-14, SELL EXECUTED, Size: -18, Price: 86.14, Cost: 1521.54, Comm 0.00
+2021-05-14, BUY EXECUTED, Size: 18, Price: 86.14, Cost: 1550.52, Comm 0.00
+2021-05-14, OPERATION PROFIT, GROSS 28.98, NET 28.98
+2021-05-14, Open, 85.55
+2021-05-17, SELL EXECUTED, Size: -18, Price: 85.91, Cost: 1550.52, Comm 0.00
+2021-05-17, BUY EXECUTED, Size: 18, Price: 85.91, Cost: 1546.38, Comm 0.00
+2021-05-17, OPERATION PROFIT, GROSS -4.14, NET -4.14
+2021-05-17, Open, 86.62
+2021-05-18, SELL EXECUTED, Size: -18, Price: 87.12, Cost: 1546.38, Comm 0.00
+2021-05-18, BUY EXECUTED, Size: 18, Price: 87.12, Cost: 1568.16, Comm 0.00
+2021-05-18, OPERATION PROFIT, GROSS 21.78, NET 21.78
+2021-05-18, Open, 86.59
+2021-05-19, SELL EXECUTED, Size: -18, Price: 85.65, Cost: 1568.16, Comm 0.00
+2021-05-19, BUY EXECUTED, Size: 18, Price: 85.65, Cost: 1541.70, Comm 0.00
+2021-05-19, OPERATION PROFIT, GROSS -26.46, NET -26.46
+2021-05-19, Open, 84.43
+2021-05-20, SELL EXECUTED, Size: -18, Price: 85.12, Cost: 1541.70, Comm 0.00
+2021-05-20, BUY EXECUTED, Size: 18, Price: 85.12, Cost: 1532.16, Comm 0.00
+2021-05-20, OPERATION PROFIT, GROSS -9.54, NET -9.54
+2021-05-20, Open, 87.16
+2021-05-21, SELL EXECUTED, Size: -18, Price: 86.80, Cost: 1532.16, Comm 0.00
+2021-05-21, BUY EXECUTED, Size: 18, Price: 86.80, Cost: 1562.40, Comm 0.00
+2021-05-21, OPERATION PROFIT, GROSS 30.24, NET 30.24
+2021-05-21, Open, 86.85
+2021-05-24, SELL EXECUTED, Size: -18, Price: 86.81, Cost: 1562.40, Comm 0.00
+2021-05-24, BUY EXECUTED, Size: 18, Price: 86.81, Cost: 1562.58, Comm 0.00
+2021-05-24, OPERATION PROFIT, GROSS 0.18, NET 0.18
+2021-05-24, Open, 87.48
+2021-05-25, SELL EXECUTED, Size: -18, Price: 87.58, Cost: 1562.58, Comm 0.00
+2021-05-25, BUY EXECUTED, Size: 18, Price: 87.58, Cost: 1576.44, Comm 0.00
+2021-05-25, OPERATION PROFIT, GROSS 13.86, NET 13.86
+2021-05-25, Open, 88.25
+2021-05-26, SELL EXECUTED, Size: -18, Price: 87.91, Cost: 1576.44, Comm 0.00
+2021-05-26, BUY EXECUTED, Size: 18, Price: 87.91, Cost: 1582.38, Comm 0.00
+2021-05-26, OPERATION PROFIT, GROSS 5.94, NET 5.94
+2021-05-26, Open, 88.21
+2021-05-27, SELL EXECUTED, Size: -18, Price: 88.27, Cost: 1582.38, Comm 0.00
+2021-05-27, BUY EXECUTED, Size: 18, Price: 88.27, Cost: 1588.86, Comm 0.00
+2021-05-27, OPERATION PROFIT, GROSS 6.48, NET 6.48
+2021-05-27, Open, 87.67
+2021-05-28, SELL EXECUTED, Size: -18, Price: 87.77, Cost: 1588.86, Comm 0.00
+2021-05-28, BUY EXECUTED, Size: 18, Price: 87.77, Cost: 1579.86, Comm 0.00
+2021-05-28, OPERATION PROFIT, GROSS -9.00, NET -9.00
+2021-05-28, Open, 89.08
+2021-05-31, SELL EXECUTED, Size: -18, Price: 89.22, Cost: 1579.86, Comm 0.00
+2021-05-31, BUY EXECUTED, Size: 18, Price: 89.22, Cost: 1605.96, Comm 0.00
+2021-05-31, OPERATION PROFIT, GROSS 26.10, NET 26.10
+2021-05-31, Open, 88.33
+2021-06-01, SELL EXECUTED, Size: -18, Price: 88.02, Cost: 1605.96, Comm 0.00
+2021-06-01, BUY EXECUTED, Size: 18, Price: 88.02, Cost: 1584.36, Comm 0.00
+2021-06-01, OPERATION PROFIT, GROSS -21.60, NET -21.60
+2021-06-01, Open, 88.10
+2021-06-02, SELL EXECUTED, Size: -18, Price: 88.58, Cost: 1584.36, Comm 0.00
+2021-06-02, BUY EXECUTED, Size: 18, Price: 88.58, Cost: 1594.44, Comm 0.00
+2021-06-02, OPERATION PROFIT, GROSS 10.08, NET 10.08
+2021-06-02, Open, 88.87
+2021-06-03, SELL EXECUTED, Size: -18, Price: 89.02, Cost: 1594.44, Comm 0.00
+2021-06-03, BUY EXECUTED, Size: 18, Price: 89.02, Cost: 1602.36, Comm 0.00
+2021-06-03, OPERATION PROFIT, GROSS 7.92, NET 7.92
+2021-06-03, Open, 89.65
+2021-06-04, SELL EXECUTED, Size: -18, Price: 90.12, Cost: 1602.36, Comm 0.00
+2021-06-04, BUY EXECUTED, Size: 18, Price: 90.12, Cost: 1622.16, Comm 0.00
+2021-06-04, OPERATION PROFIT, GROSS 19.80, NET 19.80
+2021-06-04, Open, 90.81
+2021-06-07, SELL EXECUTED, Size: -18, Price: 90.57, Cost: 1622.16, Comm 0.00
+2021-06-07, BUY EXECUTED, Size: 18, Price: 90.57, Cost: 1630.26, Comm 0.00
+2021-06-07, OPERATION PROFIT, GROSS 8.10, NET 8.10
+2021-06-07, Open, 90.29
+2021-06-08, SELL EXECUTED, Size: -18, Price: 90.22, Cost: 1630.26, Comm 0.00
+2021-06-08, BUY EXECUTED, Size: 18, Price: 90.22, Cost: 1623.96, Comm 0.00
+2021-06-08, OPERATION PROFIT, GROSS -6.30, NET -6.30
+2021-06-08, Open, 89.89
+2021-06-09, SELL EXECUTED, Size: -18, Price: 89.80, Cost: 1623.96, Comm 0.00
+2021-06-09, BUY EXECUTED, Size: 18, Price: 89.80, Cost: 1616.40, Comm 0.00
+2021-06-09, OPERATION PROFIT, GROSS -7.56, NET -7.56
+2021-06-09, Open, 89.54
+2021-06-10, SELL EXECUTED, Size: -18, Price: 89.46, Cost: 1616.40, Comm 0.00
+2021-06-10, BUY EXECUTED, Size: 18, Price: 89.46, Cost: 1610.28, Comm 0.00
+2021-06-10, OPERATION PROFIT, GROSS -6.12, NET -6.12
+2021-06-10, Open, 90.22
+2021-06-11, SELL EXECUTED, Size: -18, Price: 89.46, Cost: 1610.28, Comm 0.00
+2021-06-11, BUY EXECUTED, Size: 18, Price: 89.46, Cost: 1610.28, Comm 0.00
+2021-06-11, OPERATION PROFIT, GROSS 0.00, NET 0.00
+2021-06-11, Open, 89.78
+2021-06-15, SELL EXECUTED, Size: -18, Price: 89.91, Cost: 1610.28, Comm 0.00
+2021-06-15, BUY EXECUTED, Size: 18, Price: 89.91, Cost: 1618.38, Comm 0.00
+2021-06-15, OPERATION PROFIT, GROSS 8.10, NET 8.10
+2021-06-15, Open, 91.63
+2021-06-16, SELL EXECUTED, Size: -18, Price: 92.13, Cost: 1618.38, Comm 0.00
+2021-06-16, BUY EXECUTED, Size: 18, Price: 92.13, Cost: 1658.34, Comm 0.00
+2021-06-16, OPERATION PROFIT, GROSS 39.96, NET 39.96
+2021-06-16, Open, 92.85
+2021-06-17, SELL EXECUTED, Size: -18, Price: 93.45, Cost: 1658.34, Comm 0.00
+2021-06-17, BUY EXECUTED, Size: 18, Price: 93.45, Cost: 1682.10, Comm 0.00
+2021-06-17, OPERATION PROFIT, GROSS 23.76, NET 23.76
+2021-06-17, Open, 93.81
+2021-06-18, SELL EXECUTED, Size: -18, Price: 93.32, Cost: 1682.10, Comm 0.00
+2021-06-18, BUY EXECUTED, Size: 18, Price: 93.32, Cost: 1679.76, Comm 0.00
+2021-06-18, OPERATION PROFIT, GROSS -2.34, NET -2.34
+2021-06-18, Open, 91.85
+2021-06-21, SELL EXECUTED, Size: -18, Price: 90.10, Cost: 1679.76, Comm 0.00
+2021-06-21, BUY EXECUTED, Size: 18, Price: 90.10, Cost: 1621.80, Comm 0.00
+2021-06-21, OPERATION PROFIT, GROSS -57.96, NET -57.96
+2021-06-21, Open, 86.86
+2021-06-22, SELL EXECUTED, Size: -18, Price: 88.91, Cost: 1621.80, Comm 0.00
+2021-06-22, BUY EXECUTED, Size: 18, Price: 88.91, Cost: 1600.38, Comm 0.00
+2021-06-22, OPERATION PROFIT, GROSS -21.42, NET -21.42
+2021-06-22, Open, 88.78
+2021-06-23, SELL EXECUTED, Size: -18, Price: 88.46, Cost: 1600.38, Comm 0.00
+2021-06-23, BUY EXECUTED, Size: 18, Price: 88.46, Cost: 1592.28, Comm 0.00
+2021-06-23, OPERATION PROFIT, GROSS -8.10, NET -8.10
+2021-06-23, Open, 87.87
+2021-06-24, SELL EXECUTED, Size: -18, Price: 87.69, Cost: 1592.28, Comm 0.00
+2021-06-24, BUY EXECUTED, Size: 18, Price: 87.69, Cost: 1578.42, Comm 0.00
+2021-06-24, OPERATION PROFIT, GROSS -13.86, NET -13.86
+2021-06-24, Open, 87.38
+2021-06-25, SELL EXECUTED, Size: -18, Price: 88.55, Cost: 1578.42, Comm 0.00
+2021-06-25, BUY EXECUTED, Size: 18, Price: 88.55, Cost: 1593.90, Comm 0.00
+2021-06-25, OPERATION PROFIT, GROSS 15.48, NET 15.48
+2021-06-25, Open, 87.92
+2021-06-28, SELL EXECUTED, Size: -18, Price: 88.09, Cost: 1593.90, Comm 0.00
+2021-06-28, BUY EXECUTED, Size: 18, Price: 88.09, Cost: 1585.62, Comm 0.00
+2021-06-28, OPERATION PROFIT, GROSS -8.28, NET -8.28
+2021-06-28, Open, 88.46
+2021-06-29, SELL EXECUTED, Size: -18, Price: 87.79, Cost: 1585.62, Comm 0.00
+2021-06-29, BUY EXECUTED, Size: 18, Price: 87.79, Cost: 1580.22, Comm 0.00
+2021-06-29, OPERATION PROFIT, GROSS -5.40, NET -5.40
+2021-06-29, Open, 89.00
+2021-06-30, SELL EXECUTED, Size: -18, Price: 89.36, Cost: 1580.22, Comm 0.00
+2021-06-30, BUY EXECUTED, Size: 18, Price: 89.36, Cost: 1608.48, Comm 0.00
+2021-06-30, OPERATION PROFIT, GROSS 28.26, NET 28.26
+2021-06-30, Open, 88.46
+2021-07-01, SELL EXECUTED, Size: -18, Price: 88.45, Cost: 1608.48, Comm 0.00
+2021-07-01, BUY EXECUTED, Size: 18, Price: 88.45, Cost: 1592.10, Comm 0.00
+2021-07-01, OPERATION PROFIT, GROSS -16.38, NET -16.38
+2021-07-01, Open, 87.43
+2021-07-02, SELL EXECUTED, Size: -18, Price: 87.83, Cost: 1592.10, Comm 0.00
+2021-07-02, BUY EXECUTED, Size: 18, Price: 87.83, Cost: 1580.94, Comm 0.00
+2021-07-02, OPERATION PROFIT, GROSS -11.16, NET -11.16
+2021-07-02, Open, 88.13
+2021-07-05, SELL EXECUTED, Size: -18, Price: 87.72, Cost: 1580.94, Comm 0.00
+2021-07-05, BUY EXECUTED, Size: 18, Price: 87.72, Cost: 1578.96, Comm 0.00
+2021-07-05, OPERATION PROFIT, GROSS -1.98, NET -1.98
+2021-07-05, Open, 87.85
+2021-07-06, SELL EXECUTED, Size: -18, Price: 88.14, Cost: 1578.96, Comm 0.00
+2021-07-06, BUY EXECUTED, Size: 18, Price: 88.14, Cost: 1586.52, Comm 0.00
+2021-07-06, OPERATION PROFIT, GROSS 7.56, NET 7.56
+2021-07-06, Open, 87.36
+2021-07-07, SELL EXECUTED, Size: -18, Price: 87.25, Cost: 1586.52, Comm 0.00
+2021-07-07, BUY EXECUTED, Size: 18, Price: 87.25, Cost: 1570.50, Comm 0.00
+2021-07-07, OPERATION PROFIT, GROSS -16.02, NET -16.02
+2021-07-07, Open, 88.32
+2021-07-08, SELL EXECUTED, Size: -18, Price: 88.01, Cost: 1570.50, Comm 0.00
+2021-07-08, BUY EXECUTED, Size: 18, Price: 88.01, Cost: 1584.18, Comm 0.00
+2021-07-08, OPERATION PROFIT, GROSS 13.68, NET 13.68
+2021-07-08, Open, 88.13
+2021-07-09, SELL EXECUTED, Size: -18, Price: 87.38, Cost: 1584.18, Comm 0.00
+2021-07-09, BUY EXECUTED, Size: 18, Price: 87.38, Cost: 1572.84, Comm 0.00
+2021-07-09, OPERATION PROFIT, GROSS -11.34, NET -11.34
+2021-07-09, Open, 87.33
+2021-07-12, SELL EXECUTED, Size: -18, Price: 88.00, Cost: 1572.84, Comm 0.00
+2021-07-12, BUY EXECUTED, Size: 18, Price: 88.00, Cost: 1584.00, Comm 0.00
+2021-07-12, OPERATION PROFIT, GROSS 11.16, NET 11.16
+2021-07-12, Open, 87.84
+2021-07-13, SELL EXECUTED, Size: -18, Price: 88.58, Cost: 1584.00, Comm 0.00
+2021-07-13, BUY EXECUTED, Size: 18, Price: 88.58, Cost: 1594.44, Comm 0.00
+2021-07-13, OPERATION PROFIT, GROSS 10.44, NET 10.44
+2021-07-13, Open, 87.15
+2021-07-14, SELL EXECUTED, Size: -18, Price: 87.16, Cost: 1594.44, Comm 0.00
+2021-07-14, BUY EXECUTED, Size: 18, Price: 87.16, Cost: 1568.88, Comm 0.00
+2021-07-14, OPERATION PROFIT, GROSS -25.56, NET -25.56
+2021-07-14, Open, 87.50
+2021-07-15, SELL EXECUTED, Size: -18, Price: 87.68, Cost: 1568.88, Comm 0.00
+2021-07-15, BUY EXECUTED, Size: 18, Price: 87.68, Cost: 1578.24, Comm 0.00
+2021-07-15, OPERATION PROFIT, GROSS 9.36, NET 9.36
+2021-07-15, Open, 87.08
+2021-07-16, SELL EXECUTED, Size: -18, Price: 87.08, Cost: 1578.24, Comm 0.00
+2021-07-16, BUY EXECUTED, Size: 18, Price: 87.08, Cost: 1567.44, Comm 0.00
+2021-07-16, OPERATION PROFIT, GROSS -10.80, NET -10.80
+2021-07-16, Open, 86.98
+2021-07-19, SELL EXECUTED, Size: -18, Price: 86.14, Cost: 1567.44, Comm 0.00
+2021-07-19, BUY EXECUTED, Size: 18, Price: 86.14, Cost: 1550.52, Comm 0.00
+2021-07-19, OPERATION PROFIT, GROSS -16.92, NET -16.92
+2021-07-19, Open, 86.52
+2021-07-20, SELL EXECUTED, Size: -18, Price: 85.39, Cost: 1550.52, Comm 0.00
+2021-07-20, BUY EXECUTED, Size: 18, Price: 85.39, Cost: 1537.02, Comm 0.00
+2021-07-20, OPERATION PROFIT, GROSS -13.50, NET -13.50
+2021-07-20, Open, 86.46
+2021-07-21, SELL EXECUTED, Size: -18, Price: 87.03, Cost: 1537.02, Comm 0.00
+2021-07-21, BUY EXECUTED, Size: 18, Price: 87.03, Cost: 1566.54, Comm 0.00
+2021-07-21, OPERATION PROFIT, GROSS 29.52, NET 29.52
+2021-07-21, Open, 87.18
+2021-07-22, SELL EXECUTED, Size: -18, Price: 87.68, Cost: 1566.54, Comm 0.00
+2021-07-22, BUY EXECUTED, Size: 18, Price: 87.68, Cost: 1578.24, Comm 0.00
+2021-07-22, OPERATION PROFIT, GROSS 11.70, NET 11.70
+2021-07-22, Open, 88.47
+2021-07-23, SELL EXECUTED, Size: -18, Price: 87.69, Cost: 1578.24, Comm 0.00
+2021-07-23, BUY EXECUTED, Size: 18, Price: 87.69, Cost: 1578.42, Comm 0.00
+2021-07-23, OPERATION PROFIT, GROSS 0.18, NET 0.18
+2021-07-23, Open, 87.80
+2021-07-26, SELL EXECUTED, Size: -18, Price: 87.89, Cost: 1578.42, Comm 0.00
+2021-07-26, BUY EXECUTED, Size: 18, Price: 87.89, Cost: 1582.02, Comm 0.00
+2021-07-26, OPERATION PROFIT, GROSS 3.60, NET 3.60
+2021-07-26, Open, 87.82
+2021-07-27, SELL EXECUTED, Size: -18, Price: 88.04, Cost: 1582.02, Comm 0.00
+2021-07-27, BUY EXECUTED, Size: 18, Price: 88.04, Cost: 1584.72, Comm 0.00
+2021-07-27, OPERATION PROFIT, GROSS 2.70, NET 2.70
+2021-07-27, Open, 89.21
+2021-07-28, SELL EXECUTED, Size: -18, Price: 88.61, Cost: 1584.72, Comm 0.00
+2021-07-28, BUY EXECUTED, Size: 18, Price: 88.61, Cost: 1594.98, Comm 0.00
+2021-07-28, OPERATION PROFIT, GROSS 10.26, NET 10.26
+2021-07-28, Open, 87.96
+2021-07-29, SELL EXECUTED, Size: -18, Price: 87.97, Cost: 1594.98, Comm 0.00
+2021-07-29, BUY EXECUTED, Size: 18, Price: 87.97, Cost: 1583.46, Comm 0.00
+2021-07-29, OPERATION PROFIT, GROSS -11.52, NET -11.52
+2021-07-29, Open, 88.09
+2021-07-30, SELL EXECUTED, Size: -18, Price: 88.28, Cost: 1583.46, Comm 0.00
+2021-07-30, BUY EXECUTED, Size: 18, Price: 88.28, Cost: 1589.04, Comm 0.00
+2021-07-30, OPERATION PROFIT, GROSS 5.58, NET 5.58
+2021-07-30, Open, 88.27
+2021-08-02, SELL EXECUTED, Size: -18, Price: 88.48, Cost: 1589.04, Comm 0.00
+2021-08-02, BUY EXECUTED, Size: 18, Price: 88.48, Cost: 1592.64, Comm 0.00
+2021-08-02, OPERATION PROFIT, GROSS 3.60, NET 3.60
+2021-08-02, Open, 90.05
+2021-08-03, SELL EXECUTED, Size: -18, Price: 89.48, Cost: 1592.64, Comm 0.00
+2021-08-03, BUY EXECUTED, Size: 18, Price: 89.48, Cost: 1610.64, Comm 0.00
+2021-08-03, OPERATION PROFIT, GROSS 18.00, NET 18.00
+2021-08-03, Open, 89.86
+2021-08-04, SELL EXECUTED, Size: -18, Price: 89.91, Cost: 1610.64, Comm 0.00
+2021-08-04, BUY EXECUTED, Size: 18, Price: 89.91, Cost: 1618.38, Comm 0.00
+2021-08-04, OPERATION PROFIT, GROSS 7.74, NET 7.74
+2021-08-04, Open, 90.55
+2021-08-05, SELL EXECUTED, Size: -18, Price: 90.79, Cost: 1618.38, Comm 0.00
+2021-08-05, BUY EXECUTED, Size: 18, Price: 90.79, Cost: 1634.22, Comm 0.00
+2021-08-05, OPERATION PROFIT, GROSS 15.84, NET 15.84
+2021-08-05, Open, 91.60
+2021-08-06, SELL EXECUTED, Size: -18, Price: 91.68, Cost: 1634.22, Comm 0.00
+2021-08-06, BUY EXECUTED, Size: 18, Price: 91.68, Cost: 1650.24, Comm 0.00
+2021-08-06, OPERATION PROFIT, GROSS 16.02, NET 16.02
+2021-08-06, Open, 91.90
+2021-08-09, SELL EXECUTED, Size: -18, Price: 92.80, Cost: 1650.24, Comm 0.00
+2021-08-09, BUY EXECUTED, Size: 18, Price: 92.80, Cost: 1670.40, Comm 0.00
+2021-08-09, OPERATION PROFIT, GROSS 20.16, NET 20.16
+2021-08-09, Open, 92.95
+2021-08-10, SELL EXECUTED, Size: -18, Price: 93.59, Cost: 1670.40, Comm 0.00
+2021-08-10, BUY EXECUTED, Size: 18, Price: 93.59, Cost: 1684.62, Comm 0.00
+2021-08-10, OPERATION PROFIT, GROSS 14.22, NET 14.22
+2021-08-10, Open, 94.39
+2021-08-11, SELL EXECUTED, Size: -18, Price: 96.33, Cost: 1684.62, Comm 0.00
+2021-08-11, BUY EXECUTED, Size: 18, Price: 96.33, Cost: 1733.94, Comm 0.00
+2021-08-11, OPERATION PROFIT, GROSS 49.32, NET 49.32
+2021-08-11, Open, 95.82
+2021-08-12, SELL EXECUTED, Size: -18, Price: 96.43, Cost: 1733.94, Comm 0.00
+2021-08-12, BUY EXECUTED, Size: 18, Price: 96.43, Cost: 1735.74, Comm 0.00
+2021-08-12, OPERATION PROFIT, GROSS 1.80, NET 1.80
+2021-08-12, Open, 93.79
+2021-08-13, SELL EXECUTED, Size: -18, Price: 93.89, Cost: 1735.74, Comm 0.00
+2021-08-13, BUY EXECUTED, Size: 18, Price: 93.89, Cost: 1690.02, Comm 0.00
+2021-08-13, OPERATION PROFIT, GROSS -45.72, NET -45.72
+2021-08-13, Open, 92.15
+2021-08-16, SELL EXECUTED, Size: -18, Price: 91.72, Cost: 1690.02, Comm 0.00
+2021-08-16, BUY EXECUTED, Size: 18, Price: 91.72, Cost: 1650.96, Comm 0.00
+2021-08-16, OPERATION PROFIT, GROSS -39.06, NET -39.06
+2021-08-16, Open, 90.83
+2021-08-17, SELL EXECUTED, Size: -18, Price: 90.96, Cost: 1650.96, Comm 0.00
+2021-08-17, BUY EXECUTED, Size: 18, Price: 90.96, Cost: 1637.28, Comm 0.00
+2021-08-17, OPERATION PROFIT, GROSS -13.68, NET -13.68
+2021-08-17, Open, 89.44
+2021-08-18, SELL EXECUTED, Size: -18, Price: 89.88, Cost: 1637.28, Comm 0.00
+2021-08-18, BUY EXECUTED, Size: 18, Price: 89.88, Cost: 1617.84, Comm 0.00
+2021-08-18, OPERATION PROFIT, GROSS -19.44, NET -19.44
+2021-08-18, Open, 90.13
+2021-08-19, SELL EXECUTED, Size: -18, Price: 89.55, Cost: 1617.84, Comm 0.00
+2021-08-19, BUY EXECUTED, Size: 18, Price: 89.55, Cost: 1611.90, Comm 0.00
+2021-08-19, OPERATION PROFIT, GROSS -5.94, NET -5.94
+2021-08-19, Open, 89.64
+2021-08-20, SELL EXECUTED, Size: -18, Price: 90.34, Cost: 1611.90, Comm 0.00
+2021-08-20, BUY EXECUTED, Size: 18, Price: 90.34, Cost: 1626.12, Comm 0.00
+2021-08-20, OPERATION PROFIT, GROSS 14.22, NET 14.22
+2021-08-20, Open, 89.68
+2021-08-23, SELL EXECUTED, Size: -18, Price: 90.24, Cost: 1626.12, Comm 0.00
+2021-08-23, BUY EXECUTED, Size: 18, Price: 90.24, Cost: 1624.32, Comm 0.00
+2021-08-23, OPERATION PROFIT, GROSS -1.80, NET -1.80
+2021-08-23, Open, 90.49
+2021-08-24, SELL EXECUTED, Size: -18, Price: 90.80, Cost: 1624.32, Comm 0.00
+2021-08-24, BUY EXECUTED, Size: 18, Price: 90.80, Cost: 1634.40, Comm 0.00
+2021-08-24, OPERATION PROFIT, GROSS 10.08, NET 10.08
+2021-08-24, Open, 90.26
+2021-08-25, SELL EXECUTED, Size: -18, Price: 90.33, Cost: 1634.40, Comm 0.00
+2021-08-25, BUY EXECUTED, Size: 18, Price: 90.33, Cost: 1625.94, Comm 0.00
+2021-08-25, OPERATION PROFIT, GROSS -8.46, NET -8.46
+2021-08-25, Open, 90.63
+2021-08-26, SELL EXECUTED, Size: -18, Price: 90.92, Cost: 1625.94, Comm 0.00
+2021-08-26, BUY EXECUTED, Size: 18, Price: 90.92, Cost: 1636.56, Comm 0.00
+2021-08-26, OPERATION PROFIT, GROSS 10.62, NET 10.62
+2021-08-26, Open, 91.24
+2021-08-27, SELL EXECUTED, Size: -18, Price: 91.11, Cost: 1636.56, Comm 0.00
+2021-08-27, BUY EXECUTED, Size: 18, Price: 91.11, Cost: 1639.98, Comm 0.00
+2021-08-27, OPERATION PROFIT, GROSS 3.42, NET 3.42
+2021-08-27, Open, 91.73
+2021-08-30, SELL EXECUTED, Size: -18, Price: 92.15, Cost: 1639.98, Comm 0.00
+2021-08-30, BUY EXECUTED, Size: 18, Price: 92.15, Cost: 1658.70, Comm 0.00
+2021-08-30, OPERATION PROFIT, GROSS 18.72, NET 18.72
+2021-08-30, Open, 90.72
+2021-08-31, SELL EXECUTED, Size: -18, Price: 90.34, Cost: 1658.70, Comm 0.00
+2021-08-31, BUY EXECUTED, Size: 18, Price: 90.34, Cost: 1626.12, Comm 0.00
+2021-08-31, OPERATION PROFIT, GROSS -32.58, NET -32.58
+2021-08-31, Open, 90.45
+2021-09-01, SELL EXECUTED, Size: -18, Price: 90.00, Cost: 1626.12, Comm 0.00
+2021-09-01, BUY EXECUTED, Size: 18, Price: 90.00, Cost: 1620.00, Comm 0.00
+2021-09-01, OPERATION PROFIT, GROSS -6.12, NET -6.12
+2021-09-01, Open, 91.24
+2021-09-02, SELL EXECUTED, Size: -18, Price: 91.70, Cost: 1620.00, Comm 0.00
+2021-09-02, BUY EXECUTED, Size: 18, Price: 91.70, Cost: 1650.60, Comm 0.00
+2021-09-02, OPERATION PROFIT, GROSS 30.60, NET 30.60
+2021-09-02, Open, 91.58
+2021-09-03, SELL EXECUTED, Size: -18, Price: 91.57, Cost: 1650.60, Comm 0.00
+2021-09-03, BUY EXECUTED, Size: 18, Price: 91.57, Cost: 1648.26, Comm 0.00
+2021-09-03, OPERATION PROFIT, GROSS -2.34, NET -2.34
+2021-09-03, Open, 92.00
+2021-09-06, SELL EXECUTED, Size: -18, Price: 91.52, Cost: 1648.26, Comm 0.00
+2021-09-06, BUY EXECUTED, Size: 18, Price: 91.52, Cost: 1647.36, Comm 0.00
+2021-09-06, OPERATION PROFIT, GROSS -0.90, NET -0.90
+2021-09-06, Open, 92.29
+2021-09-07, SELL EXECUTED, Size: -18, Price: 92.15, Cost: 1647.36, Comm 0.00
+2021-09-07, BUY EXECUTED, Size: 18, Price: 92.15, Cost: 1658.70, Comm 0.00
+2021-09-07, OPERATION PROFIT, GROSS 11.34, NET 11.34
+2021-09-07, Open, 92.27
+2021-09-08, SELL EXECUTED, Size: -18, Price: 91.77, Cost: 1658.70, Comm 0.00
+2021-09-08, BUY EXECUTED, Size: 18, Price: 91.77, Cost: 1651.86, Comm 0.00
+2021-09-08, OPERATION PROFIT, GROSS -6.84, NET -6.84
+2021-09-08, Open, 92.98
+2021-09-09, SELL EXECUTED, Size: -18, Price: 92.19, Cost: 1651.86, Comm 0.00
+2021-09-09, BUY EXECUTED, Size: 18, Price: 92.19, Cost: 1659.42, Comm 0.00
+2021-09-09, OPERATION PROFIT, GROSS 7.56, NET 7.56
+2021-09-09, Open, 90.84
+2021-09-10, SELL EXECUTED, Size: -18, Price: 92.08, Cost: 1659.42, Comm 0.00
+2021-09-10, BUY EXECUTED, Size: 18, Price: 92.08, Cost: 1657.44, Comm 0.00
+2021-09-10, OPERATION PROFIT, GROSS -1.98, NET -1.98
+2021-09-10, Open, 91.33
+2021-09-13, SELL EXECUTED, Size: -18, Price: 91.05, Cost: 1657.44, Comm 0.00
+2021-09-13, BUY EXECUTED, Size: 18, Price: 91.05, Cost: 1638.90, Comm 0.00
+2021-09-13, OPERATION PROFIT, GROSS -18.54, NET -18.54
+2021-09-13, Open, 91.52
+2021-09-14, SELL EXECUTED, Size: -18, Price: 91.15, Cost: 1638.90, Comm 0.00
+2021-09-14, BUY EXECUTED, Size: 18, Price: 91.15, Cost: 1640.70, Comm 0.00
+2021-09-14, OPERATION PROFIT, GROSS 1.80, NET 1.80
+2021-09-14, Open, 91.77
+2021-09-15, SELL EXECUTED, Size: -18, Price: 91.36, Cost: 1640.70, Comm 0.00
+2021-09-15, BUY EXECUTED, Size: 18, Price: 91.36, Cost: 1644.48, Comm 0.00
+2021-09-15, OPERATION PROFIT, GROSS 3.78, NET 3.78
+2021-09-15, Open, 91.61
+2021-09-16, SELL EXECUTED, Size: -18, Price: 92.14, Cost: 1644.48, Comm 0.00
+2021-09-16, BUY EXECUTED, Size: 18, Price: 92.14, Cost: 1658.52, Comm 0.00
+2021-09-16, OPERATION PROFIT, GROSS 14.04, NET 14.04
+2021-09-16, Open, 92.92
+2021-09-17, SELL EXECUTED, Size: -18, Price: 92.24, Cost: 1658.52, Comm 0.00
+2021-09-17, BUY EXECUTED, Size: 18, Price: 92.24, Cost: 1660.32, Comm 0.00
+2021-09-17, OPERATION PROFIT, GROSS 1.80, NET 1.80
+2021-09-17, Open, 92.94
+2021-09-20, SELL EXECUTED, Size: -18, Price: 91.96, Cost: 1660.32, Comm 0.00
+2021-09-20, BUY EXECUTED, Size: 18, Price: 91.96, Cost: 1655.28, Comm 0.00
+2021-09-20, OPERATION PROFIT, GROSS -5.04, NET -5.04
+2021-09-20, Open, 91.07
+2021-09-21, SELL EXECUTED, Size: -18, Price: 90.28, Cost: 1655.28, Comm 0.00
+2021-09-21, BUY EXECUTED, Size: 18, Price: 90.28, Cost: 1625.04, Comm 0.00
+2021-09-21, OPERATION PROFIT, GROSS -30.24, NET -30.24
+2021-09-21, Open, 90.65
+2021-09-22, SELL EXECUTED, Size: -18, Price: 90.10, Cost: 1625.04, Comm 0.00
+2021-09-22, BUY EXECUTED, Size: 18, Price: 90.10, Cost: 1621.80, Comm 0.00
+2021-09-22, OPERATION PROFIT, GROSS -3.24, NET -3.24
+2021-09-22, Open, 90.02
+2021-09-23, SELL EXECUTED, Size: -18, Price: 90.72, Cost: 1621.80, Comm 0.00
+2021-09-23, BUY EXECUTED, Size: 18, Price: 90.72, Cost: 1632.96, Comm 0.00
+2021-09-23, OPERATION PROFIT, GROSS 11.16, NET 11.16
+2021-09-23, Open, 91.06
+2021-09-24, SELL EXECUTED, Size: -18, Price: 91.70, Cost: 1632.96, Comm 0.00
+2021-09-24, BUY EXECUTED, Size: 18, Price: 91.70, Cost: 1650.60, Comm 0.00
+2021-09-24, OPERATION PROFIT, GROSS 17.64, NET 17.64
+2021-09-24, Open, 91.88
+2021-09-27, SELL EXECUTED, Size: -18, Price: 92.41, Cost: 1650.60, Comm 0.00
+2021-09-27, BUY EXECUTED, Size: 18, Price: 92.41, Cost: 1663.38, Comm 0.00
+2021-09-27, OPERATION PROFIT, GROSS 12.78, NET 12.78
+2021-09-27, Open, 94.49
+2021-09-28, SELL EXECUTED, Size: -18, Price: 94.86, Cost: 1663.38, Comm 0.00
+2021-09-28, BUY EXECUTED, Size: 18, Price: 94.86, Cost: 1707.48, Comm 0.00
+2021-09-28, OPERATION PROFIT, GROSS 44.10, NET 44.10
+2021-09-28, Open, 93.95
+2021-09-29, SELL EXECUTED, Size: -18, Price: 93.49, Cost: 1707.48, Comm 0.00
+2021-09-29, BUY EXECUTED, Size: 18, Price: 93.49, Cost: 1682.82, Comm 0.00
+2021-09-29, OPERATION PROFIT, GROSS -24.66, NET -24.66
+2021-09-29, Open, 92.71
+2021-09-30, SELL EXECUTED, Size: -18, Price: 93.95, Cost: 1682.82, Comm 0.00
+2021-09-30, BUY EXECUTED, Size: 18, Price: 93.95, Cost: 1691.10, Comm 0.00
+2021-09-30, OPERATION PROFIT, GROSS 8.28, NET 8.28
+2021-09-30, Open, 94.25
+2021-10-01, SELL EXECUTED, Size: -18, Price: 92.15, Cost: 1691.10, Comm 0.00
+2021-10-01, BUY EXECUTED, Size: 18, Price: 92.15, Cost: 1658.70, Comm 0.00
+2021-10-01, OPERATION PROFIT, GROSS -32.40, NET -32.40
+2021-10-01, Open, 90.41
+2021-10-04, SELL EXECUTED, Size: -18, Price: 92.83, Cost: 1658.70, Comm 0.00
+2021-10-04, BUY EXECUTED, Size: 18, Price: 92.83, Cost: 1670.94, Comm 0.00
+2021-10-04, OPERATION PROFIT, GROSS 12.24, NET 12.24
+2021-10-04, Open, 95.00
+2021-10-05, SELL EXECUTED, Size: -18, Price: 94.67, Cost: 1670.94, Comm 0.00
+2021-10-05, BUY EXECUTED, Size: 18, Price: 94.67, Cost: 1704.06, Comm 0.00
+2021-10-05, OPERATION PROFIT, GROSS 33.12, NET 33.12
+2021-10-05, Open, 95.31
+2021-10-06, SELL EXECUTED, Size: -18, Price: 94.50, Cost: 1704.06, Comm 0.00
+2021-10-06, BUY EXECUTED, Size: 18, Price: 94.50, Cost: 1701.00, Comm 0.00
+2021-10-06, OPERATION PROFIT, GROSS -3.06, NET -3.06
+2021-10-06, Open, 93.43
+2021-10-07, SELL EXECUTED, Size: -18, Price: 93.84, Cost: 1701.00, Comm 0.00
+2021-10-07, BUY EXECUTED, Size: 18, Price: 93.84, Cost: 1689.12, Comm 0.00
+2021-10-07, OPERATION PROFIT, GROSS -11.88, NET -11.88
+2021-10-07, Open, 93.42
+2021-10-08, SELL EXECUTED, Size: -18, Price: 93.68, Cost: 1689.12, Comm 0.00
+2021-10-08, BUY EXECUTED, Size: 18, Price: 93.68, Cost: 1686.24, Comm 0.00
+2021-10-08, OPERATION PROFIT, GROSS -2.88, NET -2.88
+2021-10-08, Open, 94.36
+2021-10-11, SELL EXECUTED, Size: -18, Price: 93.96, Cost: 1686.24, Comm 0.00
+2021-10-11, BUY EXECUTED, Size: 18, Price: 93.96, Cost: 1691.28, Comm 0.00
+2021-10-11, OPERATION PROFIT, GROSS 5.04, NET 5.04
+2021-10-11, Open, 94.58
+2021-10-12, SELL EXECUTED, Size: -18, Price: 93.64, Cost: 1691.28, Comm 0.00
+2021-10-12, BUY EXECUTED, Size: 18, Price: 93.64, Cost: 1685.52, Comm 0.00
+2021-10-12, OPERATION PROFIT, GROSS -5.76, NET -5.76
+2021-10-12, Open, 94.76
+2021-10-13, SELL EXECUTED, Size: -18, Price: 94.53, Cost: 1685.52, Comm 0.00
+2021-10-13, BUY EXECUTED, Size: 18, Price: 94.53, Cost: 1701.54, Comm 0.00
+2021-10-13, OPERATION PROFIT, GROSS 16.02, NET 16.02
+2021-10-13, Open, 93.25
+2021-10-14, SELL EXECUTED, Size: -18, Price: 93.42, Cost: 1701.54, Comm 0.00
+2021-10-14, BUY EXECUTED, Size: 18, Price: 93.42, Cost: 1681.56, Comm 0.00
+2021-10-14, OPERATION PROFIT, GROSS -19.98, NET -19.98
+2021-10-14, Open, 92.07
+2021-10-15, SELL EXECUTED, Size: -18, Price: 92.39, Cost: 1681.56, Comm 0.00
+2021-10-15, BUY EXECUTED, Size: 18, Price: 92.39, Cost: 1663.02, Comm 0.00
+2021-10-15, OPERATION PROFIT, GROSS -18.54, NET -18.54
+2021-10-15, Open, 92.40
+2021-10-18, SELL EXECUTED, Size: -18, Price: 92.64, Cost: 1663.02, Comm 0.00
+2021-10-18, BUY EXECUTED, Size: 18, Price: 92.64, Cost: 1667.52, Comm 0.00
+2021-10-18, OPERATION PROFIT, GROSS 4.50, NET 4.50
+2021-10-18, Open, 93.90
+2021-10-19, SELL EXECUTED, Size: -18, Price: 93.90, Cost: 1667.52, Comm 0.00
+2021-10-19, BUY EXECUTED, Size: 18, Price: 93.90, Cost: 1690.20, Comm 0.00
+2021-10-19, OPERATION PROFIT, GROSS 22.68, NET 22.68
+2021-10-19, Open, 93.86
+2021-10-20, SELL EXECUTED, Size: -18, Price: 94.28, Cost: 1690.20, Comm 0.00
+2021-10-20, BUY EXECUTED, Size: 18, Price: 94.28, Cost: 1697.04, Comm 0.00
+2021-10-20, OPERATION PROFIT, GROSS 6.84, NET 6.84
+2021-10-20, Open, 94.89
+2021-10-21, SELL EXECUTED, Size: -18, Price: 94.89, Cost: 1697.04, Comm 0.00
+2021-10-21, BUY EXECUTED, Size: 18, Price: 94.89, Cost: 1708.02, Comm 0.00
+2021-10-21, OPERATION PROFIT, GROSS 10.98, NET 10.98
+2021-10-21, Open, 94.81
+2021-10-22, SELL EXECUTED, Size: -18, Price: 94.42, Cost: 1708.02, Comm 0.00
+2021-10-22, BUY EXECUTED, Size: 18, Price: 94.42, Cost: 1699.56, Comm 0.00
+2021-10-22, OPERATION PROFIT, GROSS -8.46, NET -8.46
+2021-10-22, Open, 94.75
+2021-10-25, SELL EXECUTED, Size: -18, Price: 94.86, Cost: 1699.56, Comm 0.00
+2021-10-25, BUY EXECUTED, Size: 18, Price: 94.86, Cost: 1707.48, Comm 0.00
+2021-10-25, OPERATION PROFIT, GROSS 7.92, NET 7.92
+2021-10-25, Open, 95.27
+2021-10-26, SELL EXECUTED, Size: -18, Price: 95.36, Cost: 1707.48, Comm 0.00
+2021-10-26, BUY EXECUTED, Size: 18, Price: 95.36, Cost: 1716.48, Comm 0.00
+2021-10-26, OPERATION PROFIT, GROSS 9.00, NET 9.00
+2021-10-26, Open, 94.95
+2021-10-27, SELL EXECUTED, Size: -18, Price: 94.89, Cost: 1716.48, Comm 0.00
+2021-10-27, BUY EXECUTED, Size: 18, Price: 94.89, Cost: 1708.02, Comm 0.00
+2021-10-27, OPERATION PROFIT, GROSS -8.46, NET -8.46
+2021-10-27, Open, 95.85
+2021-10-28, SELL EXECUTED, Size: -18, Price: 95.75, Cost: 1708.02, Comm 0.00
+2021-10-28, BUY EXECUTED, Size: 18, Price: 95.75, Cost: 1723.50, Comm 0.00
+2021-10-28, OPERATION PROFIT, GROSS 15.48, NET 15.48
+2021-10-28, Open, 96.54
+2021-10-29, SELL EXECUTED, Size: -18, Price: 96.66, Cost: 1723.50, Comm 0.00
+2021-10-29, BUY EXECUTED, Size: 18, Price: 96.66, Cost: 1739.88, Comm 0.00
+2021-10-29, OPERATION PROFIT, GROSS 16.38, NET 16.38
+2021-10-29, Open, 94.57
+2021-11-01, SELL EXECUTED, Size: -18, Price: 95.47, Cost: 1739.88, Comm 0.00
+2021-11-01, BUY EXECUTED, Size: 18, Price: 95.47, Cost: 1718.46, Comm 0.00
+2021-11-01, OPERATION PROFIT, GROSS -21.42, NET -21.42
+2021-11-01, Open, 96.02
+2021-11-02, SELL EXECUTED, Size: -18, Price: 96.05, Cost: 1718.46, Comm 0.00
+2021-11-02, BUY EXECUTED, Size: 18, Price: 96.05, Cost: 1728.90, Comm 0.00
+2021-11-02, OPERATION PROFIT, GROSS 10.44, NET 10.44
+2021-11-02, Open, 95.54
+2021-11-03, SELL EXECUTED, Size: -18, Price: 96.23, Cost: 1728.90, Comm 0.00
+2021-11-03, BUY EXECUTED, Size: 18, Price: 96.23, Cost: 1732.14, Comm 0.00
+2021-11-03, OPERATION PROFIT, GROSS 3.24, NET 3.24
+2021-11-03, Open, 96.66
+2021-11-04, SELL EXECUTED, Size: -18, Price: 96.89, Cost: 1732.14, Comm 0.00
+2021-11-04, BUY EXECUTED, Size: 18, Price: 96.89, Cost: 1744.02, Comm 0.00
+2021-11-04, OPERATION PROFIT, GROSS 11.88, NET 11.88
+2021-11-04, Open, 98.02
+2021-11-05, SELL EXECUTED, Size: -18, Price: 98.02, Cost: 1744.02, Comm 0.00
+2021-11-05, BUY EXECUTED, Size: 18, Price: 98.02, Cost: 1764.36, Comm 0.00
+2021-11-05, OPERATION PROFIT, GROSS 20.34, NET 20.34
+2021-11-05, Open, 99.11
+2021-11-08, SELL EXECUTED, Size: -18, Price: 99.38, Cost: 1764.36, Comm 0.00
+2021-11-08, BUY EXECUTED, Size: 18, Price: 99.38, Cost: 1788.84, Comm 0.00
+2021-11-08, OPERATION PROFIT, GROSS 24.48, NET 24.48
+2021-11-08, Open, 99.49
+2021-11-09, SELL EXECUTED, Size: -18, Price: 99.24, Cost: 1788.84, Comm 0.00
+2021-11-09, BUY EXECUTED, Size: 18, Price: 99.24, Cost: 1786.32, Comm 0.00
+2021-11-09, OPERATION PROFIT, GROSS -2.52, NET -2.52
+2021-11-09, Open, 98.30
+2021-11-10, SELL EXECUTED, Size: -18, Price: 98.47, Cost: 1786.32, Comm 0.00
+2021-11-10, BUY EXECUTED, Size: 18, Price: 98.47, Cost: 1772.46, Comm 0.00
+2021-11-10, OPERATION PROFIT, GROSS -13.86, NET -13.86
+2021-11-10, Open, 98.39
+2021-11-11, SELL EXECUTED, Size: -18, Price: 98.48, Cost: 1772.46, Comm 0.00
+2021-11-11, BUY EXECUTED, Size: 18, Price: 98.48, Cost: 1772.64, Comm 0.00
+2021-11-11, OPERATION PROFIT, GROSS 0.18, NET 0.18
+2021-11-11, Open, 96.82
+2021-11-12, SELL EXECUTED, Size: -18, Price: 96.95, Cost: 1772.64, Comm 0.00
+2021-11-12, BUY EXECUTED, Size: 18, Price: 96.95, Cost: 1745.10, Comm 0.00
+2021-11-12, OPERATION PROFIT, GROSS -27.54, NET -27.54
+2021-11-12, Open, 97.68
+2021-11-15, SELL EXECUTED, Size: -18, Price: 97.60, Cost: 1745.10, Comm 0.00
+2021-11-15, BUY EXECUTED, Size: 18, Price: 97.60, Cost: 1756.80, Comm 0.00
+2021-11-15, OPERATION PROFIT, GROSS 11.70, NET 11.70
+2021-11-15, Open, 97.58
+2021-11-16, SELL EXECUTED, Size: -18, Price: 97.12, Cost: 1756.80, Comm 0.00
+2021-11-16, BUY EXECUTED, Size: 18, Price: 97.12, Cost: 1748.16, Comm 0.00
+2021-11-16, OPERATION PROFIT, GROSS -8.64, NET -8.64
+2021-11-16, Open, 97.28
+2021-11-17, SELL EXECUTED, Size: -18, Price: 93.32, Cost: 1748.16, Comm 0.00
+2021-11-17, BUY EXECUTED, Size: 18, Price: 93.32, Cost: 1679.76, Comm 0.00
+2021-11-17, OPERATION PROFIT, GROSS -68.40, NET -68.40
+2021-11-17, Open, 89.43
+2021-11-18, SELL EXECUTED, Size: -18, Price: 89.44, Cost: 1679.76, Comm 0.00
+2021-11-18, BUY EXECUTED, Size: 18, Price: 89.44, Cost: 1609.92, Comm 0.00
+2021-11-18, OPERATION PROFIT, GROSS -69.84, NET -69.84
+2021-11-18, Open, 88.05
+2021-11-19, SELL EXECUTED, Size: -18, Price: 88.29, Cost: 1609.92, Comm 0.00
+2021-11-19, BUY EXECUTED, Size: 18, Price: 88.29, Cost: 1589.22, Comm 0.00
+2021-11-19, OPERATION PROFIT, GROSS -20.70, NET -20.70
+2021-11-19, Open, 88.36
+2021-11-22, SELL EXECUTED, Size: -18, Price: 88.37, Cost: 1589.22, Comm 0.00
+2021-11-22, BUY EXECUTED, Size: 18, Price: 88.37, Cost: 1590.66, Comm 0.00
+2021-11-22, OPERATION PROFIT, GROSS 1.44, NET 1.44
+2021-11-22, Open, 86.55
+2021-11-23, SELL EXECUTED, Size: -18, Price: 86.86, Cost: 1590.66, Comm 0.00
+2021-11-23, BUY EXECUTED, Size: 18, Price: 86.86, Cost: 1563.48, Comm 0.00
+2021-11-23, OPERATION PROFIT, GROSS -27.18, NET -27.18
+2021-11-23, Open, 87.47
+2021-11-24, SELL EXECUTED, Size: -18, Price: 87.81, Cost: 1563.48, Comm 0.00
+2021-11-24, BUY EXECUTED, Size: 18, Price: 87.81, Cost: 1580.58, Comm 0.00
+2021-11-24, OPERATION PROFIT, GROSS 17.10, NET 17.10
+2021-11-24, Open, 87.79
+2021-11-25, SELL EXECUTED, Size: -18, Price: 87.51, Cost: 1580.58, Comm 0.00
+2021-11-25, BUY EXECUTED, Size: 18, Price: 87.51, Cost: 1575.18, Comm 0.00
+2021-11-25, OPERATION PROFIT, GROSS -5.40, NET -5.40
+2021-11-25, Open, 86.52
+2021-11-26, SELL EXECUTED, Size: -18, Price: 86.55, Cost: 1575.18, Comm 0.00
+2021-11-26, BUY EXECUTED, Size: 18, Price: 86.55, Cost: 1557.90, Comm 0.00
+2021-11-26, OPERATION PROFIT, GROSS -17.28, NET -17.28
+2021-11-26, Open, 85.65
+2021-11-29, SELL EXECUTED, Size: -18, Price: 84.35, Cost: 1557.90, Comm 0.00
+2021-11-29, BUY EXECUTED, Size: 18, Price: 84.35, Cost: 1518.30, Comm 0.00
+2021-11-29, OPERATION PROFIT, GROSS -39.60, NET -39.60
+2021-11-29, Open, 84.72
+2021-11-30, SELL EXECUTED, Size: -18, Price: 85.43, Cost: 1518.30, Comm 0.00
+2021-11-30, BUY EXECUTED, Size: 18, Price: 85.43, Cost: 1537.74, Comm 0.00
+2021-11-30, OPERATION PROFIT, GROSS 19.44, NET 19.44
+2021-11-30, Open, 84.18
+2021-12-01, SELL EXECUTED, Size: -18, Price: 83.66, Cost: 1537.74, Comm 0.00
+2021-12-01, BUY EXECUTED, Size: 18, Price: 83.66, Cost: 1505.88, Comm 0.00
+2021-12-01, OPERATION PROFIT, GROSS -31.86, NET -31.86
+2021-12-01, Open, 84.81
+2021-12-02, SELL EXECUTED, Size: -18, Price: 84.02, Cost: 1505.88, Comm 0.00
+2021-12-02, BUY EXECUTED, Size: 18, Price: 84.02, Cost: 1512.36, Comm 0.00
+2021-12-02, OPERATION PROFIT, GROSS 6.48, NET 6.48
+2021-12-02, Open, 86.64
+2021-12-03, SELL EXECUTED, Size: -18, Price: 87.19, Cost: 1512.36, Comm 0.00
+2021-12-03, BUY EXECUTED, Size: 18, Price: 87.19, Cost: 1569.42, Comm 0.00
+2021-12-03, OPERATION PROFIT, GROSS 57.06, NET 57.06
+2021-12-03, Open, 87.28
+2021-12-06, SELL EXECUTED, Size: -18, Price: 87.29, Cost: 1569.42, Comm 0.00
+2021-12-06, BUY EXECUTED, Size: 18, Price: 87.29, Cost: 1571.22, Comm 0.00
+2021-12-06, OPERATION PROFIT, GROSS 1.80, NET 1.80
+2021-12-06, Open, 87.85
+2021-12-07, SELL EXECUTED, Size: -18, Price: 88.53, Cost: 1571.22, Comm 0.00
+2021-12-07, BUY EXECUTED, Size: 18, Price: 88.53, Cost: 1593.54, Comm 0.00
+2021-12-07, OPERATION PROFIT, GROSS 22.32, NET 22.32
+2021-12-07, Open, 88.20
+2021-12-08, SELL EXECUTED, Size: -18, Price: 88.77, Cost: 1593.54, Comm 0.00
+2021-12-08, BUY EXECUTED, Size: 18, Price: 88.77, Cost: 1597.86, Comm 0.00
+2021-12-08, OPERATION PROFIT, GROSS 4.32, NET 4.32
+2021-12-08, Open, 88.49
+2021-12-09, SELL EXECUTED, Size: -18, Price: 88.64, Cost: 1597.86, Comm 0.00
+2021-12-09, BUY EXECUTED, Size: 18, Price: 88.64, Cost: 1595.52, Comm 0.00
+2021-12-09, OPERATION PROFIT, GROSS -2.34, NET -2.34
+2021-12-09, Open, 88.68
+2021-12-10, SELL EXECUTED, Size: -18, Price: 88.35, Cost: 1595.52, Comm 0.00
+2021-12-10, BUY EXECUTED, Size: 18, Price: 88.35, Cost: 1590.30, Comm 0.00
+2021-12-10, OPERATION PROFIT, GROSS -5.22, NET -5.22
+2021-12-10, Open, 88.44
+2021-12-13, SELL EXECUTED, Size: -18, Price: 88.81, Cost: 1590.30, Comm 0.00
+2021-12-13, BUY EXECUTED, Size: 18, Price: 88.81, Cost: 1598.58, Comm 0.00
+2021-12-13, OPERATION PROFIT, GROSS 8.28, NET 8.28
+2021-12-13, Open, 88.56
+2021-12-14, SELL EXECUTED, Size: -18, Price: 87.66, Cost: 1598.58, Comm 0.00
+2021-12-14, BUY EXECUTED, Size: 18, Price: 87.66, Cost: 1577.88, Comm 0.00
+2021-12-14, OPERATION PROFIT, GROSS -20.70, NET -20.70
+2021-12-14, Open, 88.12
+2021-12-15, SELL EXECUTED, Size: -18, Price: 87.97, Cost: 1577.88, Comm 0.00
+2021-12-15, BUY EXECUTED, Size: 18, Price: 87.97, Cost: 1583.46, Comm 0.00
+2021-12-15, OPERATION PROFIT, GROSS 5.58, NET 5.58
+2021-12-15, Open, 87.57
+2021-12-16, SELL EXECUTED, Size: -18, Price: 87.34, Cost: 1583.46, Comm 0.00
+2021-12-16, BUY EXECUTED, Size: 18, Price: 87.34, Cost: 1572.12, Comm 0.00
+2021-12-16, OPERATION PROFIT, GROSS -11.34, NET -11.34
+2021-12-16, Open, 87.44
+2021-12-17, SELL EXECUTED, Size: -18, Price: 87.78, Cost: 1572.12, Comm 0.00
+2021-12-17, BUY EXECUTED, Size: 18, Price: 87.78, Cost: 1580.04, Comm 0.00
+2021-12-17, OPERATION PROFIT, GROSS 7.92, NET 7.92
+2021-12-17, Open, 89.55
+2021-12-20, SELL EXECUTED, Size: -18, Price: 89.12, Cost: 1580.04, Comm 0.00
+2021-12-20, BUY EXECUTED, Size: 18, Price: 89.12, Cost: 1604.16, Comm 0.00
+2021-12-20, OPERATION PROFIT, GROSS 24.12, NET 24.12
+2021-12-20, Open, 89.62
+2021-12-21, SELL EXECUTED, Size: -18, Price: 89.93, Cost: 1604.16, Comm 0.00
+2021-12-21, BUY EXECUTED, Size: 18, Price: 89.93, Cost: 1618.74, Comm 0.00
+2021-12-21, OPERATION PROFIT, GROSS 14.58, NET 14.58
+2021-12-21, Open, 89.97
+2021-12-22, SELL EXECUTED, Size: -18, Price: 90.16, Cost: 1618.74, Comm 0.00
+2021-12-22, BUY EXECUTED, Size: 18, Price: 90.16, Cost: 1622.88, Comm 0.00
+2021-12-22, OPERATION PROFIT, GROSS 4.14, NET 4.14
+2021-12-22, Open, 90.14
+2021-12-23, SELL EXECUTED, Size: -18, Price: 90.34, Cost: 1622.88, Comm 0.00
+2021-12-23, BUY EXECUTED, Size: 18, Price: 90.34, Cost: 1626.12, Comm 0.00
+2021-12-23, OPERATION PROFIT, GROSS 3.24, NET 3.24
+2021-12-23, Open, 90.44
+2021-12-24, SELL EXECUTED, Size: -18, Price: 90.87, Cost: 1626.12, Comm 0.00
+2021-12-24, BUY EXECUTED, Size: 18, Price: 90.87, Cost: 1635.66, Comm 0.00
+2021-12-24, OPERATION PROFIT, GROSS 9.54, NET 9.54
+2021-12-24, Open, 90.91
+2021-12-29, SELL EXECUTED, Size: -18, Price: 91.62, Cost: 1635.66, Comm 0.00
+2021-12-29, BUY EXECUTED, Size: 18, Price: 91.62, Cost: 1649.16, Comm 0.00
+2021-12-29, OPERATION PROFIT, GROSS 13.50, NET 13.50
+2021-12-29, Open, 92.06
+2021-12-30, SELL EXECUTED, Size: -18, Price: 92.15, Cost: 1649.16, Comm 0.00
+2021-12-30, BUY EXECUTED, Size: 18, Price: 92.15, Cost: 1658.70, Comm 0.00
+2021-12-30, OPERATION PROFIT, GROSS 9.54, NET 9.54
+2021-12-30, Open, 92.39
+2021-12-31, SELL EXECUTED, Size: -18, Price: 92.39, Cost: 1658.70, Comm 0.00
+2021-12-31, BUY EXECUTED, Size: 18, Price: 92.39, Cost: 1663.02, Comm 0.00
+2021-12-31, OPERATION PROFIT, GROSS 4.32, NET 4.32
+2021-12-31, Open, 91.24
+2022-01-04, SELL EXECUTED, Size: -18, Price: 92.15, Cost: 1663.02, Comm 0.00
+2022-01-04, BUY EXECUTED, Size: 18, Price: 92.15, Cost: 1658.70, Comm 0.00
+2022-01-04, OPERATION PROFIT, GROSS -4.32, NET -4.32
+2022-01-04, Open, 92.61
+2022-01-05, SELL EXECUTED, Size: -18, Price: 93.30, Cost: 1658.70, Comm 0.00
+2022-01-05, BUY EXECUTED, Size: 18, Price: 93.30, Cost: 1679.40, Comm 0.00
+2022-01-05, OPERATION PROFIT, GROSS 20.70, NET 20.70
+2022-01-05, Open, 93.23
+2022-01-06, SELL EXECUTED, Size: -18, Price: 92.87, Cost: 1679.40, Comm 0.00
+2022-01-06, BUY EXECUTED, Size: 18, Price: 92.87, Cost: 1671.66, Comm 0.00
+2022-01-06, OPERATION PROFIT, GROSS -7.74, NET -7.74
+2022-01-06, Open, 90.31
+2022-01-07, SELL EXECUTED, Size: -18, Price: 92.14, Cost: 1671.66, Comm 0.00
+2022-01-07, BUY EXECUTED, Size: 18, Price: 92.14, Cost: 1658.52, Comm 0.00
+2022-01-07, OPERATION PROFIT, GROSS -13.14, NET -13.14
+2022-01-07, Open, 92.74
+2022-01-10, SELL EXECUTED, Size: -18, Price: 92.93, Cost: 1658.52, Comm 0.00
+2022-01-10, BUY EXECUTED, Size: 18, Price: 92.93, Cost: 1672.74, Comm 0.00
+2022-01-10, OPERATION PROFIT, GROSS 14.22, NET 14.22
+2022-01-10, Open, 93.34
+2022-01-11, SELL EXECUTED, Size: -18, Price: 92.62, Cost: 1672.74, Comm 0.00
+2022-01-11, BUY EXECUTED, Size: 18, Price: 92.62, Cost: 1667.16, Comm 0.00
+2022-01-11, OPERATION PROFIT, GROSS -5.58, NET -5.58
+2022-01-11, Open, 91.93
+2022-01-12, SELL EXECUTED, Size: -18, Price: 92.28, Cost: 1667.16, Comm 0.00
+2022-01-12, BUY EXECUTED, Size: 18, Price: 92.28, Cost: 1661.04, Comm 0.00
+2022-01-12, OPERATION PROFIT, GROSS -6.12, NET -6.12
+2022-01-12, Open, 91.77
+2022-01-13, SELL EXECUTED, Size: -18, Price: 92.06, Cost: 1661.04, Comm 0.00
+2022-01-13, BUY EXECUTED, Size: 18, Price: 92.06, Cost: 1657.08, Comm 0.00
+2022-01-13, OPERATION PROFIT, GROSS -3.96, NET -3.96
+2022-01-13, Open, 92.26
+2022-01-14, SELL EXECUTED, Size: -18, Price: 91.93, Cost: 1657.08, Comm 0.00
+2022-01-14, BUY EXECUTED, Size: 18, Price: 91.93, Cost: 1654.74, Comm 0.00
+2022-01-14, OPERATION PROFIT, GROSS -2.34, NET -2.34
+2022-01-14, Open, 91.11
+2022-01-17, SELL EXECUTED, Size: -18, Price: 92.01, Cost: 1654.74, Comm 0.00
+2022-01-17, BUY EXECUTED, Size: 18, Price: 92.01, Cost: 1656.18, Comm 0.00
+2022-01-17, OPERATION PROFIT, GROSS 1.44, NET 1.44
+2022-01-17, Open, 91.39
+2022-01-18, SELL EXECUTED, Size: -18, Price: 91.24, Cost: 1656.18, Comm 0.00
+2022-01-18, BUY EXECUTED, Size: 18, Price: 91.24, Cost: 1642.32, Comm 0.00
+2022-01-18, OPERATION PROFIT, GROSS -13.86, NET -13.86
+2022-01-18, Open, 91.05
+2022-01-19, SELL EXECUTED, Size: -18, Price: 90.69, Cost: 1642.32, Comm 0.00
+2022-01-19, BUY EXECUTED, Size: 18, Price: 90.69, Cost: 1632.42, Comm 0.00
+2022-01-19, OPERATION PROFIT, GROSS -9.90, NET -9.90
+2022-01-19, Open, 89.74
+2022-01-20, SELL EXECUTED, Size: -18, Price: 88.66, Cost: 1632.42, Comm 0.00
+2022-01-20, BUY EXECUTED, Size: 18, Price: 88.66, Cost: 1595.88, Comm 0.00
+2022-01-20, OPERATION PROFIT, GROSS -36.54, NET -36.54
+2022-01-20, Open, 89.09
+2022-01-21, SELL EXECUTED, Size: -18, Price: 88.36, Cost: 1595.88, Comm 0.00
+2022-01-21, BUY EXECUTED, Size: 18, Price: 88.36, Cost: 1590.48, Comm 0.00
+2022-01-21, OPERATION PROFIT, GROSS -5.40, NET -5.40
+2022-01-21, Open, 87.97
+2022-01-24, SELL EXECUTED, Size: -18, Price: 87.63, Cost: 1590.48, Comm 0.00
+2022-01-24, BUY EXECUTED, Size: 18, Price: 87.63, Cost: 1577.34, Comm 0.00
+2022-01-24, OPERATION PROFIT, GROSS -13.14, NET -13.14
+2022-01-24, Open, 88.03
+2022-01-25, SELL EXECUTED, Size: -18, Price: 87.37, Cost: 1577.34, Comm 0.00
+2022-01-25, BUY EXECUTED, Size: 18, Price: 87.37, Cost: 1572.66, Comm 0.00
+2022-01-25, OPERATION PROFIT, GROSS -4.68, NET -4.68
+2022-01-25, Open, 86.23
+2022-01-27, SELL EXECUTED, Size: -18, Price: 86.77, Cost: 1572.66, Comm 0.00
+2022-01-27, BUY EXECUTED, Size: 18, Price: 86.77, Cost: 1561.86, Comm 0.00
+2022-01-27, OPERATION PROFIT, GROSS -10.80, NET -10.80
+2022-01-27, Open, 84.72
+2022-01-28, SELL EXECUTED, Size: -18, Price: 85.61, Cost: 1561.86, Comm 0.00
+2022-01-28, BUY EXECUTED, Size: 18, Price: 85.61, Cost: 1540.98, Comm 0.00
+2022-01-28, OPERATION PROFIT, GROSS -20.88, NET -20.88
+2022-01-28, Open, 86.43
+2022-01-31, SELL EXECUTED, Size: -18, Price: 85.83, Cost: 1540.98, Comm 0.00
+2022-01-31, BUY EXECUTED, Size: 18, Price: 85.83, Cost: 1544.94, Comm 0.00
+2022-01-31, OPERATION PROFIT, GROSS 3.96, NET 3.96
+2022-01-31, Open, 84.69
+2022-02-01, SELL EXECUTED, Size: -18, Price: 85.06, Cost: 1544.94, Comm 0.00
+2022-02-01, BUY EXECUTED, Size: 18, Price: 85.06, Cost: 1531.08, Comm 0.00
+2022-02-01, OPERATION PROFIT, GROSS -13.86, NET -13.86
+2022-02-01, Open, 84.86
+2022-02-02, SELL EXECUTED, Size: -18, Price: 85.37, Cost: 1531.08, Comm 0.00
+2022-02-02, BUY EXECUTED, Size: 18, Price: 85.37, Cost: 1536.66, Comm 0.00
+2022-02-02, OPERATION PROFIT, GROSS 5.58, NET 5.58
+2022-02-02, Open, 85.59
+2022-02-03, SELL EXECUTED, Size: -18, Price: 84.47, Cost: 1536.66, Comm 0.00
+2022-02-03, BUY EXECUTED, Size: 18, Price: 84.47, Cost: 1520.46, Comm 0.00
+2022-02-03, OPERATION PROFIT, GROSS -16.20, NET -16.20
+2022-02-03, Open, 84.41
+2022-02-04, SELL EXECUTED, Size: -18, Price: 83.96, Cost: 1520.46, Comm 0.00
+2022-02-04, BUY EXECUTED, Size: 18, Price: 83.96, Cost: 1511.28, Comm 0.00
+2022-02-04, OPERATION PROFIT, GROSS -9.18, NET -9.18
+2022-02-04, Open, 85.01
+2022-02-07, SELL EXECUTED, Size: -18, Price: 84.38, Cost: 1511.28, Comm 0.00
+2022-02-07, BUY EXECUTED, Size: 18, Price: 84.38, Cost: 1518.84, Comm 0.00
+2022-02-07, OPERATION PROFIT, GROSS 7.56, NET 7.56
+2022-02-07, Open, 84.92
+2022-02-08, SELL EXECUTED, Size: -18, Price: 84.08, Cost: 1518.84, Comm 0.00
+2022-02-08, BUY EXECUTED, Size: 18, Price: 84.08, Cost: 1513.44, Comm 0.00
+2022-02-08, OPERATION PROFIT, GROSS -5.40, NET -5.40
+2022-02-08, Open, 85.19
+2022-02-09, SELL EXECUTED, Size: -18, Price: 89.45, Cost: 1513.44, Comm 0.00
+2022-02-09, BUY EXECUTED, Size: 18, Price: 89.45, Cost: 1610.10, Comm 0.00
+2022-02-09, OPERATION PROFIT, GROSS 96.66, NET 96.66
+2022-02-09, Open, 89.94
+2022-02-10, SELL EXECUTED, Size: -18, Price: 90.34, Cost: 1610.10, Comm 0.00
+2022-02-10, BUY EXECUTED, Size: 18, Price: 90.34, Cost: 1626.12, Comm 0.00
+2022-02-10, OPERATION PROFIT, GROSS 16.02, NET 16.02
+2022-02-10, Open, 91.05
+2022-02-11, SELL EXECUTED, Size: -18, Price: 89.82, Cost: 1626.12, Comm 0.00
+2022-02-11, BUY EXECUTED, Size: 18, Price: 89.82, Cost: 1616.76, Comm 0.00
+2022-02-11, OPERATION PROFIT, GROSS -9.36, NET -9.36
+2022-02-11, Open, 89.03
+2022-02-14, SELL EXECUTED, Size: -18, Price: 88.81, Cost: 1616.76, Comm 0.00
+2022-02-14, BUY EXECUTED, Size: 18, Price: 88.81, Cost: 1598.58, Comm 0.00
+2022-02-14, OPERATION PROFIT, GROSS -18.18, NET -18.18
+2022-02-14, Open, 90.38
+2022-02-15, SELL EXECUTED, Size: -18, Price: 89.51, Cost: 1598.58, Comm 0.00
+2022-02-15, BUY EXECUTED, Size: 18, Price: 89.51, Cost: 1611.18, Comm 0.00
+2022-02-15, OPERATION PROFIT, GROSS 12.60, NET 12.60
+2022-02-15, Open, 89.88
+2022-02-16, SELL EXECUTED, Size: -18, Price: 90.50, Cost: 1611.18, Comm 0.00
+2022-02-16, BUY EXECUTED, Size: 18, Price: 90.50, Cost: 1629.00, Comm 0.00
+2022-02-16, OPERATION PROFIT, GROSS 17.82, NET 17.82
+2022-02-16, Open, 90.64
+2022-02-17, SELL EXECUTED, Size: -18, Price: 90.66, Cost: 1629.00, Comm 0.00
+2022-02-17, BUY EXECUTED, Size: 18, Price: 90.66, Cost: 1631.88, Comm 0.00
+2022-02-17, OPERATION PROFIT, GROSS 2.88, NET 2.88
+2022-02-17, Open, 90.86
+2022-02-18, SELL EXECUTED, Size: -18, Price: 90.12, Cost: 1631.88, Comm 0.00
+2022-02-18, BUY EXECUTED, Size: 18, Price: 90.12, Cost: 1622.16, Comm 0.00
+2022-02-18, OPERATION PROFIT, GROSS -9.72, NET -9.72
+2022-02-18, Open, 89.89
+2022-02-21, SELL EXECUTED, Size: -18, Price: 89.15, Cost: 1622.16, Comm 0.00
+2022-02-21, BUY EXECUTED, Size: 18, Price: 89.15, Cost: 1604.70, Comm 0.00
+2022-02-21, OPERATION PROFIT, GROSS -17.46, NET -17.46
+2022-02-21, Open, 90.20
+2022-02-22, SELL EXECUTED, Size: -18, Price: 88.61, Cost: 1604.70, Comm 0.00
+2022-02-22, BUY EXECUTED, Size: 18, Price: 88.61, Cost: 1594.98, Comm 0.00
+2022-02-22, OPERATION PROFIT, GROSS -9.72, NET -9.72
+2022-02-22, Open, 88.32
+2022-02-23, SELL EXECUTED, Size: -18, Price: 88.32, Cost: 1594.98, Comm 0.00
+2022-02-23, BUY EXECUTED, Size: 18, Price: 88.32, Cost: 1589.76, Comm 0.00
+2022-02-23, OPERATION PROFIT, GROSS -5.22, NET -5.22
+2022-02-23, Open, 88.91
+2022-02-24, SELL EXECUTED, Size: -18, Price: 88.21, Cost: 1589.76, Comm 0.00
+2022-02-24, BUY EXECUTED, Size: 18, Price: 88.21, Cost: 1587.78, Comm 0.00
+2022-02-24, OPERATION PROFIT, GROSS -1.98, NET -1.98
+2022-02-24, Open, 87.09
+2022-02-25, SELL EXECUTED, Size: -18, Price: 87.93, Cost: 1587.78, Comm 0.00
+2022-02-25, BUY EXECUTED, Size: 18, Price: 87.93, Cost: 1582.74, Comm 0.00
+2022-02-25, OPERATION PROFIT, GROSS -5.04, NET -5.04
+2022-02-25, Open, 86.33
+2022-02-28, SELL EXECUTED, Size: -18, Price: 86.70, Cost: 1582.74, Comm 0.00
+2022-02-28, BUY EXECUTED, Size: 18, Price: 86.70, Cost: 1560.60, Comm 0.00
+2022-02-28, OPERATION PROFIT, GROSS -22.14, NET -22.14
+2022-02-28, Open, 85.94
+2022-03-01, SELL EXECUTED, Size: -18, Price: 86.45, Cost: 1560.60, Comm 0.00
+2022-03-01, BUY EXECUTED, Size: 18, Price: 86.45, Cost: 1556.10, Comm 0.00
+2022-03-01, OPERATION PROFIT, GROSS -4.50, NET -4.50
+2022-03-01, Open, 87.20
+2022-03-02, SELL EXECUTED, Size: -18, Price: 85.14, Cost: 1556.10, Comm 0.00
+2022-03-02, BUY EXECUTED, Size: 18, Price: 85.14, Cost: 1532.52, Comm 0.00
+2022-03-02, OPERATION PROFIT, GROSS -23.58, NET -23.58
+2022-03-02, Open, 87.08
+2022-03-03, SELL EXECUTED, Size: -18, Price: 87.60, Cost: 1532.52, Comm 0.00
+2022-03-03, BUY EXECUTED, Size: 18, Price: 87.60, Cost: 1576.80, Comm 0.00
+2022-03-03, OPERATION PROFIT, GROSS 44.28, NET 44.28
+2022-03-03, Open, 86.91
+2022-03-04, SELL EXECUTED, Size: -18, Price: 87.18, Cost: 1576.80, Comm 0.00
+2022-03-04, BUY EXECUTED, Size: 18, Price: 87.18, Cost: 1569.24, Comm 0.00
+2022-03-04, OPERATION PROFIT, GROSS -7.56, NET -7.56
+2022-03-04, Open, 86.99
+2022-03-07, SELL EXECUTED, Size: -18, Price: 86.67, Cost: 1569.24, Comm 0.00
+2022-03-07, BUY EXECUTED, Size: 18, Price: 86.67, Cost: 1560.06, Comm 0.00
+2022-03-07, OPERATION PROFIT, GROSS -9.18, NET -9.18
+2022-03-07, Open, 87.03
+2022-03-08, SELL EXECUTED, Size: -18, Price: 86.99, Cost: 1560.06, Comm 0.00
+2022-03-08, BUY EXECUTED, Size: 18, Price: 86.99, Cost: 1565.82, Comm 0.00
+2022-03-08, OPERATION PROFIT, GROSS 5.76, NET 5.76
+2022-03-08, Open, 87.90
+2022-03-09, SELL EXECUTED, Size: -18, Price: 87.59, Cost: 1565.82, Comm 0.00
+2022-03-09, BUY EXECUTED, Size: 18, Price: 87.59, Cost: 1576.62, Comm 0.00
+2022-03-09, OPERATION PROFIT, GROSS 10.80, NET 10.80
+2022-03-09, Open, 89.58
+2022-03-10, SELL EXECUTED, Size: -18, Price: 90.35, Cost: 1576.62, Comm 0.00
+2022-03-10, BUY EXECUTED, Size: 18, Price: 90.35, Cost: 1626.30, Comm 0.00
+2022-03-10, OPERATION PROFIT, GROSS 49.68, NET 49.68
+2022-03-10, Open, 91.72
+2022-03-11, SELL EXECUTED, Size: -18, Price: 90.77, Cost: 1626.30, Comm 0.00
+2022-03-11, BUY EXECUTED, Size: 18, Price: 90.77, Cost: 1633.86, Comm 0.00
+2022-03-11, OPERATION PROFIT, GROSS 7.56, NET 7.56
+2022-03-11, Open, 91.39
+2022-03-14, SELL EXECUTED, Size: -18, Price: 92.26, Cost: 1633.86, Comm 0.00
+2022-03-14, BUY EXECUTED, Size: 18, Price: 92.26, Cost: 1660.68, Comm 0.00
+2022-03-14, OPERATION PROFIT, GROSS 26.82, NET 26.82
+2022-03-14, Open, 93.80
+2022-03-15, SELL EXECUTED, Size: -18, Price: 94.30, Cost: 1660.68, Comm 0.00
+2022-03-15, BUY EXECUTED, Size: 18, Price: 94.30, Cost: 1697.40, Comm 0.00
+2022-03-15, OPERATION PROFIT, GROSS 36.72, NET 36.72
+2022-03-15, Open, 95.43
+2022-03-16, SELL EXECUTED, Size: -18, Price: 95.92, Cost: 1697.40, Comm 0.00
+2022-03-16, BUY EXECUTED, Size: 18, Price: 95.92, Cost: 1726.56, Comm 0.00
+2022-03-16, OPERATION PROFIT, GROSS 29.16, NET 29.16
+2022-03-16, Open, 96.34
+2022-03-17, SELL EXECUTED, Size: -18, Price: 98.40, Cost: 1726.56, Comm 0.00
+2022-03-17, BUY EXECUTED, Size: 18, Price: 98.40, Cost: 1771.20, Comm 0.00
+2022-03-17, OPERATION PROFIT, GROSS 44.64, NET 44.64
+2022-03-17, Open, 97.61
+2022-03-18, SELL EXECUTED, Size: -18, Price: 97.24, Cost: 1771.20, Comm 0.00
+2022-03-18, BUY EXECUTED, Size: 18, Price: 97.24, Cost: 1750.32, Comm 0.00
+2022-03-18, OPERATION PROFIT, GROSS -20.88, NET -20.88
+2022-03-18, Open, 97.74
+2022-03-21, SELL EXECUTED, Size: -18, Price: 97.74, Cost: 1750.32, Comm 0.00
+2022-03-21, BUY EXECUTED, Size: 18, Price: 97.74, Cost: 1759.32, Comm 0.00
+2022-03-21, OPERATION PROFIT, GROSS 9.00, NET 9.00
+2022-03-21, Open, 97.20
+2022-03-22, SELL EXECUTED, Size: -18, Price: 98.30, Cost: 1759.32, Comm 0.00
+2022-03-22, BUY EXECUTED, Size: 18, Price: 98.30, Cost: 1769.40, Comm 0.00
+2022-03-22, OPERATION PROFIT, GROSS 10.08, NET 10.08
+2022-03-22, Open, 97.54
+2022-03-23, SELL EXECUTED, Size: -18, Price: 98.06, Cost: 1769.40, Comm 0.00
+2022-03-23, BUY EXECUTED, Size: 18, Price: 98.06, Cost: 1765.08, Comm 0.00
+2022-03-23, OPERATION PROFIT, GROSS -4.32, NET -4.32
+2022-03-23, Open, 98.81
+2022-03-24, SELL EXECUTED, Size: -18, Price: 97.80, Cost: 1765.08, Comm 0.00
+2022-03-24, BUY EXECUTED, Size: 18, Price: 97.80, Cost: 1760.40, Comm 0.00
+2022-03-24, OPERATION PROFIT, GROSS -4.68, NET -4.68
+2022-03-24, Open, 98.72
+2022-03-25, SELL EXECUTED, Size: -18, Price: 98.66, Cost: 1760.40, Comm 0.00
+2022-03-25, BUY EXECUTED, Size: 18, Price: 98.66, Cost: 1775.88, Comm 0.00
+2022-03-25, OPERATION PROFIT, GROSS 15.48, NET 15.48
+2022-03-25, Open, 97.40
+2022-03-28, SELL EXECUTED, Size: -18, Price: 98.38, Cost: 1775.88, Comm 0.00
+2022-03-28, BUY EXECUTED, Size: 18, Price: 98.38, Cost: 1770.84, Comm 0.00
+2022-03-28, OPERATION PROFIT, GROSS -5.04, NET -5.04
+2022-03-28, Open, 97.60
+2022-03-29, SELL EXECUTED, Size: -18, Price: 97.89, Cost: 1770.84, Comm 0.00
+2022-03-29, BUY EXECUTED, Size: 18, Price: 97.89, Cost: 1762.02, Comm 0.00
+2022-03-29, OPERATION PROFIT, GROSS -8.82, NET -8.82
+2022-03-29, Open, 97.82
+2022-03-30, SELL EXECUTED, Size: -18, Price: 98.38, Cost: 1762.02, Comm 0.00
+2022-03-30, BUY EXECUTED, Size: 18, Price: 98.38, Cost: 1770.84, Comm 0.00
+2022-03-30, OPERATION PROFIT, GROSS 8.82, NET 8.82
+2022-03-30, Open, 98.46
+2022-03-31, SELL EXECUTED, Size: -18, Price: 98.58, Cost: 1770.84, Comm 0.00
+2022-03-31, BUY EXECUTED, Size: 18, Price: 98.58, Cost: 1774.44, Comm 0.00
+2022-03-31, OPERATION PROFIT, GROSS 3.60, NET 3.60
+2022-03-31, Open, 97.26
+2022-04-01, SELL EXECUTED, Size: -18, Price: 97.26, Cost: 1774.44, Comm 0.00
+2022-04-01, BUY EXECUTED, Size: 18, Price: 97.26, Cost: 1750.68, Comm 0.00
+2022-04-01, OPERATION PROFIT, GROSS -23.76, NET -23.76
+2022-04-01, Open, 96.12
+2022-04-04, SELL EXECUTED, Size: -18, Price: 96.36, Cost: 1750.68, Comm 0.00
+2022-04-04, BUY EXECUTED, Size: 18, Price: 96.36, Cost: 1734.48, Comm 0.00
+2022-04-04, OPERATION PROFIT, GROSS -16.20, NET -16.20
+2022-04-04, Open, 95.38
+2022-04-05, SELL EXECUTED, Size: -18, Price: 95.70, Cost: 1734.48, Comm 0.00
+2022-04-05, BUY EXECUTED, Size: 18, Price: 95.70, Cost: 1722.60, Comm 0.00
+2022-04-05, OPERATION PROFIT, GROSS -11.88, NET -11.88
+2022-04-05, Open, 95.97
+2022-04-06, SELL EXECUTED, Size: -18, Price: 95.67, Cost: 1722.60, Comm 0.00
+2022-04-06, BUY EXECUTED, Size: 18, Price: 95.67, Cost: 1722.06, Comm 0.00
+2022-04-06, OPERATION PROFIT, GROSS -0.54, NET -0.54
+2022-04-06, Open, 97.21
+2022-04-07, SELL EXECUTED, Size: -18, Price: 96.57, Cost: 1722.06, Comm 0.00
+2022-04-07, BUY EXECUTED, Size: 18, Price: 96.57, Cost: 1738.26, Comm 0.00
+2022-04-07, OPERATION PROFIT, GROSS 16.20, NET 16.20
+2022-04-07, Open, 96.78
+2022-04-08, SELL EXECUTED, Size: -18, Price: 97.15, Cost: 1738.26, Comm 0.00
+2022-04-08, BUY EXECUTED, Size: 18, Price: 97.15, Cost: 1748.70, Comm 0.00
+2022-04-08, OPERATION PROFIT, GROSS 10.44, NET 10.44
+2022-04-08, Open, 96.91
+2022-04-11, SELL EXECUTED, Size: -18, Price: 97.29, Cost: 1748.70, Comm 0.00
+2022-04-11, BUY EXECUTED, Size: 18, Price: 97.29, Cost: 1751.22, Comm 0.00
+2022-04-11, OPERATION PROFIT, GROSS 2.52, NET 2.52
+2022-04-11, Open, 98.29
+2022-04-12, SELL EXECUTED, Size: -18, Price: 98.20, Cost: 1751.22, Comm 0.00
+2022-04-12, BUY EXECUTED, Size: 18, Price: 98.20, Cost: 1767.60, Comm 0.00
+2022-04-12, OPERATION PROFIT, GROSS 16.38, NET 16.38
+2022-04-12, Open, 98.13
+2022-04-13, SELL EXECUTED, Size: -18, Price: 97.98, Cost: 1767.60, Comm 0.00
+2022-04-13, BUY EXECUTED, Size: 18, Price: 97.98, Cost: 1763.64, Comm 0.00
+2022-04-13, OPERATION PROFIT, GROSS -3.96, NET -3.96
+2022-04-13, Open, 97.98
+2022-04-14, SELL EXECUTED, Size: -18, Price: 97.39, Cost: 1763.64, Comm 0.00
+2022-04-14, BUY EXECUTED, Size: 18, Price: 97.39, Cost: 1753.02, Comm 0.00
+2022-04-14, OPERATION PROFIT, GROSS -10.62, NET -10.62
+2022-04-14, Open, 97.94
+2022-04-19, SELL EXECUTED, Size: -18, Price: 98.22, Cost: 1753.02, Comm 0.00
+2022-04-19, BUY EXECUTED, Size: 18, Price: 98.22, Cost: 1767.96, Comm 0.00
+2022-04-19, OPERATION PROFIT, GROSS 14.94, NET 14.94
+2022-04-19, Open, 98.40
+2022-04-20, SELL EXECUTED, Size: -18, Price: 98.86, Cost: 1767.96, Comm 0.00
+2022-04-20, BUY EXECUTED, Size: 18, Price: 98.86, Cost: 1779.48, Comm 0.00
+2022-04-20, OPERATION PROFIT, GROSS 11.52, NET 11.52
+2022-04-20, Open, 98.62
+2022-04-21, SELL EXECUTED, Size: -18, Price: 99.32, Cost: 1779.48, Comm 0.00
+2022-04-21, BUY EXECUTED, Size: 18, Price: 99.32, Cost: 1787.76, Comm 0.00
+2022-04-21, OPERATION PROFIT, GROSS 8.28, NET 8.28
+2022-04-21, Open, 99.64
+2022-04-22, SELL EXECUTED, Size: -18, Price: 99.32, Cost: 1787.76, Comm 0.00
+2022-04-22, BUY EXECUTED, Size: 18, Price: 99.32, Cost: 1787.76, Comm 0.00
+2022-04-22, OPERATION PROFIT, GROSS 0.00, NET 0.00
+2022-04-22, Open, 96.90
+2022-04-26, SELL EXECUTED, Size: -18, Price: 94.73, Cost: 1787.76, Comm 0.00
+2022-04-26, BUY EXECUTED, Size: 18, Price: 94.73, Cost: 1705.14, Comm 0.00
+2022-04-26, OPERATION PROFIT, GROSS -82.62, NET -82.62
+2022-04-26, Open, 96.33
+2022-04-27, SELL EXECUTED, Size: -18, Price: 95.34, Cost: 1705.14, Comm 0.00
+2022-04-27, BUY EXECUTED, Size: 18, Price: 95.34, Cost: 1716.12, Comm 0.00
+2022-04-27, OPERATION PROFIT, GROSS 10.98, NET 10.98
+2022-04-27, Open, 94.72
+2022-04-28, SELL EXECUTED, Size: -18, Price: 95.72, Cost: 1716.12, Comm 0.00
+2022-04-28, BUY EXECUTED, Size: 18, Price: 95.72, Cost: 1722.96, Comm 0.00
+2022-04-28, OPERATION PROFIT, GROSS 6.84, NET 6.84
+2022-04-28, Open, 94.93
+2022-04-29, SELL EXECUTED, Size: -18, Price: 95.45, Cost: 1722.96, Comm 0.00
+2022-04-29, BUY EXECUTED, Size: 18, Price: 95.45, Cost: 1718.10, Comm 0.00
+2022-04-29, OPERATION PROFIT, GROSS -4.86, NET -4.86
+2022-04-29, Open, 95.53
+2022-05-02, SELL EXECUTED, Size: -18, Price: 94.81, Cost: 1718.10, Comm 0.00
+2022-05-02, BUY EXECUTED, Size: 18, Price: 94.81, Cost: 1706.58, Comm 0.00
+2022-05-02, OPERATION PROFIT, GROSS -11.52, NET -11.52
+2022-05-02, Open, 94.69
+2022-05-03, SELL EXECUTED, Size: -18, Price: 94.03, Cost: 1706.58, Comm 0.00
+2022-05-03, BUY EXECUTED, Size: 18, Price: 94.03, Cost: 1692.54, Comm 0.00
+2022-05-03, OPERATION PROFIT, GROSS -14.04, NET -14.04
+2022-05-03, Open, 94.04
+2022-05-04, SELL EXECUTED, Size: -18, Price: 94.90, Cost: 1692.54, Comm 0.00
+2022-05-04, BUY EXECUTED, Size: 18, Price: 94.90, Cost: 1708.20, Comm 0.00
+2022-05-04, OPERATION PROFIT, GROSS 15.66, NET 15.66
+2022-05-04, Open, 94.70
+2022-05-05, SELL EXECUTED, Size: -18, Price: 94.70, Cost: 1708.20, Comm 0.00
+2022-05-05, BUY EXECUTED, Size: 18, Price: 94.70, Cost: 1704.60, Comm 0.00
+2022-05-05, OPERATION PROFIT, GROSS -3.60, NET -3.60
+2022-05-05, Open, 95.37
+2022-05-06, SELL EXECUTED, Size: -18, Price: 94.39, Cost: 1704.60, Comm 0.00
+2022-05-06, BUY EXECUTED, Size: 18, Price: 94.39, Cost: 1699.02, Comm 0.00
+2022-05-06, OPERATION PROFIT, GROSS -5.58, NET -5.58
+2022-05-06, Open, 94.17
+2022-05-09, SELL EXECUTED, Size: -18, Price: 94.06, Cost: 1699.02, Comm 0.00
+2022-05-09, BUY EXECUTED, Size: 18, Price: 94.06, Cost: 1693.08, Comm 0.00
+2022-05-09, OPERATION PROFIT, GROSS -5.94, NET -5.94
+2022-05-09, Open, 94.40
+2022-05-10, SELL EXECUTED, Size: -18, Price: 93.61, Cost: 1693.08, Comm 0.00
+2022-05-10, BUY EXECUTED, Size: 18, Price: 93.61, Cost: 1684.98, Comm 0.00
+2022-05-10, OPERATION PROFIT, GROSS -8.10, NET -8.10
+2022-05-10, Open, 93.52
+2022-05-11, SELL EXECUTED, Size: -18, Price: 93.44, Cost: 1684.98, Comm 0.00
+2022-05-11, BUY EXECUTED, Size: 18, Price: 93.44, Cost: 1681.92, Comm 0.00
+2022-05-11, OPERATION PROFIT, GROSS -3.06, NET -3.06
+2022-05-11, Open, 93.35
+2022-05-12, SELL EXECUTED, Size: -18, Price: 92.56, Cost: 1681.92, Comm 0.00
+2022-05-12, BUY EXECUTED, Size: 18, Price: 92.56, Cost: 1666.08, Comm 0.00
+2022-05-12, OPERATION PROFIT, GROSS -15.84, NET -15.84
+2022-05-12, Open, 93.94
+2022-05-13, SELL EXECUTED, Size: -18, Price: 94.18, Cost: 1666.08, Comm 0.00
+2022-05-13, BUY EXECUTED, Size: 18, Price: 94.18, Cost: 1695.24, Comm 0.00
+2022-05-13, OPERATION PROFIT, GROSS 29.16, NET 29.16
+2022-05-13, Open, 94.06
+2022-05-16, SELL EXECUTED, Size: -18, Price: 94.72, Cost: 1695.24, Comm 0.00
+2022-05-16, BUY EXECUTED, Size: 18, Price: 94.72, Cost: 1704.96, Comm 0.00
+2022-05-16, OPERATION PROFIT, GROSS 9.72, NET 9.72
+2022-05-16, Open, 95.02
+2022-05-17, SELL EXECUTED, Size: -18, Price: 95.61, Cost: 1704.96, Comm 0.00
+2022-05-17, BUY EXECUTED, Size: 18, Price: 95.61, Cost: 1720.98, Comm 0.00
+2022-05-17, OPERATION PROFIT, GROSS 16.02, NET 16.02
+2022-05-17, Open, 96.67
+2022-05-18, SELL EXECUTED, Size: -18, Price: 96.92, Cost: 1720.98, Comm 0.00
+2022-05-18, BUY EXECUTED, Size: 18, Price: 96.92, Cost: 1744.56, Comm 0.00
+2022-05-18, OPERATION PROFIT, GROSS 23.58, NET 23.58
+2022-05-18, Open, 96.37
+2022-05-19, SELL EXECUTED, Size: -18, Price: 95.19, Cost: 1744.56, Comm 0.00
+2022-05-19, BUY EXECUTED, Size: 18, Price: 95.19, Cost: 1713.42, Comm 0.00
+2022-05-19, OPERATION PROFIT, GROSS -31.14, NET -31.14
+2022-05-19, Open, 95.45
+2022-05-20, SELL EXECUTED, Size: -18, Price: 95.64, Cost: 1713.42, Comm 0.00
+2022-05-20, BUY EXECUTED, Size: 18, Price: 95.64, Cost: 1721.52, Comm 0.00
+2022-05-20, OPERATION PROFIT, GROSS 8.10, NET 8.10
+2022-05-20, Open, 96.19
+2022-05-23, SELL EXECUTED, Size: -18, Price: 96.80, Cost: 1721.52, Comm 0.00
+2022-05-23, BUY EXECUTED, Size: 18, Price: 96.80, Cost: 1742.40, Comm 0.00
+2022-05-23, OPERATION PROFIT, GROSS 20.88, NET 20.88
+2022-05-23, Open, 96.10
+2022-05-24, SELL EXECUTED, Size: -18, Price: 95.77, Cost: 1742.40, Comm 0.00
+2022-05-24, BUY EXECUTED, Size: 18, Price: 95.77, Cost: 1723.86, Comm 0.00
+2022-05-24, OPERATION PROFIT, GROSS -18.54, NET -18.54
+2022-05-24, Open, 96.64
+2022-05-25, SELL EXECUTED, Size: -18, Price: 97.20, Cost: 1723.86, Comm 0.00
+2022-05-25, BUY EXECUTED, Size: 18, Price: 97.20, Cost: 1749.60, Comm 0.00
+2022-05-25, OPERATION PROFIT, GROSS 25.74, NET 25.74
+2022-05-25, Open, 97.63
+2022-05-26, SELL EXECUTED, Size: -18, Price: 97.90, Cost: 1749.60, Comm 0.00
+2022-05-26, BUY EXECUTED, Size: 18, Price: 97.90, Cost: 1762.20, Comm 0.00
+2022-05-26, OPERATION PROFIT, GROSS 12.60, NET 12.60
+2022-05-26, Open, 96.95
+2022-05-27, SELL EXECUTED, Size: -18, Price: 98.22, Cost: 1762.20, Comm 0.00
+2022-05-27, BUY EXECUTED, Size: 18, Price: 98.22, Cost: 1767.96, Comm 0.00
+2022-05-27, OPERATION PROFIT, GROSS 5.76, NET 5.76
+2022-05-27, Open, 98.06
+2022-05-30, SELL EXECUTED, Size: -18, Price: 98.40, Cost: 1767.96, Comm 0.00
+2022-05-30, BUY EXECUTED, Size: 18, Price: 98.40, Cost: 1771.20, Comm 0.00
+2022-05-30, OPERATION PROFIT, GROSS 3.24, NET 3.24
+2022-05-30, Open, 97.99
+2022-05-31, SELL EXECUTED, Size: -18, Price: 97.74, Cost: 1771.20, Comm 0.00
+2022-05-31, BUY EXECUTED, Size: 18, Price: 97.74, Cost: 1759.32, Comm 0.00
+2022-05-31, OPERATION PROFIT, GROSS -11.88, NET -11.88
+2022-05-31, Open, 95.97
+2022-06-01, SELL EXECUTED, Size: -18, Price: 96.56, Cost: 1759.32, Comm 0.00
+2022-06-01, BUY EXECUTED, Size: 18, Price: 96.56, Cost: 1738.08, Comm 0.00
+2022-06-01, OPERATION PROFIT, GROSS -21.24, NET -21.24
+2022-06-01, Open, 98.13
+2022-06-02, SELL EXECUTED, Size: -18, Price: 97.16, Cost: 1738.08, Comm 0.00
+2022-06-02, BUY EXECUTED, Size: 18, Price: 97.16, Cost: 1748.88, Comm 0.00
+2022-06-02, OPERATION PROFIT, GROSS 10.80, NET 10.80
+2022-06-02, Open, 96.96
+2022-06-03, SELL EXECUTED, Size: -18, Price: 97.67, Cost: 1748.88, Comm 0.00
+2022-06-03, BUY EXECUTED, Size: 18, Price: 97.67, Cost: 1758.06, Comm 0.00
+2022-06-03, OPERATION PROFIT, GROSS 9.18, NET 9.18
+2022-06-03, Open, 96.74
+2022-06-06, SELL EXECUTED, Size: -18, Price: 96.65, Cost: 1758.06, Comm 0.00
+2022-06-06, BUY EXECUTED, Size: 18, Price: 96.65, Cost: 1739.70, Comm 0.00
+2022-06-06, OPERATION PROFIT, GROSS -18.36, NET -18.36
+2022-06-06, Open, 96.26
+2022-06-07, SELL EXECUTED, Size: -18, Price: 95.73, Cost: 1739.70, Comm 0.00
+2022-06-07, BUY EXECUTED, Size: 18, Price: 95.73, Cost: 1723.14, Comm 0.00
+2022-06-07, OPERATION PROFIT, GROSS -16.56, NET -16.56
+2022-06-07, Open, 93.76
+2022-06-08, SELL EXECUTED, Size: -18, Price: 94.17, Cost: 1723.14, Comm 0.00
+2022-06-08, BUY EXECUTED, Size: 18, Price: 94.17, Cost: 1695.06, Comm 0.00
+2022-06-08, OPERATION PROFIT, GROSS -28.08, NET -28.08
+2022-06-08, Open, 89.63
+2022-06-09, SELL EXECUTED, Size: -18, Price: 88.28, Cost: 1695.06, Comm 0.00
+2022-06-09, BUY EXECUTED, Size: 18, Price: 88.28, Cost: 1589.04, Comm 0.00
+2022-06-09, OPERATION PROFIT, GROSS -106.02, NET -106.02
+2022-06-09, Open, 87.31
+2022-06-10, SELL EXECUTED, Size: -18, Price: 86.72, Cost: 1589.04, Comm 0.00
+2022-06-10, BUY EXECUTED, Size: 18, Price: 86.72, Cost: 1560.96, Comm 0.00
+2022-06-10, OPERATION PROFIT, GROSS -28.08, NET -28.08
+2022-06-10, Open, 86.24
+2022-06-14, SELL EXECUTED, Size: -18, Price: 82.49, Cost: 1560.96, Comm 0.00
+2022-06-14, BUY EXECUTED, Size: 18, Price: 82.49, Cost: 1484.82, Comm 0.00
+2022-06-14, OPERATION PROFIT, GROSS -76.14, NET -76.14
+2022-06-14, Open, 83.87
+2022-06-15, SELL EXECUTED, Size: -18, Price: 83.22, Cost: 1484.82, Comm 0.00
+2022-06-15, BUY EXECUTED, Size: 18, Price: 83.22, Cost: 1497.96, Comm 0.00
+2022-06-15, OPERATION PROFIT, GROSS 13.14, NET 13.14
+2022-06-15, Open, 83.33
+2022-06-16, SELL EXECUTED, Size: -18, Price: 84.87, Cost: 1497.96, Comm 0.00
+2022-06-16, BUY EXECUTED, Size: 18, Price: 84.87, Cost: 1527.66, Comm 0.00
+2022-06-16, OPERATION PROFIT, GROSS 29.70, NET 29.70
+2022-06-16, Open, 83.19
+2022-06-17, SELL EXECUTED, Size: -18, Price: 81.15, Cost: 1527.66, Comm 0.00
+2022-06-17, BUY EXECUTED, Size: 18, Price: 81.15, Cost: 1460.70, Comm 0.00
+2022-06-17, OPERATION PROFIT, GROSS -66.96, NET -66.96
+2022-06-17, Open, 80.24
+2022-06-20, SELL EXECUTED, Size: -18, Price: 80.74, Cost: 1460.70, Comm 0.00
+2022-06-20, BUY EXECUTED, Size: 18, Price: 80.74, Cost: 1453.32, Comm 0.00
+2022-06-20, OPERATION PROFIT, GROSS -7.38, NET -7.38
+2022-06-20, Open, 80.51
+2022-06-21, SELL EXECUTED, Size: -18, Price: 81.27, Cost: 1453.32, Comm 0.00
+2022-06-21, BUY EXECUTED, Size: 18, Price: 81.27, Cost: 1462.86, Comm 0.00
+2022-06-21, OPERATION PROFIT, GROSS 9.54, NET 9.54
+2022-06-21, Open, 82.46
+2022-06-22, SELL EXECUTED, Size: -18, Price: 83.49, Cost: 1462.86, Comm 0.00
+2022-06-22, BUY EXECUTED, Size: 18, Price: 83.49, Cost: 1502.82, Comm 0.00
+2022-06-22, OPERATION PROFIT, GROSS 39.96, NET 39.96
+2022-06-22, Open, 82.37
+2022-06-23, SELL EXECUTED, Size: -18, Price: 82.40, Cost: 1502.82, Comm 0.00
+2022-06-23, BUY EXECUTED, Size: 18, Price: 82.40, Cost: 1483.20, Comm 0.00
+2022-06-23, OPERATION PROFIT, GROSS -19.62, NET -19.62
+2022-06-23, Open, 82.53
+2022-06-24, SELL EXECUTED, Size: -18, Price: 82.17, Cost: 1483.20, Comm 0.00
+2022-06-24, BUY EXECUTED, Size: 18, Price: 82.17, Cost: 1479.06, Comm 0.00
+2022-06-24, OPERATION PROFIT, GROSS -4.14, NET -4.14
+2022-06-24, Open, 82.91
+2022-06-27, SELL EXECUTED, Size: -18, Price: 84.59, Cost: 1479.06, Comm 0.00
+2022-06-27, BUY EXECUTED, Size: 18, Price: 84.59, Cost: 1522.62, Comm 0.00
+2022-06-27, OPERATION PROFIT, GROSS 43.56, NET 43.56
+2022-06-27, Open, 86.20
+2022-06-28, SELL EXECUTED, Size: -18, Price: 86.43, Cost: 1522.62, Comm 0.00
+2022-06-28, BUY EXECUTED, Size: 18, Price: 86.43, Cost: 1555.74, Comm 0.00
+2022-06-28, OPERATION PROFIT, GROSS 33.12, NET 33.12
+2022-06-28, Open, 86.02
+2022-06-29, SELL EXECUTED, Size: -18, Price: 85.80, Cost: 1555.74, Comm 0.00
+2022-06-29, BUY EXECUTED, Size: 18, Price: 85.80, Cost: 1544.40, Comm 0.00
+2022-06-29, OPERATION PROFIT, GROSS -11.34, NET -11.34
+2022-06-29, Open, 85.52
+2022-06-30, SELL EXECUTED, Size: -18, Price: 84.97, Cost: 1544.40, Comm 0.00
+2022-06-30, BUY EXECUTED, Size: 18, Price: 84.97, Cost: 1529.46, Comm 0.00
+2022-06-30, OPERATION PROFIT, GROSS -14.94, NET -14.94
+2022-06-30, Open, 83.11
+2022-07-01, SELL EXECUTED, Size: -18, Price: 83.65, Cost: 1529.46, Comm 0.00
+2022-07-01, BUY EXECUTED, Size: 18, Price: 83.65, Cost: 1505.70, Comm 0.00
+2022-07-01, OPERATION PROFIT, GROSS -23.76, NET -23.76
+2022-07-01, Open, 83.41
+2022-07-04, SELL EXECUTED, Size: -18, Price: 84.45, Cost: 1505.70, Comm 0.00
+2022-07-04, BUY EXECUTED, Size: 18, Price: 84.45, Cost: 1520.10, Comm 0.00
+2022-07-04, OPERATION PROFIT, GROSS 14.40, NET 14.40
+2022-07-04, Open, 84.10
+2022-07-05, SELL EXECUTED, Size: -18, Price: 83.79, Cost: 1520.10, Comm 0.00
+2022-07-05, BUY EXECUTED, Size: 18, Price: 83.79, Cost: 1508.22, Comm 0.00
+2022-07-05, OPERATION PROFIT, GROSS -11.88, NET -11.88
+2022-07-05, Open, 83.89
+2022-07-06, SELL EXECUTED, Size: -18, Price: 83.33, Cost: 1508.22, Comm 0.00
+2022-07-06, BUY EXECUTED, Size: 18, Price: 83.33, Cost: 1499.94, Comm 0.00
+2022-07-06, OPERATION PROFIT, GROSS -8.28, NET -8.28
+2022-07-06, Open, 84.60
+2022-07-07, SELL EXECUTED, Size: -18, Price: 84.82, Cost: 1499.94, Comm 0.00
+2022-07-07, BUY EXECUTED, Size: 18, Price: 84.82, Cost: 1526.76, Comm 0.00
+2022-07-07, OPERATION PROFIT, GROSS 26.82, NET 26.82
+2022-07-07, Open, 85.60
+2022-07-08, SELL EXECUTED, Size: -18, Price: 86.44, Cost: 1526.76, Comm 0.00
+2022-07-08, BUY EXECUTED, Size: 18, Price: 86.44, Cost: 1555.92, Comm 0.00
+2022-07-08, OPERATION PROFIT, GROSS 29.16, NET 29.16
+2022-07-08, Open, 85.14
+2022-07-11, SELL EXECUTED, Size: -18, Price: 85.52, Cost: 1555.92, Comm 0.00
+2022-07-11, BUY EXECUTED, Size: 18, Price: 85.52, Cost: 1539.36, Comm 0.00
+2022-07-11, OPERATION PROFIT, GROSS -16.56, NET -16.56
+2022-07-11, Open, 85.11
+2022-07-12, SELL EXECUTED, Size: -18, Price: 85.48, Cost: 1539.36, Comm 0.00
+2022-07-12, BUY EXECUTED, Size: 18, Price: 85.48, Cost: 1538.64, Comm 0.00
+2022-07-12, OPERATION PROFIT, GROSS -0.72, NET -0.72
+2022-07-12, Open, 86.10
+2022-07-13, SELL EXECUTED, Size: -18, Price: 86.21, Cost: 1538.64, Comm 0.00
+2022-07-13, BUY EXECUTED, Size: 18, Price: 86.21, Cost: 1551.78, Comm 0.00
+2022-07-13, OPERATION PROFIT, GROSS 13.14, NET 13.14
+2022-07-13, Open, 87.02
+2022-07-14, SELL EXECUTED, Size: -18, Price: 86.02, Cost: 1551.78, Comm 0.00
+2022-07-14, BUY EXECUTED, Size: 18, Price: 86.02, Cost: 1548.36, Comm 0.00
+2022-07-14, OPERATION PROFIT, GROSS -3.42, NET -3.42
+2022-07-14, Open, 85.72
+2022-07-15, SELL EXECUTED, Size: -18, Price: 85.02, Cost: 1548.36, Comm 0.00
+2022-07-15, BUY EXECUTED, Size: 18, Price: 85.02, Cost: 1530.36, Comm 0.00
+2022-07-15, OPERATION PROFIT, GROSS -18.00, NET -18.00
+2022-07-15, Open, 85.77
+2022-07-18, SELL EXECUTED, Size: -18, Price: 86.73, Cost: 1530.36, Comm 0.00
+2022-07-18, BUY EXECUTED, Size: 18, Price: 86.73, Cost: 1561.14, Comm 0.00
+2022-07-18, OPERATION PROFIT, GROSS 30.78, NET 30.78
+2022-07-18, Open, 86.66
+2022-07-19, SELL EXECUTED, Size: -18, Price: 86.78, Cost: 1561.14, Comm 0.00
+2022-07-19, BUY EXECUTED, Size: 18, Price: 86.78, Cost: 1562.04, Comm 0.00
+2022-07-19, OPERATION PROFIT, GROSS 0.90, NET 0.90
+2022-07-19, Open, 87.31
+2022-07-20, SELL EXECUTED, Size: -18, Price: 88.28, Cost: 1562.04, Comm 0.00
+2022-07-20, BUY EXECUTED, Size: 18, Price: 88.28, Cost: 1589.04, Comm 0.00
+2022-07-20, OPERATION PROFIT, GROSS 27.00, NET 27.00
+2022-07-20, Open, 88.30
+2022-07-21, SELL EXECUTED, Size: -18, Price: 88.46, Cost: 1589.04, Comm 0.00
+2022-07-21, BUY EXECUTED, Size: 18, Price: 88.46, Cost: 1592.28, Comm 0.00
+2022-07-21, OPERATION PROFIT, GROSS 3.24, NET 3.24
+2022-07-21, Open, 89.77
+2022-07-22, SELL EXECUTED, Size: -18, Price: 89.52, Cost: 1592.28, Comm 0.00
+2022-07-22, BUY EXECUTED, Size: 18, Price: 89.52, Cost: 1611.36, Comm 0.00
+2022-07-22, OPERATION PROFIT, GROSS 19.08, NET 19.08
+2022-07-22, Open, 89.94
+2022-07-25, SELL EXECUTED, Size: -18, Price: 90.01, Cost: 1611.36, Comm 0.00
+2022-07-25, BUY EXECUTED, Size: 18, Price: 90.01, Cost: 1620.18, Comm 0.00
+2022-07-25, OPERATION PROFIT, GROSS 8.82, NET 8.82
+2022-07-25, Open, 89.26
+2022-07-26, SELL EXECUTED, Size: -18, Price: 89.47, Cost: 1620.18, Comm 0.00
+2022-07-26, BUY EXECUTED, Size: 18, Price: 89.47, Cost: 1610.46, Comm 0.00
+2022-07-26, OPERATION PROFIT, GROSS -9.72, NET -9.72
+2022-07-26, Open, 88.95
+2022-07-27, SELL EXECUTED, Size: -18, Price: 88.75, Cost: 1610.46, Comm 0.00
+2022-07-27, BUY EXECUTED, Size: 18, Price: 88.75, Cost: 1597.50, Comm 0.00
+2022-07-27, OPERATION PROFIT, GROSS -12.96, NET -12.96
+2022-07-27, Open, 90.95
+2022-07-28, SELL EXECUTED, Size: -18, Price: 91.48, Cost: 1597.50, Comm 0.00
+2022-07-28, BUY EXECUTED, Size: 18, Price: 91.48, Cost: 1646.64, Comm 0.00
+2022-07-28, OPERATION PROFIT, GROSS 49.14, NET 49.14
+2022-07-28, Open, 91.86
+2022-07-29, SELL EXECUTED, Size: -18, Price: 92.23, Cost: 1646.64, Comm 0.00
+2022-07-29, BUY EXECUTED, Size: 18, Price: 92.23, Cost: 1660.14, Comm 0.00
+2022-07-29, OPERATION PROFIT, GROSS 13.50, NET 13.50
+2022-07-29, Open, 92.67
+2022-08-01, SELL EXECUTED, Size: -18, Price: 92.58, Cost: 1660.14, Comm 0.00
+2022-08-01, BUY EXECUTED, Size: 18, Price: 92.58, Cost: 1666.44, Comm 0.00
+2022-08-01, OPERATION PROFIT, GROSS 6.30, NET 6.30
+2022-08-01, Open, 92.95
+2022-08-02, SELL EXECUTED, Size: -18, Price: 92.87, Cost: 1666.44, Comm 0.00
+2022-08-02, BUY EXECUTED, Size: 18, Price: 92.87, Cost: 1671.66, Comm 0.00
+2022-08-02, OPERATION PROFIT, GROSS 5.22, NET 5.22
+2022-08-02, Open, 93.77
+2022-08-03, SELL EXECUTED, Size: -18, Price: 93.11, Cost: 1671.66, Comm 0.00
+2022-08-03, BUY EXECUTED, Size: 18, Price: 93.11, Cost: 1675.98, Comm 0.00
+2022-08-03, OPERATION PROFIT, GROSS 4.32, NET 4.32
+2022-08-03, Open, 92.39
+2022-08-04, SELL EXECUTED, Size: -18, Price: 92.94, Cost: 1675.98, Comm 0.00
+2022-08-04, BUY EXECUTED, Size: 18, Price: 92.94, Cost: 1672.92, Comm 0.00
+2022-08-04, OPERATION PROFIT, GROSS -3.06, NET -3.06
+2022-08-04, Open, 93.61
+2022-08-05, SELL EXECUTED, Size: -18, Price: 93.42, Cost: 1672.92, Comm 0.00
+2022-08-05, BUY EXECUTED, Size: 18, Price: 93.42, Cost: 1681.56, Comm 0.00
+2022-08-05, OPERATION PROFIT, GROSS 8.64, NET 8.64
+2022-08-05, Open, 93.26
+2022-08-08, SELL EXECUTED, Size: -18, Price: 92.95, Cost: 1681.56, Comm 0.00
+2022-08-08, BUY EXECUTED, Size: 18, Price: 92.95, Cost: 1673.10, Comm 0.00
+2022-08-08, OPERATION PROFIT, GROSS -8.46, NET -8.46
+2022-08-08, Open, 94.35
+2022-08-09, SELL EXECUTED, Size: -18, Price: 93.97, Cost: 1673.10, Comm 0.00
+2022-08-09, BUY EXECUTED, Size: 18, Price: 93.97, Cost: 1691.46, Comm 0.00
+2022-08-09, OPERATION PROFIT, GROSS 18.36, NET 18.36
+2022-08-09, Open, 93.14
+2022-08-10, SELL EXECUTED, Size: -18, Price: 93.14, Cost: 1691.46, Comm 0.00
+2022-08-10, BUY EXECUTED, Size: 18, Price: 93.14, Cost: 1676.52, Comm 0.00
+2022-08-10, OPERATION PROFIT, GROSS -14.94, NET -14.94
+2022-08-10, Open, 92.88
+2022-08-11, SELL EXECUTED, Size: -18, Price: 93.25, Cost: 1676.52, Comm 0.00
+2022-08-11, BUY EXECUTED, Size: 18, Price: 93.25, Cost: 1678.50, Comm 0.00
+2022-08-11, OPERATION PROFIT, GROSS 1.98, NET 1.98
+2022-08-11, Open, 92.74
+2022-08-12, SELL EXECUTED, Size: -18, Price: 92.10, Cost: 1678.50, Comm 0.00
+2022-08-12, BUY EXECUTED, Size: 18, Price: 92.10, Cost: 1657.80, Comm 0.00
+2022-08-12, OPERATION PROFIT, GROSS -20.70, NET -20.70
+2022-08-12, Open, 92.27
+2022-08-15, SELL EXECUTED, Size: -18, Price: 92.35, Cost: 1657.80, Comm 0.00
+2022-08-15, BUY EXECUTED, Size: 18, Price: 92.35, Cost: 1662.30, Comm 0.00
+2022-08-15, OPERATION PROFIT, GROSS 4.50, NET 4.50
+2022-08-15, Open, 92.38
+2022-08-16, SELL EXECUTED, Size: -18, Price: 92.97, Cost: 1662.30, Comm 0.00
+2022-08-16, BUY EXECUTED, Size: 18, Price: 92.97, Cost: 1673.46, Comm 0.00
+2022-08-16, OPERATION PROFIT, GROSS 11.16, NET 11.16
+2022-08-16, Open, 93.30
+2022-08-17, SELL EXECUTED, Size: -18, Price: 94.28, Cost: 1673.46, Comm 0.00
+2022-08-17, BUY EXECUTED, Size: 18, Price: 94.28, Cost: 1697.04, Comm 0.00
+2022-08-17, OPERATION PROFIT, GROSS 23.58, NET 23.58
+2022-08-17, Open, 93.55
+2022-08-18, SELL EXECUTED, Size: -18, Price: 93.87, Cost: 1697.04, Comm 0.00
+2022-08-18, BUY EXECUTED, Size: 18, Price: 93.87, Cost: 1689.66, Comm 0.00
+2022-08-18, OPERATION PROFIT, GROSS -7.38, NET -7.38
+2022-08-18, Open, 94.83
+2022-08-19, SELL EXECUTED, Size: -18, Price: 94.89, Cost: 1689.66, Comm 0.00
+2022-08-19, BUY EXECUTED, Size: 18, Price: 94.89, Cost: 1708.02, Comm 0.00
+2022-08-19, OPERATION PROFIT, GROSS 18.36, NET 18.36
+2022-08-19, Open, 93.86
+2022-08-22, SELL EXECUTED, Size: -18, Price: 93.25, Cost: 1708.02, Comm 0.00
+2022-08-22, BUY EXECUTED, Size: 18, Price: 93.25, Cost: 1678.50, Comm 0.00
+2022-08-22, OPERATION PROFIT, GROSS -29.52, NET -29.52
+2022-08-22, Open, 92.93
+2022-08-23, SELL EXECUTED, Size: -18, Price: 92.49, Cost: 1678.50, Comm 0.00
+2022-08-23, BUY EXECUTED, Size: 18, Price: 92.49, Cost: 1664.82, Comm 0.00
+2022-08-23, OPERATION PROFIT, GROSS -13.68, NET -13.68
+2022-08-23, Open, 91.10
+2022-08-24, SELL EXECUTED, Size: -18, Price: 91.32, Cost: 1664.82, Comm 0.00
+2022-08-24, BUY EXECUTED, Size: 18, Price: 91.32, Cost: 1643.76, Comm 0.00
+2022-08-24, OPERATION PROFIT, GROSS -21.06, NET -21.06
+2022-08-24, Open, 91.27
+2022-08-25, SELL EXECUTED, Size: -18, Price: 91.58, Cost: 1643.76, Comm 0.00
+2022-08-25, BUY EXECUTED, Size: 18, Price: 91.58, Cost: 1648.44, Comm 0.00
+2022-08-25, OPERATION PROFIT, GROSS 4.68, NET 4.68
+2022-08-25, Open, 91.86
+2022-08-26, SELL EXECUTED, Size: -18, Price: 92.21, Cost: 1648.44, Comm 0.00
+2022-08-26, BUY EXECUTED, Size: 18, Price: 92.21, Cost: 1659.78, Comm 0.00
+2022-08-26, OPERATION PROFIT, GROSS 11.34, NET 11.34
+2022-08-26, Open, 92.32
+2022-08-29, SELL EXECUTED, Size: -18, Price: 90.64, Cost: 1659.78, Comm 0.00
+2022-08-29, BUY EXECUTED, Size: 18, Price: 90.64, Cost: 1631.52, Comm 0.00
+2022-08-29, OPERATION PROFIT, GROSS -28.26, NET -28.26
+2022-08-29, Open, 90.41
+2022-08-30, SELL EXECUTED, Size: -18, Price: 90.53, Cost: 1631.52, Comm 0.00
+2022-08-30, BUY EXECUTED, Size: 18, Price: 90.53, Cost: 1629.54, Comm 0.00
+2022-08-30, OPERATION PROFIT, GROSS -1.98, NET -1.98
+2022-08-30, Open, 90.66
+2022-08-31, SELL EXECUTED, Size: -18, Price: 90.67, Cost: 1629.54, Comm 0.00
+2022-08-31, BUY EXECUTED, Size: 18, Price: 90.67, Cost: 1632.06, Comm 0.00
+2022-08-31, OPERATION PROFIT, GROSS 2.52, NET 2.52
+2022-08-31, Open, 91.53
+2022-09-01, SELL EXECUTED, Size: -18, Price: 90.02, Cost: 1632.06, Comm 0.00
+2022-09-01, BUY EXECUTED, Size: 18, Price: 90.02, Cost: 1620.36, Comm 0.00
+2022-09-01, OPERATION PROFIT, GROSS -11.70, NET -11.70
+2022-09-01, Open, 90.19
+2022-09-02, SELL EXECUTED, Size: -18, Price: 90.24, Cost: 1620.36, Comm 0.00
+2022-09-02, BUY EXECUTED, Size: 18, Price: 90.24, Cost: 1624.32, Comm 0.00
+2022-09-02, OPERATION PROFIT, GROSS 3.96, NET 3.96
+2022-09-02, Open, 91.04
+2022-09-05, SELL EXECUTED, Size: -18, Price: 91.54, Cost: 1624.32, Comm 0.00
+2022-09-05, BUY EXECUTED, Size: 18, Price: 91.54, Cost: 1647.72, Comm 0.00
+2022-09-05, OPERATION PROFIT, GROSS 23.40, NET 23.40
+2022-09-05, Open, 90.62
+2022-09-06, SELL EXECUTED, Size: -18, Price: 90.35, Cost: 1647.72, Comm 0.00
+2022-09-06, BUY EXECUTED, Size: 18, Price: 90.35, Cost: 1626.30, Comm 0.00
+2022-09-06, OPERATION PROFIT, GROSS -21.42, NET -21.42
+2022-09-06, Open, 90.25
+2022-09-07, SELL EXECUTED, Size: -18, Price: 90.16, Cost: 1626.30, Comm 0.00
+2022-09-07, BUY EXECUTED, Size: 18, Price: 90.16, Cost: 1622.88, Comm 0.00
+2022-09-07, OPERATION PROFIT, GROSS -3.42, NET -3.42
+2022-09-07, Open, 88.36
+2022-09-08, SELL EXECUTED, Size: -18, Price: 88.90, Cost: 1622.88, Comm 0.00
+2022-09-08, BUY EXECUTED, Size: 18, Price: 88.90, Cost: 1600.20, Comm 0.00
+2022-09-08, OPERATION PROFIT, GROSS -22.68, NET -22.68
+2022-09-08, Open, 89.40
+2022-09-09, SELL EXECUTED, Size: -18, Price: 89.93, Cost: 1600.20, Comm 0.00
+2022-09-09, BUY EXECUTED, Size: 18, Price: 89.93, Cost: 1618.74, Comm 0.00
+2022-09-09, OPERATION PROFIT, GROSS 18.54, NET 18.54
+2022-09-09, Open, 89.70
+2022-09-12, SELL EXECUTED, Size: -18, Price: 90.15, Cost: 1618.74, Comm 0.00
+2022-09-12, BUY EXECUTED, Size: 18, Price: 90.15, Cost: 1622.70, Comm 0.00
+2022-09-12, OPERATION PROFIT, GROSS 3.96, NET 3.96
+2022-09-12, Open, 90.41
+2022-09-13, SELL EXECUTED, Size: -18, Price: 91.09, Cost: 1622.70, Comm 0.00
+2022-09-13, BUY EXECUTED, Size: 18, Price: 91.09, Cost: 1639.62, Comm 0.00
+2022-09-13, OPERATION PROFIT, GROSS 16.92, NET 16.92
+2022-09-13, Open, 91.97
+2022-09-14, SELL EXECUTED, Size: -18, Price: 89.80, Cost: 1639.62, Comm 0.00
+2022-09-14, BUY EXECUTED, Size: 18, Price: 89.80, Cost: 1616.40, Comm 0.00
+2022-09-14, OPERATION PROFIT, GROSS -23.22, NET -23.22
+2022-09-14, Open, 88.70
+2022-09-15, SELL EXECUTED, Size: -18, Price: 89.07, Cost: 1616.40, Comm 0.00
+2022-09-15, BUY EXECUTED, Size: 18, Price: 89.07, Cost: 1603.26, Comm 0.00
+2022-09-15, OPERATION PROFIT, GROSS -13.14, NET -13.14
+2022-09-15, Open, 89.26
+2022-09-16, SELL EXECUTED, Size: -18, Price: 88.78, Cost: 1603.26, Comm 0.00
+2022-09-16, BUY EXECUTED, Size: 18, Price: 88.78, Cost: 1598.04, Comm 0.00
+2022-09-16, OPERATION PROFIT, GROSS -5.22, NET -5.22
+2022-09-16, Open, 88.48
+2022-09-19, SELL EXECUTED, Size: -18, Price: 88.50, Cost: 1598.04, Comm 0.00
+2022-09-19, BUY EXECUTED, Size: 18, Price: 88.50, Cost: 1593.00, Comm 0.00
+2022-09-19, OPERATION PROFIT, GROSS -5.04, NET -5.04
+2022-09-19, Open, 88.89
+2022-09-20, SELL EXECUTED, Size: -18, Price: 90.10, Cost: 1593.00, Comm 0.00
+2022-09-20, BUY EXECUTED, Size: 18, Price: 90.10, Cost: 1621.80, Comm 0.00
+2022-09-20, OPERATION PROFIT, GROSS 28.80, NET 28.80
+2022-09-20, Open, 90.64
+2022-09-21, SELL EXECUTED, Size: -18, Price: 90.41, Cost: 1621.80, Comm 0.00
+2022-09-21, BUY EXECUTED, Size: 18, Price: 90.41, Cost: 1627.38, Comm 0.00
+2022-09-21, OPERATION PROFIT, GROSS 5.58, NET 5.58
+2022-09-21, Open, 89.63
+2022-09-23, SELL EXECUTED, Size: -18, Price: 88.76, Cost: 1627.38, Comm 0.00
+2022-09-23, BUY EXECUTED, Size: 18, Price: 88.76, Cost: 1597.68, Comm 0.00
+2022-09-23, OPERATION PROFIT, GROSS -29.70, NET -29.70
+2022-09-23, Open, 87.93
+2022-09-26, SELL EXECUTED, Size: -18, Price: 86.95, Cost: 1597.68, Comm 0.00
+2022-09-26, BUY EXECUTED, Size: 18, Price: 86.95, Cost: 1565.10, Comm 0.00
+2022-09-26, OPERATION PROFIT, GROSS -32.58, NET -32.58
+2022-09-26, Open, 87.90
+2022-09-27, SELL EXECUTED, Size: -18, Price: 88.21, Cost: 1565.10, Comm 0.00
+2022-09-27, BUY EXECUTED, Size: 18, Price: 88.21, Cost: 1587.78, Comm 0.00
+2022-09-27, OPERATION PROFIT, GROSS 22.68, NET 22.68
+2022-09-27, Open, 87.73
+2022-09-28, SELL EXECUTED, Size: -18, Price: 86.86, Cost: 1587.78, Comm 0.00
+2022-09-28, BUY EXECUTED, Size: 18, Price: 86.86, Cost: 1563.48, Comm 0.00
+2022-09-28, OPERATION PROFIT, GROSS -24.30, NET -24.30
+2022-09-28, Open, 86.90
+2022-09-29, SELL EXECUTED, Size: -18, Price: 88.11, Cost: 1563.48, Comm 0.00
+2022-09-29, BUY EXECUTED, Size: 18, Price: 88.11, Cost: 1585.98, Comm 0.00
+2022-09-29, OPERATION PROFIT, GROSS 22.50, NET 22.50
+2022-09-29, Open, 87.44
+2022-09-30, SELL EXECUTED, Size: -18, Price: 87.54, Cost: 1585.98, Comm 0.00
+2022-09-30, BUY EXECUTED, Size: 18, Price: 87.54, Cost: 1575.72, Comm 0.00
+2022-09-30, OPERATION PROFIT, GROSS -10.26, NET -10.26
+2022-09-30, Open, 85.17
+2022-10-03, SELL EXECUTED, Size: -18, Price: 85.59, Cost: 1575.72, Comm 0.00
+2022-10-03, BUY EXECUTED, Size: 18, Price: 85.59, Cost: 1540.62, Comm 0.00
+2022-10-03, OPERATION PROFIT, GROSS -35.10, NET -35.10
+2022-10-03, Open, 85.08
+2022-10-04, SELL EXECUTED, Size: -18, Price: 86.39, Cost: 1540.62, Comm 0.00
+2022-10-04, BUY EXECUTED, Size: 18, Price: 86.39, Cost: 1555.02, Comm 0.00
+2022-10-04, OPERATION PROFIT, GROSS 14.40, NET 14.40
+2022-10-04, Open, 89.01
+2022-10-05, SELL EXECUTED, Size: -18, Price: 90.14, Cost: 1555.02, Comm 0.00
+2022-10-05, BUY EXECUTED, Size: 18, Price: 90.14, Cost: 1622.52, Comm 0.00
+2022-10-05, OPERATION PROFIT, GROSS 67.50, NET 67.50
+2022-10-05, Open, 91.36
+2022-10-06, SELL EXECUTED, Size: -18, Price: 90.71, Cost: 1622.52, Comm 0.00
+2022-10-06, BUY EXECUTED, Size: 18, Price: 90.71, Cost: 1632.78, Comm 0.00
+2022-10-06, OPERATION PROFIT, GROSS 10.26, NET 10.26
+2022-10-06, Open, 90.97
+2022-10-07, SELL EXECUTED, Size: -18, Price: 89.20, Cost: 1632.78, Comm 0.00
+2022-10-07, BUY EXECUTED, Size: 18, Price: 89.20, Cost: 1605.60, Comm 0.00
+2022-10-07, OPERATION PROFIT, GROSS -27.18, NET -27.18
+2022-10-07, Open, 90.54
+2022-10-10, SELL EXECUTED, Size: -18, Price: 89.55, Cost: 1605.60, Comm 0.00
+2022-10-10, BUY EXECUTED, Size: 18, Price: 89.55, Cost: 1611.90, Comm 0.00
+2022-10-10, OPERATION PROFIT, GROSS 6.30, NET 6.30
+2022-10-10, Open, 89.17
+2022-10-11, SELL EXECUTED, Size: -18, Price: 89.49, Cost: 1611.90, Comm 0.00
+2022-10-11, BUY EXECUTED, Size: 18, Price: 89.49, Cost: 1610.82, Comm 0.00
+2022-10-11, OPERATION PROFIT, GROSS -1.08, NET -1.08
+2022-10-11, Open, 88.27
+2022-10-12, SELL EXECUTED, Size: -18, Price: 88.50, Cost: 1610.82, Comm 0.00
+2022-10-12, BUY EXECUTED, Size: 18, Price: 88.50, Cost: 1593.00, Comm 0.00
+2022-10-12, OPERATION PROFIT, GROSS -17.82, NET -17.82
+2022-10-12, Open, 90.42
+2022-10-13, SELL EXECUTED, Size: -18, Price: 91.46, Cost: 1593.00, Comm 0.00
+2022-10-13, BUY EXECUTED, Size: 18, Price: 91.46, Cost: 1646.28, Comm 0.00
+2022-10-13, OPERATION PROFIT, GROSS 53.28, NET 53.28
+2022-10-13, Open, 92.15
+2022-10-14, SELL EXECUTED, Size: -18, Price: 93.68, Cost: 1646.28, Comm 0.00
+2022-10-14, BUY EXECUTED, Size: 18, Price: 93.68, Cost: 1686.24, Comm 0.00
+2022-10-14, OPERATION PROFIT, GROSS 39.96, NET 39.96
+2022-10-14, Open, 92.87
+2022-10-17, SELL EXECUTED, Size: -18, Price: 92.71, Cost: 1686.24, Comm 0.00
+2022-10-17, BUY EXECUTED, Size: 18, Price: 92.71, Cost: 1668.78, Comm 0.00
+2022-10-17, OPERATION PROFIT, GROSS -17.46, NET -17.46
+2022-10-17, Open, 92.11
+2022-10-18, SELL EXECUTED, Size: -18, Price: 93.40, Cost: 1668.78, Comm 0.00
+2022-10-18, BUY EXECUTED, Size: 18, Price: 93.40, Cost: 1681.20, Comm 0.00
+2022-10-18, OPERATION PROFIT, GROSS 12.42, NET 12.42
+2022-10-18, Open, 93.70
+2022-10-19, SELL EXECUTED, Size: -18, Price: 94.18, Cost: 1681.20, Comm 0.00
+2022-10-19, BUY EXECUTED, Size: 18, Price: 94.18, Cost: 1695.24, Comm 0.00
+2022-10-19, OPERATION PROFIT, GROSS 14.04, NET 14.04
+2022-10-19, Open, 94.35
+2022-10-20, SELL EXECUTED, Size: -18, Price: 93.70, Cost: 1695.24, Comm 0.00
+2022-10-20, BUY EXECUTED, Size: 18, Price: 93.70, Cost: 1686.60, Comm 0.00
+2022-10-20, OPERATION PROFIT, GROSS -8.64, NET -8.64
+2022-10-20, Open, 94.63
+2022-10-21, SELL EXECUTED, Size: -18, Price: 93.90, Cost: 1686.60, Comm 0.00
+2022-10-21, BUY EXECUTED, Size: 18, Price: 93.90, Cost: 1690.20, Comm 0.00
+2022-10-21, OPERATION PROFIT, GROSS 3.60, NET 3.60
+2022-10-21, Open, 93.23
+2022-10-24, SELL EXECUTED, Size: -18, Price: 94.94, Cost: 1690.20, Comm 0.00
+2022-10-24, BUY EXECUTED, Size: 18, Price: 94.94, Cost: 1708.92, Comm 0.00
+2022-10-24, OPERATION PROFIT, GROSS 18.72, NET 18.72
+2022-10-24, Open, 94.35
+2022-10-25, SELL EXECUTED, Size: -18, Price: 95.31, Cost: 1708.92, Comm 0.00
+2022-10-25, BUY EXECUTED, Size: 18, Price: 95.31, Cost: 1715.58, Comm 0.00
+2022-10-25, OPERATION PROFIT, GROSS 6.66, NET 6.66
+2022-10-25, Open, 95.57
+2022-10-26, SELL EXECUTED, Size: -18, Price: 95.78, Cost: 1715.58, Comm 0.00
+2022-10-26, BUY EXECUTED, Size: 18, Price: 95.78, Cost: 1724.04, Comm 0.00
+2022-10-26, OPERATION PROFIT, GROSS 8.46, NET 8.46
+2022-10-26, Open, 95.78
+2022-10-27, SELL EXECUTED, Size: -18, Price: 96.91, Cost: 1724.04, Comm 0.00
+2022-10-27, BUY EXECUTED, Size: 18, Price: 96.91, Cost: 1744.38, Comm 0.00
+2022-10-27, OPERATION PROFIT, GROSS 20.34, NET 20.34
+2022-10-27, Open, 96.17
+2022-10-28, SELL EXECUTED, Size: -18, Price: 96.89, Cost: 1744.38, Comm 0.00
+2022-10-28, BUY EXECUTED, Size: 18, Price: 96.89, Cost: 1744.02, Comm 0.00
+2022-10-28, OPERATION PROFIT, GROSS -0.36, NET -0.36
+2022-10-28, Open, 96.93
+2022-10-31, SELL EXECUTED, Size: -18, Price: 97.86, Cost: 1744.02, Comm 0.00
+2022-10-31, BUY EXECUTED, Size: 18, Price: 97.86, Cost: 1761.48, Comm 0.00
+2022-10-31, OPERATION PROFIT, GROSS 17.46, NET 17.46
+2022-10-31, Open, 98.30
+2022-11-01, SELL EXECUTED, Size: -18, Price: 98.36, Cost: 1761.48, Comm 0.00
+2022-11-01, BUY EXECUTED, Size: 18, Price: 98.36, Cost: 1770.48, Comm 0.00
+2022-11-01, OPERATION PROFIT, GROSS 9.00, NET 9.00
+2022-11-01, Open, 99.58
+2022-11-02, SELL EXECUTED, Size: -18, Price: 99.59, Cost: 1770.48, Comm 0.00
+2022-11-02, BUY EXECUTED, Size: 18, Price: 99.59, Cost: 1792.62, Comm 0.00
+2022-11-02, OPERATION PROFIT, GROSS 22.14, NET 22.14
+2022-11-02, Open, 99.51
+2022-11-03, SELL EXECUTED, Size: -18, Price: 98.37, Cost: 1792.62, Comm 0.00
+2022-11-03, BUY EXECUTED, Size: 18, Price: 98.37, Cost: 1770.66, Comm 0.00
+2022-11-03, OPERATION PROFIT, GROSS -21.96, NET -21.96
+2022-11-03, Open, 98.13
+2022-11-04, SELL EXECUTED, Size: -18, Price: 97.44, Cost: 1770.66, Comm 0.00
+2022-11-04, BUY EXECUTED, Size: 18, Price: 97.44, Cost: 1753.92, Comm 0.00
+2022-11-04, OPERATION PROFIT, GROSS -16.74, NET -16.74
+2022-11-04, Open, 96.77
+2022-11-07, SELL EXECUTED, Size: -18, Price: 97.64, Cost: 1753.92, Comm 0.00
+2022-11-07, BUY EXECUTED, Size: 18, Price: 97.64, Cost: 1757.52, Comm 0.00
+2022-11-07, OPERATION PROFIT, GROSS 3.60, NET 3.60
+2022-11-07, Open, 96.79
+2022-11-08, SELL EXECUTED, Size: -18, Price: 97.23, Cost: 1757.52, Comm 0.00
+2022-11-08, BUY EXECUTED, Size: 18, Price: 97.23, Cost: 1750.14, Comm 0.00
+2022-11-08, OPERATION PROFIT, GROSS -7.38, NET -7.38
+2022-11-08, Open, 98.11
+2022-11-09, SELL EXECUTED, Size: -18, Price: 98.13, Cost: 1750.14, Comm 0.00
+2022-11-09, BUY EXECUTED, Size: 18, Price: 98.13, Cost: 1766.34, Comm 0.00
+2022-11-09, OPERATION PROFIT, GROSS 16.20, NET 16.20
+2022-11-09, Open, 98.38
+2022-11-10, SELL EXECUTED, Size: -18, Price: 99.00, Cost: 1766.34, Comm 0.00
+2022-11-10, BUY EXECUTED, Size: 18, Price: 99.00, Cost: 1782.00, Comm 0.00
+2022-11-10, OPERATION PROFIT, GROSS 15.66, NET 15.66
+2022-11-10, Open, 97.70
+2022-11-11, SELL EXECUTED, Size: -18, Price: 99.91, Cost: 1782.00, Comm 0.00
+2022-11-11, BUY EXECUTED, Size: 18, Price: 99.91, Cost: 1798.38, Comm 0.00
+2022-11-11, OPERATION PROFIT, GROSS 16.38, NET 16.38
+2022-11-11, Open, 99.36
+2022-11-14, SELL EXECUTED, Size: -18, Price: 99.06, Cost: 1798.38, Comm 0.00
+2022-11-14, BUY EXECUTED, Size: 18, Price: 99.06, Cost: 1783.08, Comm 0.00
+2022-11-14, OPERATION PROFIT, GROSS -15.30, NET -15.30
+2022-11-14, Open, 98.69
+2022-11-15, SELL EXECUTED, Size: -18, Price: 99.35, Cost: 1783.08, Comm 0.00
+2022-11-15, BUY EXECUTED, Size: 18, Price: 99.35, Cost: 1788.30, Comm 0.00
+2022-11-15, OPERATION PROFIT, GROSS 5.22, NET 5.22
+2022-11-15, Open, 99.99
+2022-11-16, SELL EXECUTED, Size: -18, Price: 98.78, Cost: 1788.30, Comm 0.00
+2022-11-16, BUY EXECUTED, Size: 18, Price: 98.78, Cost: 1778.04, Comm 0.00
+2022-11-16, OPERATION PROFIT, GROSS -10.26, NET -10.26
+2022-11-16, Open, 98.20
+2022-11-17, SELL EXECUTED, Size: -18, Price: 99.46, Cost: 1778.04, Comm 0.00
+2022-11-17, BUY EXECUTED, Size: 18, Price: 99.46, Cost: 1790.28, Comm 0.00
+2022-11-17, OPERATION PROFIT, GROSS 12.24, NET 12.24
+2022-11-17, Open, 99.20
+2022-11-18, SELL EXECUTED, Size: -18, Price: 99.11, Cost: 1790.28, Comm 0.00
+2022-11-18, BUY EXECUTED, Size: 18, Price: 99.11, Cost: 1783.98, Comm 0.00
+2022-11-18, OPERATION PROFIT, GROSS -6.30, NET -6.30
+2022-11-18, Open, 99.37
+2022-11-21, SELL EXECUTED, Size: -18, Price: 100.10, Cost: 1783.98, Comm 0.00
+2022-11-21, BUY EXECUTED, Size: 18, Price: 100.10, Cost: 1801.80, Comm 0.00
+2022-11-21, OPERATION PROFIT, GROSS 17.82, NET 17.82
+2022-11-21, Open, 100.08
+2022-11-22, SELL EXECUTED, Size: -18, Price: 100.23, Cost: 1801.80, Comm 0.00
+2022-11-22, BUY EXECUTED, Size: 18, Price: 100.23, Cost: 1804.14, Comm 0.00
+2022-11-22, OPERATION PROFIT, GROSS 2.34, NET 2.34
+2022-11-22, Open, 100.94
+2022-11-23, SELL EXECUTED, Size: -18, Price: 101.41, Cost: 1804.14, Comm 0.00
+2022-11-23, BUY EXECUTED, Size: 18, Price: 101.41, Cost: 1825.38, Comm 0.00
+2022-11-23, OPERATION PROFIT, GROSS 21.24, NET 21.24
+2022-11-23, Open, 101.48
+2022-11-24, SELL EXECUTED, Size: -18, Price: 101.48, Cost: 1825.38, Comm 0.00
+2022-11-24, BUY EXECUTED, Size: 18, Price: 101.48, Cost: 1826.64, Comm 0.00
+2022-11-24, OPERATION PROFIT, GROSS 1.26, NET 1.26
+2022-11-24, Open, 101.42
+2022-11-25, SELL EXECUTED, Size: -18, Price: 101.60, Cost: 1826.64, Comm 0.00
+2022-11-25, BUY EXECUTED, Size: 18, Price: 101.60, Cost: 1828.80, Comm 0.00
+2022-11-25, OPERATION PROFIT, GROSS 2.16, NET 2.16
+2022-11-25, Open, 102.54
+2022-11-28, SELL EXECUTED, Size: -18, Price: 102.12, Cost: 1828.80, Comm 0.00
+2022-11-28, BUY EXECUTED, Size: 18, Price: 102.12, Cost: 1838.16, Comm 0.00
+2022-11-28, OPERATION PROFIT, GROSS 9.36, NET 9.36
+2022-11-28, Open, 101.87
+2022-11-29, SELL EXECUTED, Size: -18, Price: 101.66, Cost: 1838.16, Comm 0.00
+2022-11-29, BUY EXECUTED, Size: 18, Price: 101.66, Cost: 1829.88, Comm 0.00
+2022-11-29, OPERATION PROFIT, GROSS -8.28, NET -8.28
+2022-11-29, Open, 101.50
+2022-11-30, SELL EXECUTED, Size: -18, Price: 101.77, Cost: 1829.88, Comm 0.00
+2022-11-30, BUY EXECUTED, Size: 18, Price: 101.77, Cost: 1831.86, Comm 0.00
+2022-11-30, OPERATION PROFIT, GROSS 1.98, NET 1.98
+2022-11-30, Open, 101.28
+2022-12-01, SELL EXECUTED, Size: -18, Price: 101.87, Cost: 1831.86, Comm 0.00
+2022-12-01, BUY EXECUTED, Size: 18, Price: 101.87, Cost: 1833.66, Comm 0.00
+2022-12-01, OPERATION PROFIT, GROSS 1.80, NET 1.80
+2022-12-01, Open, 101.81
+2022-12-02, SELL EXECUTED, Size: -18, Price: 101.79, Cost: 1833.66, Comm 0.00
+2022-12-02, BUY EXECUTED, Size: 18, Price: 101.79, Cost: 1832.22, Comm 0.00
+2022-12-02, OPERATION PROFIT, GROSS -1.44, NET -1.44
+2022-12-02, Open, 100.43
+2022-12-05, SELL EXECUTED, Size: -18, Price: 100.79, Cost: 1832.22, Comm 0.00
+2022-12-05, BUY EXECUTED, Size: 18, Price: 100.79, Cost: 1814.22, Comm 0.00
+2022-12-05, OPERATION PROFIT, GROSS -18.00, NET -18.00
+2022-12-05, Open, 100.42
+2022-12-06, SELL EXECUTED, Size: -18, Price: 100.03, Cost: 1814.22, Comm 0.00
+2022-12-06, BUY EXECUTED, Size: 18, Price: 100.03, Cost: 1800.54, Comm 0.00
+2022-12-06, OPERATION PROFIT, GROSS -13.68, NET -13.68
+2022-12-06, Open, 99.95
+2022-12-07, SELL EXECUTED, Size: -18, Price: 99.11, Cost: 1800.54, Comm 0.00
+2022-12-07, BUY EXECUTED, Size: 18, Price: 99.11, Cost: 1783.98, Comm 0.00
+2022-12-07, OPERATION PROFIT, GROSS -16.56, NET -16.56
+2022-12-07, Open, 99.11
+2022-12-08, SELL EXECUTED, Size: -18, Price: 99.48, Cost: 1783.98, Comm 0.00
+2022-12-08, BUY EXECUTED, Size: 18, Price: 99.48, Cost: 1790.64, Comm 0.00
+2022-12-08, OPERATION PROFIT, GROSS 6.66, NET 6.66
+2022-12-08, Open, 98.93
+2022-12-09, SELL EXECUTED, Size: -18, Price: 98.88, Cost: 1790.64, Comm 0.00
+2022-12-09, BUY EXECUTED, Size: 18, Price: 98.88, Cost: 1779.84, Comm 0.00
+2022-12-09, OPERATION PROFIT, GROSS -10.80, NET -10.80
+2022-12-09, Open, 98.58
+2022-12-12, SELL EXECUTED, Size: -18, Price: 98.60, Cost: 1779.84, Comm 0.00
+2022-12-12, BUY EXECUTED, Size: 18, Price: 98.60, Cost: 1774.80, Comm 0.00
+2022-12-12, OPERATION PROFIT, GROSS -5.04, NET -5.04
+2022-12-12, Open, 98.96
+2022-12-13, SELL EXECUTED, Size: -18, Price: 99.85, Cost: 1774.80, Comm 0.00
+2022-12-13, BUY EXECUTED, Size: 18, Price: 99.85, Cost: 1797.30, Comm 0.00
+2022-12-13, OPERATION PROFIT, GROSS 22.50, NET 22.50
+2022-12-13, Open, 99.95
+2022-12-14, SELL EXECUTED, Size: -18, Price: 100.12, Cost: 1797.30, Comm 0.00
+2022-12-14, BUY EXECUTED, Size: 18, Price: 100.12, Cost: 1802.16, Comm 0.00
+2022-12-14, OPERATION PROFIT, GROSS 4.86, NET 4.86
+2022-12-14, Open, 100.40
+2022-12-15, SELL EXECUTED, Size: -18, Price: 100.19, Cost: 1802.16, Comm 0.00
+2022-12-15, BUY EXECUTED, Size: 18, Price: 100.19, Cost: 1803.42, Comm 0.00
+2022-12-15, OPERATION PROFIT, GROSS 1.26, NET 1.26
+2022-12-15, Open, 100.29
+2022-12-16, SELL EXECUTED, Size: -18, Price: 99.59, Cost: 1803.42, Comm 0.00
+2022-12-16, BUY EXECUTED, Size: 18, Price: 99.59, Cost: 1792.62, Comm 0.00
+2022-12-16, OPERATION PROFIT, GROSS -10.80, NET -10.80
+2022-12-16, Open, 99.52
+2022-12-19, SELL EXECUTED, Size: -18, Price: 98.60, Cost: 1792.62, Comm 0.00
+2022-12-19, BUY EXECUTED, Size: 18, Price: 98.60, Cost: 1774.80, Comm 0.00
+2022-12-19, OPERATION PROFIT, GROSS -17.82, NET -17.82
+2022-12-19, Open, 99.19
+2022-12-20, SELL EXECUTED, Size: -18, Price: 99.36, Cost: 1774.80, Comm 0.00
+2022-12-20, BUY EXECUTED, Size: 18, Price: 99.36, Cost: 1788.48, Comm 0.00
+2022-12-20, OPERATION PROFIT, GROSS 13.68, NET 13.68
+2022-12-20, Open, 98.91
+2022-12-21, SELL EXECUTED, Size: -18, Price: 99.55, Cost: 1788.48, Comm 0.00
+2022-12-21, BUY EXECUTED, Size: 18, Price: 99.55, Cost: 1791.90, Comm 0.00
+2022-12-21, OPERATION PROFIT, GROSS 3.42, NET 3.42
+2022-12-21, Open, 98.34
+2022-12-22, SELL EXECUTED, Size: -18, Price: 98.93, Cost: 1791.90, Comm 0.00
+2022-12-22, BUY EXECUTED, Size: 18, Price: 98.93, Cost: 1780.74, Comm 0.00
+2022-12-22, OPERATION PROFIT, GROSS -11.16, NET -11.16
+2022-12-22, Open, 99.18
+2022-12-23, SELL EXECUTED, Size: -18, Price: 98.32, Cost: 1780.74, Comm 0.00
+2022-12-23, BUY EXECUTED, Size: 18, Price: 98.32, Cost: 1769.76, Comm 0.00
+2022-12-23, OPERATION PROFIT, GROSS -10.98, NET -10.98
+2022-12-23, Open, 98.43
+2022-12-28, SELL EXECUTED, Size: -18, Price: 98.05, Cost: 1769.76, Comm 0.00
+2022-12-28, BUY EXECUTED, Size: 18, Price: 98.05, Cost: 1764.90, Comm 0.00
+2022-12-28, OPERATION PROFIT, GROSS -4.86, NET -4.86
+2022-12-28, Open, 96.81
+2022-12-29, SELL EXECUTED, Size: -18, Price: 96.85, Cost: 1764.90, Comm 0.00
+2022-12-29, BUY EXECUTED, Size: 18, Price: 96.85, Cost: 1743.30, Comm 0.00
+2022-12-29, OPERATION PROFIT, GROSS -21.60, NET -21.60
+2022-12-29, Open, 95.86
+2022-12-30, SELL EXECUTED, Size: -18, Price: 96.30, Cost: 1743.30, Comm 0.00
+2022-12-30, BUY EXECUTED, Size: 18, Price: 96.30, Cost: 1733.40, Comm 0.00
+2022-12-30, OPERATION PROFIT, GROSS -9.90, NET -9.90
+2022-12-30, Open, 96.34
+2023-01-03, SELL EXECUTED, Size: -18, Price: 97.40, Cost: 1733.40, Comm 0.00
+2023-01-03, BUY EXECUTED, Size: 18, Price: 97.40, Cost: 1753.20, Comm 0.00
+2023-01-03, OPERATION PROFIT, GROSS 19.80, NET 19.80
+2023-01-03, Open, 94.89
+2023-01-04, SELL EXECUTED, Size: -18, Price: 95.31, Cost: 1753.20, Comm 0.00
+2023-01-04, BUY EXECUTED, Size: 18, Price: 95.31, Cost: 1715.58, Comm 0.00
+2023-01-04, OPERATION PROFIT, GROSS -37.62, NET -37.62
+2023-01-04, Open, 96.85
+2023-01-05, SELL EXECUTED, Size: -18, Price: 97.25, Cost: 1715.58, Comm 0.00
+2023-01-05, BUY EXECUTED, Size: 18, Price: 97.25, Cost: 1750.50, Comm 0.00
+2023-01-05, OPERATION PROFIT, GROSS 34.92, NET 34.92
+2023-01-05, Open, 97.02
+2023-01-06, SELL EXECUTED, Size: -18, Price: 96.61, Cost: 1750.50, Comm 0.00
+2023-01-06, BUY EXECUTED, Size: 18, Price: 96.61, Cost: 1738.98, Comm 0.00
+2023-01-06, OPERATION PROFIT, GROSS -11.52, NET -11.52
+2023-01-06, Open, 96.89
+2023-01-09, SELL EXECUTED, Size: -18, Price: 97.55, Cost: 1738.98, Comm 0.00
+2023-01-09, BUY EXECUTED, Size: 18, Price: 97.55, Cost: 1755.90, Comm 0.00
+2023-01-09, OPERATION PROFIT, GROSS 16.92, NET 16.92
+2023-01-09, Open, 97.02
+2023-01-10, SELL EXECUTED, Size: -18, Price: 96.54, Cost: 1755.90, Comm 0.00
+2023-01-10, BUY EXECUTED, Size: 18, Price: 96.54, Cost: 1737.72, Comm 0.00
+2023-01-10, OPERATION PROFIT, GROSS -18.18, NET -18.18
+2023-01-10, Open, 97.02
+2023-01-11, SELL EXECUTED, Size: -18, Price: 97.38, Cost: 1737.72, Comm 0.00
+2023-01-11, BUY EXECUTED, Size: 18, Price: 97.38, Cost: 1752.84, Comm 0.00
+2023-01-11, OPERATION PROFIT, GROSS 15.12, NET 15.12
+2023-01-11, Open, 97.22
+2023-01-12, SELL EXECUTED, Size: -18, Price: 97.94, Cost: 1752.84, Comm 0.00
+2023-01-12, BUY EXECUTED, Size: 18, Price: 97.94, Cost: 1762.92, Comm 0.00
+2023-01-12, OPERATION PROFIT, GROSS 10.08, NET 10.08
+2023-01-12, Open, 98.77
+2023-01-13, SELL EXECUTED, Size: -18, Price: 99.21, Cost: 1762.92, Comm 0.00
+2023-01-13, BUY EXECUTED, Size: 18, Price: 99.21, Cost: 1785.78, Comm 0.00
+2023-01-13, OPERATION PROFIT, GROSS 22.86, NET 22.86
+2023-01-13, Open, 100.01
+2023-01-16, SELL EXECUTED, Size: -18, Price: 100.18, Cost: 1785.78, Comm 0.00
+2023-01-16, BUY EXECUTED, Size: 18, Price: 100.18, Cost: 1803.24, Comm 0.00
+2023-01-16, OPERATION PROFIT, GROSS 17.46, NET 17.46
+2023-01-16, Open, 100.80
+2023-01-17, SELL EXECUTED, Size: -18, Price: 100.76, Cost: 1803.24, Comm 0.00
+2023-01-17, BUY EXECUTED, Size: 18, Price: 100.76, Cost: 1813.68, Comm 0.00
+2023-01-17, OPERATION PROFIT, GROSS 10.44, NET 10.44
+2023-01-17, Open, 100.89
+2023-01-18, SELL EXECUTED, Size: -18, Price: 101.00, Cost: 1813.68, Comm 0.00
+2023-01-18, BUY EXECUTED, Size: 18, Price: 101.00, Cost: 1818.00, Comm 0.00
+2023-01-18, OPERATION PROFIT, GROSS 4.32, NET 4.32
+2023-01-18, Open, 101.09
+2023-01-19, SELL EXECUTED, Size: -18, Price: 101.63, Cost: 1818.00, Comm 0.00
+2023-01-19, BUY EXECUTED, Size: 18, Price: 101.63, Cost: 1829.34, Comm 0.00
+2023-01-19, OPERATION PROFIT, GROSS 11.34, NET 11.34
+2023-01-19, Open, 102.11
+2023-01-20, SELL EXECUTED, Size: -18, Price: 102.07, Cost: 1829.34, Comm 0.00
+2023-01-20, BUY EXECUTED, Size: 18, Price: 102.07, Cost: 1837.26, Comm 0.00
+2023-01-20, OPERATION PROFIT, GROSS 7.92, NET 7.92
+2023-01-20, Open, 102.03
+2023-01-23, SELL EXECUTED, Size: -18, Price: 102.35, Cost: 1837.26, Comm 0.00
+2023-01-23, BUY EXECUTED, Size: 18, Price: 102.35, Cost: 1842.30, Comm 0.00
+2023-01-23, OPERATION PROFIT, GROSS 5.04, NET 5.04
+2023-01-23, Open, 101.99
+2023-01-24, SELL EXECUTED, Size: -18, Price: 101.79, Cost: 1842.30, Comm 0.00
+2023-01-24, BUY EXECUTED, Size: 18, Price: 101.79, Cost: 1832.22, Comm 0.00
+2023-01-24, OPERATION PROFIT, GROSS -10.08, NET -10.08
+2023-01-24, Open, 101.46
+2023-01-25, SELL EXECUTED, Size: -18, Price: 101.42, Cost: 1832.22, Comm 0.00
+2023-01-25, BUY EXECUTED, Size: 18, Price: 101.42, Cost: 1825.56, Comm 0.00
+2023-01-25, OPERATION PROFIT, GROSS -6.66, NET -6.66
+2023-01-25, Open, 102.19
+2023-01-27, SELL EXECUTED, Size: -18, Price: 102.82, Cost: 1825.56, Comm 0.00
+2023-01-27, BUY EXECUTED, Size: 18, Price: 102.82, Cost: 1850.76, Comm 0.00
+2023-01-27, OPERATION PROFIT, GROSS 25.20, NET 25.20
+2023-01-27, Open, 103.15
+2023-01-30, SELL EXECUTED, Size: -18, Price: 103.01, Cost: 1850.76, Comm 0.00
+2023-01-30, BUY EXECUTED, Size: 18, Price: 103.01, Cost: 1854.18, Comm 0.00
+2023-01-30, OPERATION PROFIT, GROSS 3.42, NET 3.42
+2023-01-30, Open, 103.07
+2023-01-31, SELL EXECUTED, Size: -18, Price: 103.16, Cost: 1854.18, Comm 0.00
+2023-01-31, BUY EXECUTED, Size: 18, Price: 103.16, Cost: 1856.88, Comm 0.00
+2023-01-31, OPERATION PROFIT, GROSS 2.70, NET 2.70
+2023-01-31, Open, 103.35
+2023-02-01, SELL EXECUTED, Size: -18, Price: 103.75, Cost: 1856.88, Comm 0.00
+2023-02-01, BUY EXECUTED, Size: 18, Price: 103.75, Cost: 1867.50, Comm 0.00
+2023-02-01, OPERATION PROFIT, GROSS 10.62, NET 10.62
+2023-02-01, Open, 103.43
+2023-02-02, SELL EXECUTED, Size: -18, Price: 103.81, Cost: 1867.50, Comm 0.00
+2023-02-02, BUY EXECUTED, Size: 18, Price: 103.81, Cost: 1868.58, Comm 0.00
+2023-02-02, OPERATION PROFIT, GROSS 1.08, NET 1.08
+2023-02-02, Open, 103.04
+2023-02-03, SELL EXECUTED, Size: -18, Price: 103.20, Cost: 1868.58, Comm 0.00
+2023-02-03, BUY EXECUTED, Size: 18, Price: 103.20, Cost: 1857.60, Comm 0.00
+2023-02-03, OPERATION PROFIT, GROSS -10.98, NET -10.98
+2023-02-03, Open, 104.37
+2023-02-06, SELL EXECUTED, Size: -18, Price: 104.42, Cost: 1857.60, Comm 0.00
+2023-02-06, BUY EXECUTED, Size: 18, Price: 104.42, Cost: 1879.56, Comm 0.00
+2023-02-06, OPERATION PROFIT, GROSS 21.96, NET 21.96
+2023-02-06, Open, 104.00
+2023-02-07, SELL EXECUTED, Size: -18, Price: 104.10, Cost: 1879.56, Comm 0.00
+2023-02-07, BUY EXECUTED, Size: 18, Price: 104.10, Cost: 1873.80, Comm 0.00
+2023-02-07, OPERATION PROFIT, GROSS -5.76, NET -5.76
+2023-02-07, Open, 103.57
+2023-02-08, SELL EXECUTED, Size: -18, Price: 103.67, Cost: 1873.80, Comm 0.00
+2023-02-08, BUY EXECUTED, Size: 18, Price: 103.67, Cost: 1866.06, Comm 0.00
+2023-02-08, OPERATION PROFIT, GROSS -7.74, NET -7.74
+2023-02-08, Open, 103.59
+2023-02-09, SELL EXECUTED, Size: -18, Price: 103.49, Cost: 1866.06, Comm 0.00
+2023-02-09, BUY EXECUTED, Size: 18, Price: 103.49, Cost: 1862.82, Comm 0.00
+2023-02-09, OPERATION PROFIT, GROSS -3.24, NET -3.24
+2023-02-09, Open, 103.49
+2023-02-10, SELL EXECUTED, Size: -18, Price: 103.15, Cost: 1862.82, Comm 0.00
+2023-02-10, BUY EXECUTED, Size: 18, Price: 103.15, Cost: 1856.70, Comm 0.00
+2023-02-10, OPERATION PROFIT, GROSS -6.12, NET -6.12
+2023-02-10, Open, 103.25
+2023-02-13, SELL EXECUTED, Size: -18, Price: 103.16, Cost: 1856.70, Comm 0.00
+2023-02-13, BUY EXECUTED, Size: 18, Price: 103.16, Cost: 1856.88, Comm 0.00
+2023-02-13, OPERATION PROFIT, GROSS 0.18, NET 0.18
+2023-02-13, Open, 102.64
+2023-02-14, SELL EXECUTED, Size: -18, Price: 103.58, Cost: 1856.88, Comm 0.00
+2023-02-14, BUY EXECUTED, Size: 18, Price: 103.58, Cost: 1864.44, Comm 0.00
+2023-02-14, OPERATION PROFIT, GROSS 7.56, NET 7.56
+2023-02-14, Open, 102.59
+2023-02-15, SELL EXECUTED, Size: -18, Price: 97.76, Cost: 1864.44, Comm 0.00
+2023-02-15, BUY EXECUTED, Size: 18, Price: 97.76, Cost: 1759.68, Comm 0.00
+2023-02-15, OPERATION PROFIT, GROSS -104.76, NET -104.76
+2023-02-15, Open, 96.72
+2023-02-16, SELL EXECUTED, Size: -18, Price: 96.12, Cost: 1759.68, Comm 0.00
+2023-02-16, BUY EXECUTED, Size: 18, Price: 96.12, Cost: 1730.16, Comm 0.00
+2023-02-16, OPERATION PROFIT, GROSS -29.52, NET -29.52
+2023-02-16, Open, 95.31
+2023-02-17, SELL EXECUTED, Size: -18, Price: 95.03, Cost: 1730.16, Comm 0.00
+2023-02-17, BUY EXECUTED, Size: 18, Price: 95.03, Cost: 1710.54, Comm 0.00
+2023-02-17, OPERATION PROFIT, GROSS -19.62, NET -19.62
+2023-02-17, Open, 94.81
+2023-02-20, SELL EXECUTED, Size: -18, Price: 94.84, Cost: 1710.54, Comm 0.00
+2023-02-20, BUY EXECUTED, Size: 18, Price: 94.84, Cost: 1707.12, Comm 0.00
+2023-02-20, OPERATION PROFIT, GROSS -3.42, NET -3.42
+2023-02-20, Open, 96.00
+2023-02-21, SELL EXECUTED, Size: -18, Price: 95.81, Cost: 1707.12, Comm 0.00
+2023-02-21, BUY EXECUTED, Size: 18, Price: 95.81, Cost: 1724.58, Comm 0.00
+2023-02-21, OPERATION PROFIT, GROSS 17.46, NET 17.46
+2023-02-21, Open, 95.33
+2023-02-22, SELL EXECUTED, Size: -18, Price: 94.64, Cost: 1724.58, Comm 0.00
+2023-02-22, BUY EXECUTED, Size: 18, Price: 94.64, Cost: 1703.52, Comm 0.00
+2023-02-22, OPERATION PROFIT, GROSS -21.06, NET -21.06
+2023-02-22, Open, 95.12
+2023-02-23, SELL EXECUTED, Size: -18, Price: 95.37, Cost: 1703.52, Comm 0.00
+2023-02-23, BUY EXECUTED, Size: 18, Price: 95.37, Cost: 1716.66, Comm 0.00
+2023-02-23, OPERATION PROFIT, GROSS 13.14, NET 13.14
+2023-02-23, Open, 95.79
+2023-02-24, SELL EXECUTED, Size: -18, Price: 95.68, Cost: 1716.66, Comm 0.00
+2023-02-24, BUY EXECUTED, Size: 18, Price: 95.68, Cost: 1722.24, Comm 0.00
+2023-02-24, OPERATION PROFIT, GROSS 5.58, NET 5.58
+2023-02-24, Open, 97.06
+2023-02-27, SELL EXECUTED, Size: -18, Price: 96.94, Cost: 1722.24, Comm 0.00
+2023-02-27, BUY EXECUTED, Size: 18, Price: 96.94, Cost: 1744.92, Comm 0.00
+2023-02-27, OPERATION PROFIT, GROSS 22.68, NET 22.68
+2023-02-27, Open, 97.22
+2023-02-28, SELL EXECUTED, Size: -18, Price: 97.06, Cost: 1744.92, Comm 0.00
+2023-02-28, BUY EXECUTED, Size: 18, Price: 97.06, Cost: 1747.08, Comm 0.00
+2023-02-28, OPERATION PROFIT, GROSS 2.16, NET 2.16
+2023-02-28, Open, 96.55
+2023-03-01, SELL EXECUTED, Size: -18, Price: 95.84, Cost: 1747.08, Comm 0.00
+2023-03-01, BUY EXECUTED, Size: 18, Price: 95.84, Cost: 1725.12, Comm 0.00
+2023-03-01, OPERATION PROFIT, GROSS -21.96, NET -21.96
+2023-03-01, Open, 94.97
+2023-03-02, SELL EXECUTED, Size: -18, Price: 95.18, Cost: 1725.12, Comm 0.00
+2023-03-02, BUY EXECUTED, Size: 18, Price: 95.18, Cost: 1713.24, Comm 0.00
+2023-03-02, OPERATION PROFIT, GROSS -11.88, NET -11.88
+2023-03-02, Open, 93.08
+2023-03-03, SELL EXECUTED, Size: -18, Price: 93.30, Cost: 1713.24, Comm 0.00
+2023-03-03, BUY EXECUTED, Size: 18, Price: 93.30, Cost: 1679.40, Comm 0.00
+2023-03-03, OPERATION PROFIT, GROSS -33.84, NET -33.84
+2023-03-03, Open, 93.73
+2023-03-06, SELL EXECUTED, Size: -18, Price: 94.15, Cost: 1679.40, Comm 0.00
+2023-03-06, BUY EXECUTED, Size: 18, Price: 94.15, Cost: 1694.70, Comm 0.00
+2023-03-06, OPERATION PROFIT, GROSS 15.30, NET 15.30
+2023-03-06, Open, 94.54
+2023-03-07, SELL EXECUTED, Size: -18, Price: 94.78, Cost: 1694.70, Comm 0.00
+2023-03-07, BUY EXECUTED, Size: 18, Price: 94.78, Cost: 1706.04, Comm 0.00
+2023-03-07, OPERATION PROFIT, GROSS 11.34, NET 11.34
+2023-03-07, Open, 94.83
+2023-03-08, SELL EXECUTED, Size: -18, Price: 94.30, Cost: 1706.04, Comm 0.00
+2023-03-08, BUY EXECUTED, Size: 18, Price: 94.30, Cost: 1697.40, Comm 0.00
+2023-03-08, OPERATION PROFIT, GROSS -8.64, NET -8.64
+2023-03-08, Open, 94.36
+2023-03-09, SELL EXECUTED, Size: -18, Price: 94.74, Cost: 1697.40, Comm 0.00
+2023-03-09, BUY EXECUTED, Size: 18, Price: 94.74, Cost: 1705.32, Comm 0.00
+2023-03-09, OPERATION PROFIT, GROSS 7.92, NET 7.92
+2023-03-09, Open, 94.66
+2023-03-10, SELL EXECUTED, Size: -18, Price: 92.83, Cost: 1705.32, Comm 0.00
+2023-03-10, BUY EXECUTED, Size: 18, Price: 92.83, Cost: 1670.94, Comm 0.00
+2023-03-10, OPERATION PROFIT, GROSS -34.38, NET -34.38
+2023-03-10, Open, 91.58
+2023-03-13, SELL EXECUTED, Size: -18, Price: 92.05, Cost: 1670.94, Comm 0.00
+2023-03-13, BUY EXECUTED, Size: 18, Price: 92.05, Cost: 1656.90, Comm 0.00
+2023-03-13, OPERATION PROFIT, GROSS -14.04, NET -14.04
+2023-03-13, Open, 91.21
+2023-03-14, SELL EXECUTED, Size: -18, Price: 89.31, Cost: 1656.90, Comm 0.00
+2023-03-14, BUY EXECUTED, Size: 18, Price: 89.31, Cost: 1607.58, Comm 0.00
+2023-03-14, OPERATION PROFIT, GROSS -49.32, NET -49.32
+2023-03-14, Open, 91.36
+2023-03-15, SELL EXECUTED, Size: -18, Price: 92.24, Cost: 1607.58, Comm 0.00
+2023-03-15, BUY EXECUTED, Size: 18, Price: 92.24, Cost: 1660.32, Comm 0.00
+2023-03-15, OPERATION PROFIT, GROSS 52.74, NET 52.74
+2023-03-15, Open, 91.47
+2023-03-16, SELL EXECUTED, Size: -18, Price: 90.13, Cost: 1660.32, Comm 0.00
+2023-03-16, BUY EXECUTED, Size: 18, Price: 90.13, Cost: 1622.34, Comm 0.00
+2023-03-16, OPERATION PROFIT, GROSS -37.98, NET -37.98
+2023-03-16, Open, 91.38
+2023-03-17, SELL EXECUTED, Size: -18, Price: 92.27, Cost: 1622.34, Comm 0.00
+2023-03-17, BUY EXECUTED, Size: 18, Price: 92.27, Cost: 1660.86, Comm 0.00
+2023-03-17, OPERATION PROFIT, GROSS 38.52, NET 38.52
+2023-03-17, Open, 92.48
+2023-03-20, SELL EXECUTED, Size: -18, Price: 91.28, Cost: 1660.86, Comm 0.00
+2023-03-20, BUY EXECUTED, Size: 18, Price: 91.28, Cost: 1643.04, Comm 0.00
+2023-03-20, OPERATION PROFIT, GROSS -17.82, NET -17.82
+2023-03-20, Open, 92.13
+2023-03-21, SELL EXECUTED, Size: -18, Price: 92.91, Cost: 1643.04, Comm 0.00
+2023-03-21, BUY EXECUTED, Size: 18, Price: 92.91, Cost: 1672.38, Comm 0.00
+2023-03-21, OPERATION PROFIT, GROSS 29.34, NET 29.34
+2023-03-21, Open, 92.55
+2023-03-22, SELL EXECUTED, Size: -18, Price: 93.87, Cost: 1672.38, Comm 0.00
+2023-03-22, BUY EXECUTED, Size: 18, Price: 93.87, Cost: 1689.66, Comm 0.00
+2023-03-22, OPERATION PROFIT, GROSS 17.28, NET 17.28
+2023-03-22, Open, 93.14
+2023-03-23, SELL EXECUTED, Size: -18, Price: 92.79, Cost: 1689.66, Comm 0.00
+2023-03-23, BUY EXECUTED, Size: 18, Price: 92.79, Cost: 1670.22, Comm 0.00
+2023-03-23, OPERATION PROFIT, GROSS -19.44, NET -19.44
+2023-03-23, Open, 93.04
+2023-03-24, SELL EXECUTED, Size: -18, Price: 92.09, Cost: 1670.22, Comm 0.00
+2023-03-24, BUY EXECUTED, Size: 18, Price: 92.09, Cost: 1657.62, Comm 0.00
+2023-03-24, OPERATION PROFIT, GROSS -12.60, NET -12.60
+2023-03-24, Open, 91.90
+2023-03-27, SELL EXECUTED, Size: -18, Price: 92.45, Cost: 1657.62, Comm 0.00
+2023-03-27, BUY EXECUTED, Size: 18, Price: 92.45, Cost: 1664.10, Comm 0.00
+2023-03-27, OPERATION PROFIT, GROSS 6.48, NET 6.48
+2023-03-27, Open, 91.16
+2023-03-28, SELL EXECUTED, Size: -18, Price: 91.67, Cost: 1664.10, Comm 0.00
+2023-03-28, BUY EXECUTED, Size: 18, Price: 91.67, Cost: 1650.06, Comm 0.00
+2023-03-28, OPERATION PROFIT, GROSS -14.04, NET -14.04
+2023-03-28, Open, 92.11
+2023-03-29, SELL EXECUTED, Size: -18, Price: 91.39, Cost: 1650.06, Comm 0.00
+2023-03-29, BUY EXECUTED, Size: 18, Price: 91.39, Cost: 1645.02, Comm 0.00
+2023-03-29, OPERATION PROFIT, GROSS -5.04, NET -5.04
+2023-03-29, Open, 92.38
+2023-03-30, SELL EXECUTED, Size: -18, Price: 93.55, Cost: 1645.02, Comm 0.00
+2023-03-30, BUY EXECUTED, Size: 18, Price: 93.55, Cost: 1683.90, Comm 0.00
+2023-03-30, OPERATION PROFIT, GROSS 38.88, NET 38.88
+2023-03-30, Open, 93.73
+2023-03-31, SELL EXECUTED, Size: -18, Price: 94.30, Cost: 1683.90, Comm 0.00
+2023-03-31, BUY EXECUTED, Size: 18, Price: 94.30, Cost: 1697.40, Comm 0.00
+2023-03-31, OPERATION PROFIT, GROSS 13.50, NET 13.50
+2023-03-31, Open, 94.27
+2023-04-03, SELL EXECUTED, Size: -18, Price: 94.53, Cost: 1697.40, Comm 0.00
+2023-04-03, BUY EXECUTED, Size: 18, Price: 94.53, Cost: 1701.54, Comm 0.00
+2023-04-03, OPERATION PROFIT, GROSS 4.14, NET 4.14
+2023-04-03, Open, 95.19
+2023-04-04, SELL EXECUTED, Size: -18, Price: 95.65, Cost: 1701.54, Comm 0.00
+2023-04-04, BUY EXECUTED, Size: 18, Price: 95.65, Cost: 1721.70, Comm 0.00
+2023-04-04, OPERATION PROFIT, GROSS 20.16, NET 20.16
+2023-04-04, Open, 94.91
+2023-04-05, SELL EXECUTED, Size: -18, Price: 94.63, Cost: 1721.70, Comm 0.00
+2023-04-05, BUY EXECUTED, Size: 18, Price: 94.63, Cost: 1703.34, Comm 0.00
+2023-04-05, OPERATION PROFIT, GROSS -18.36, NET -18.36
+2023-04-05, Open, 94.98
+2023-04-06, SELL EXECUTED, Size: -18, Price: 95.31, Cost: 1703.34, Comm 0.00
+2023-04-06, BUY EXECUTED, Size: 18, Price: 95.31, Cost: 1715.58, Comm 0.00
+2023-04-06, OPERATION PROFIT, GROSS 12.24, NET 12.24
+2023-04-06, Open, 94.94
+2023-04-11, SELL EXECUTED, Size: -18, Price: 95.61, Cost: 1715.58, Comm 0.00
+2023-04-11, BUY EXECUTED, Size: 18, Price: 95.61, Cost: 1720.98, Comm 0.00
+2023-04-11, OPERATION PROFIT, GROSS 5.40, NET 5.40
+2023-04-11, Open, 95.66
+2023-04-12, SELL EXECUTED, Size: -18, Price: 96.22, Cost: 1720.98, Comm 0.00
+2023-04-12, BUY EXECUTED, Size: 18, Price: 96.22, Cost: 1731.96, Comm 0.00
+2023-04-12, OPERATION PROFIT, GROSS 10.98, NET 10.98
+2023-04-12, Open, 95.15
+2023-04-13, SELL EXECUTED, Size: -18, Price: 95.16, Cost: 1731.96, Comm 0.00
+2023-04-13, BUY EXECUTED, Size: 18, Price: 95.16, Cost: 1712.88, Comm 0.00
+2023-04-13, OPERATION PROFIT, GROSS -19.08, NET -19.08
+2023-04-13, Open, 94.18
+2023-04-14, SELL EXECUTED, Size: -18, Price: 94.18, Cost: 1712.88, Comm 0.00
+2023-04-14, BUY EXECUTED, Size: 18, Price: 94.18, Cost: 1695.24, Comm 0.00
+2023-04-14, OPERATION PROFIT, GROSS -17.64, NET -17.64
+2023-04-14, Open, 95.03
+2023-04-17, SELL EXECUTED, Size: -18, Price: 95.89, Cost: 1695.24, Comm 0.00
+2023-04-17, BUY EXECUTED, Size: 18, Price: 95.89, Cost: 1726.02, Comm 0.00
+2023-04-17, OPERATION PROFIT, GROSS 30.78, NET 30.78
+2023-04-17, Open, 95.64
+2023-04-18, SELL EXECUTED, Size: -18, Price: 95.04, Cost: 1726.02, Comm 0.00
+2023-04-18, BUY EXECUTED, Size: 18, Price: 95.04, Cost: 1710.72, Comm 0.00
+2023-04-18, OPERATION PROFIT, GROSS -15.30, NET -15.30
+2023-04-18, Open, 95.31
+2023-04-19, SELL EXECUTED, Size: -18, Price: 95.29, Cost: 1710.72, Comm 0.00
+2023-04-19, BUY EXECUTED, Size: 18, Price: 95.29, Cost: 1715.22, Comm 0.00
+2023-04-19, OPERATION PROFIT, GROSS 4.50, NET 4.50
+2023-04-19, Open, 95.28
+2023-04-20, SELL EXECUTED, Size: -18, Price: 95.85, Cost: 1715.22, Comm 0.00
+2023-04-20, BUY EXECUTED, Size: 18, Price: 95.85, Cost: 1725.30, Comm 0.00
+2023-04-20, OPERATION PROFIT, GROSS 10.08, NET 10.08
+2023-04-20, Open, 96.77
+2023-04-21, SELL EXECUTED, Size: -18, Price: 96.37, Cost: 1725.30, Comm 0.00
+2023-04-21, BUY EXECUTED, Size: 18, Price: 96.37, Cost: 1734.66, Comm 0.00
+2023-04-21, OPERATION PROFIT, GROSS 9.36, NET 9.36
+2023-04-21, Open, 95.69
+2023-04-24, SELL EXECUTED, Size: -18, Price: 96.32, Cost: 1734.66, Comm 0.00
+2023-04-24, BUY EXECUTED, Size: 18, Price: 96.32, Cost: 1733.76, Comm 0.00
+2023-04-24, OPERATION PROFIT, GROSS -0.90, NET -0.90
+2023-04-24, Open, 95.99
+2023-04-26, SELL EXECUTED, Size: -18, Price: 95.89, Cost: 1733.76, Comm 0.00
+2023-04-26, BUY EXECUTED, Size: 18, Price: 95.89, Cost: 1726.02, Comm 0.00
+2023-04-26, OPERATION PROFIT, GROSS -7.74, NET -7.74
+2023-04-26, Open, 95.78
+2023-04-27, SELL EXECUTED, Size: -18, Price: 95.85, Cost: 1726.02, Comm 0.00
+2023-04-27, BUY EXECUTED, Size: 18, Price: 95.85, Cost: 1725.30, Comm 0.00
+2023-04-27, OPERATION PROFIT, GROSS -0.72, NET -0.72
+2023-04-27, Open, 95.02
+2023-04-28, SELL EXECUTED, Size: -18, Price: 95.48, Cost: 1725.30, Comm 0.00
+2023-04-28, BUY EXECUTED, Size: 18, Price: 95.48, Cost: 1718.64, Comm 0.00
+2023-04-28, OPERATION PROFIT, GROSS -6.66, NET -6.66
+2023-04-28, Open, 95.27
+2023-05-01, SELL EXECUTED, Size: -18, Price: 95.85, Cost: 1718.64, Comm 0.00
+2023-05-01, BUY EXECUTED, Size: 18, Price: 95.85, Cost: 1725.30, Comm 0.00
+2023-05-01, OPERATION PROFIT, GROSS 6.66, NET 6.66
+2023-05-01, Open, 96.31
+2023-05-02, SELL EXECUTED, Size: -18, Price: 96.64, Cost: 1725.30, Comm 0.00
+2023-05-02, BUY EXECUTED, Size: 18, Price: 96.64, Cost: 1739.52, Comm 0.00
+2023-05-02, OPERATION PROFIT, GROSS 14.22, NET 14.22
+2023-05-02, Open, 95.98
+2023-05-03, SELL EXECUTED, Size: -18, Price: 94.73, Cost: 1739.52, Comm 0.00
+2023-05-03, BUY EXECUTED, Size: 18, Price: 94.73, Cost: 1705.14, Comm 0.00
+2023-05-03, OPERATION PROFIT, GROSS -34.38, NET -34.38
+2023-05-03, Open, 94.25
+2023-05-04, SELL EXECUTED, Size: -18, Price: 91.99, Cost: 1705.14, Comm 0.00
+2023-05-04, BUY EXECUTED, Size: 18, Price: 91.99, Cost: 1655.82, Comm 0.00
+2023-05-04, OPERATION PROFIT, GROSS -49.32, NET -49.32
+2023-05-04, Open, 91.82
+2023-05-05, SELL EXECUTED, Size: -18, Price: 91.67, Cost: 1655.82, Comm 0.00
+2023-05-05, BUY EXECUTED, Size: 18, Price: 91.67, Cost: 1650.06, Comm 0.00
+2023-05-05, OPERATION PROFIT, GROSS -5.76, NET -5.76
+2023-05-05, Open, 92.17
+2023-05-08, SELL EXECUTED, Size: -18, Price: 93.01, Cost: 1650.06, Comm 0.00
+2023-05-08, BUY EXECUTED, Size: 18, Price: 93.01, Cost: 1674.18, Comm 0.00
+2023-05-08, OPERATION PROFIT, GROSS 24.12, NET 24.12
+2023-05-08, Open, 93.12
+2023-05-09, SELL EXECUTED, Size: -18, Price: 92.63, Cost: 1674.18, Comm 0.00
+2023-05-09, BUY EXECUTED, Size: 18, Price: 92.63, Cost: 1667.34, Comm 0.00
+2023-05-09, OPERATION PROFIT, GROSS -6.84, NET -6.84
+2023-05-09, Open, 93.34
+2023-05-10, SELL EXECUTED, Size: -18, Price: 92.95, Cost: 1667.34, Comm 0.00
+2023-05-10, BUY EXECUTED, Size: 18, Price: 92.95, Cost: 1673.10, Comm 0.00
+2023-05-10, OPERATION PROFIT, GROSS 5.76, NET 5.76
+2023-05-10, Open, 93.82
+2023-05-11, SELL EXECUTED, Size: -18, Price: 94.76, Cost: 1673.10, Comm 0.00
+2023-05-11, BUY EXECUTED, Size: 18, Price: 94.76, Cost: 1705.68, Comm 0.00
+2023-05-11, OPERATION PROFIT, GROSS 32.58, NET 32.58
+2023-05-11, Open, 94.30
+2023-05-12, SELL EXECUTED, Size: -18, Price: 94.78, Cost: 1705.68, Comm 0.00
+2023-05-12, BUY EXECUTED, Size: 18, Price: 94.78, Cost: 1706.04, Comm 0.00
+2023-05-12, OPERATION PROFIT, GROSS 0.36, NET 0.36
+2023-05-12, Open, 94.89
+2023-05-15, SELL EXECUTED, Size: -18, Price: 94.48, Cost: 1706.04, Comm 0.00
+2023-05-15, BUY EXECUTED, Size: 18, Price: 94.48, Cost: 1700.64, Comm 0.00
+2023-05-15, OPERATION PROFIT, GROSS -5.40, NET -5.40
+2023-05-15, Open, 94.45
+2023-05-16, SELL EXECUTED, Size: -18, Price: 94.26, Cost: 1700.64, Comm 0.00
+2023-05-16, BUY EXECUTED, Size: 18, Price: 94.26, Cost: 1696.68, Comm 0.00
+2023-05-16, OPERATION PROFIT, GROSS -3.96, NET -3.96
+2023-05-16, Open, 93.57
+2023-05-17, SELL EXECUTED, Size: -18, Price: 93.11, Cost: 1696.68, Comm 0.00
+2023-05-17, BUY EXECUTED, Size: 18, Price: 93.11, Cost: 1675.98, Comm 0.00
+2023-05-17, OPERATION PROFIT, GROSS -20.70, NET -20.70
+2023-05-17, Open, 93.14
+2023-05-18, SELL EXECUTED, Size: -18, Price: 94.32, Cost: 1675.98, Comm 0.00
+2023-05-18, BUY EXECUTED, Size: 18, Price: 94.32, Cost: 1697.76, Comm 0.00
+2023-05-18, OPERATION PROFIT, GROSS 21.78, NET 21.78
+2023-05-18, Open, 93.97
+2023-05-19, SELL EXECUTED, Size: -18, Price: 94.73, Cost: 1697.76, Comm 0.00
+2023-05-19, BUY EXECUTED, Size: 18, Price: 94.73, Cost: 1705.14, Comm 0.00
+2023-05-19, OPERATION PROFIT, GROSS 7.38, NET 7.38
+2023-05-19, Open, 95.69
+2023-05-22, SELL EXECUTED, Size: -18, Price: 95.59, Cost: 1705.14, Comm 0.00
+2023-05-22, BUY EXECUTED, Size: 18, Price: 95.59, Cost: 1720.62, Comm 0.00
+2023-05-22, OPERATION PROFIT, GROSS 15.48, NET 15.48
+2023-05-22, Open, 94.83
+2023-05-23, SELL EXECUTED, Size: -18, Price: 94.83, Cost: 1720.62, Comm 0.00
+2023-05-23, BUY EXECUTED, Size: 18, Price: 94.83, Cost: 1706.94, Comm 0.00
+2023-05-23, OPERATION PROFIT, GROSS -13.68, NET -13.68
+2023-05-23, Open, 95.35
+2023-05-24, SELL EXECUTED, Size: -18, Price: 95.12, Cost: 1706.94, Comm 0.00
+2023-05-24, BUY EXECUTED, Size: 18, Price: 95.12, Cost: 1712.16, Comm 0.00
+2023-05-24, OPERATION PROFIT, GROSS 5.22, NET 5.22
+2023-05-24, Open, 95.82
+2023-05-25, SELL EXECUTED, Size: -18, Price: 95.31, Cost: 1712.16, Comm 0.00
+2023-05-25, BUY EXECUTED, Size: 18, Price: 95.31, Cost: 1715.58, Comm 0.00
+2023-05-25, OPERATION PROFIT, GROSS 3.42, NET 3.42
+2023-05-25, Open, 93.70
+2023-05-26, SELL EXECUTED, Size: -18, Price: 93.78, Cost: 1715.58, Comm 0.00
+2023-05-26, BUY EXECUTED, Size: 18, Price: 93.78, Cost: 1688.04, Comm 0.00
+2023-05-26, OPERATION PROFIT, GROSS -27.54, NET -27.54
+2023-05-26, Open, 94.12
+2023-05-29, SELL EXECUTED, Size: -18, Price: 95.27, Cost: 1688.04, Comm 0.00
+2023-05-29, BUY EXECUTED, Size: 18, Price: 95.27, Cost: 1714.86, Comm 0.00
+2023-05-29, OPERATION PROFIT, GROSS 26.82, NET 26.82
+2023-05-29, Open, 95.47
+2023-05-30, SELL EXECUTED, Size: -18, Price: 95.12, Cost: 1714.86, Comm 0.00
+2023-05-30, BUY EXECUTED, Size: 18, Price: 95.12, Cost: 1712.16, Comm 0.00
+2023-05-30, OPERATION PROFIT, GROSS -2.70, NET -2.70
+2023-05-30, Open, 95.10
+2023-05-31, SELL EXECUTED, Size: -18, Price: 94.82, Cost: 1712.16, Comm 0.00
+2023-05-31, BUY EXECUTED, Size: 18, Price: 94.82, Cost: 1706.76, Comm 0.00
+2023-05-31, OPERATION PROFIT, GROSS -5.40, NET -5.40
+2023-05-31, Open, 92.80
+2023-06-01, SELL EXECUTED, Size: -18, Price: 92.55, Cost: 1706.76, Comm 0.00
+2023-06-01, BUY EXECUTED, Size: 18, Price: 92.55, Cost: 1665.90, Comm 0.00
+2023-06-01, OPERATION PROFIT, GROSS -40.86, NET -40.86
+2023-06-01, Open, 92.82
+2023-06-02, SELL EXECUTED, Size: -18, Price: 93.20, Cost: 1665.90, Comm 0.00
+2023-06-02, BUY EXECUTED, Size: 18, Price: 93.20, Cost: 1677.60, Comm 0.00
+2023-06-02, OPERATION PROFIT, GROSS 11.70, NET 11.70
+2023-06-02, Open, 92.92
+2023-06-05, SELL EXECUTED, Size: -18, Price: 93.55, Cost: 1677.60, Comm 0.00
+2023-06-05, BUY EXECUTED, Size: 18, Price: 93.55, Cost: 1683.90, Comm 0.00
+2023-06-05, OPERATION PROFIT, GROSS 6.30, NET 6.30
+2023-06-05, Open, 93.49
+2023-06-06, SELL EXECUTED, Size: -18, Price: 92.89, Cost: 1683.90, Comm 0.00
+2023-06-06, BUY EXECUTED, Size: 18, Price: 92.89, Cost: 1672.02, Comm 0.00
+2023-06-06, OPERATION PROFIT, GROSS -11.88, NET -11.88
+2023-06-06, Open, 92.59
+2023-06-07, SELL EXECUTED, Size: -18, Price: 92.77, Cost: 1672.02, Comm 0.00
+2023-06-07, BUY EXECUTED, Size: 18, Price: 92.77, Cost: 1669.86, Comm 0.00
+2023-06-07, OPERATION PROFIT, GROSS -2.16, NET -2.16
+2023-06-07, Open, 91.75
+2023-06-08, SELL EXECUTED, Size: -18, Price: 91.68, Cost: 1669.86, Comm 0.00
+2023-06-08, BUY EXECUTED, Size: 18, Price: 91.68, Cost: 1650.24, Comm 0.00
+2023-06-08, OPERATION PROFIT, GROSS -19.62, NET -19.62
+2023-06-08, Open, 91.94
+2023-06-09, SELL EXECUTED, Size: -18, Price: 91.80, Cost: 1650.24, Comm 0.00
+2023-06-09, BUY EXECUTED, Size: 18, Price: 91.80, Cost: 1652.40, Comm 0.00
+2023-06-09, OPERATION PROFIT, GROSS 2.16, NET 2.16
+2023-06-09, Open, 91.86
+2023-06-13, SELL EXECUTED, Size: -18, Price: 92.03, Cost: 1652.40, Comm 0.00
+2023-06-13, BUY EXECUTED, Size: 18, Price: 92.03, Cost: 1656.54, Comm 0.00
+2023-06-13, OPERATION PROFIT, GROSS 4.14, NET 4.14
+2023-06-13, Open, 92.55
+2023-06-14, SELL EXECUTED, Size: -18, Price: 93.01, Cost: 1656.54, Comm 0.00
+2023-06-14, BUY EXECUTED, Size: 18, Price: 93.01, Cost: 1674.18, Comm 0.00
+2023-06-14, OPERATION PROFIT, GROSS 17.64, NET 17.64
+2023-06-14, Open, 93.36
+2023-06-15, SELL EXECUTED, Size: -18, Price: 93.63, Cost: 1674.18, Comm 0.00
+2023-06-15, BUY EXECUTED, Size: 18, Price: 93.63, Cost: 1685.34, Comm 0.00
+2023-06-15, OPERATION PROFIT, GROSS 11.16, NET 11.16
+2023-06-15, Open, 93.96
+2023-06-16, SELL EXECUTED, Size: -18, Price: 94.26, Cost: 1685.34, Comm 0.00
+2023-06-16, BUY EXECUTED, Size: 18, Price: 94.26, Cost: 1696.68, Comm 0.00
+2023-06-16, OPERATION PROFIT, GROSS 11.34, NET 11.34
+2023-06-16, Open, 95.26
+2023-06-19, SELL EXECUTED, Size: -18, Price: 95.56, Cost: 1696.68, Comm 0.00
+2023-06-19, BUY EXECUTED, Size: 18, Price: 95.56, Cost: 1720.08, Comm 0.00
+2023-06-19, OPERATION PROFIT, GROSS 23.40, NET 23.40
+2023-06-19, Open, 96.37
+2023-06-20, SELL EXECUTED, Size: -18, Price: 96.65, Cost: 1720.08, Comm 0.00
+2023-06-20, BUY EXECUTED, Size: 18, Price: 96.65, Cost: 1739.70, Comm 0.00
+2023-06-20, OPERATION PROFIT, GROSS 19.62, NET 19.62
+2023-06-20, Open, 97.44
+2023-06-21, SELL EXECUTED, Size: -18, Price: 98.00, Cost: 1739.70, Comm 0.00
+2023-06-21, BUY EXECUTED, Size: 18, Price: 98.00, Cost: 1764.00, Comm 0.00
+2023-06-21, OPERATION PROFIT, GROSS 24.30, NET 24.30
+2023-06-21, Open, 97.50
+2023-06-22, SELL EXECUTED, Size: -18, Price: 97.33, Cost: 1764.00, Comm 0.00
+2023-06-22, BUY EXECUTED, Size: 18, Price: 97.33, Cost: 1751.94, Comm 0.00
+2023-06-22, OPERATION PROFIT, GROSS -12.06, NET -12.06
+2023-06-22, Open, 95.96
+2023-06-23, SELL EXECUTED, Size: -18, Price: 95.50, Cost: 1751.94, Comm 0.00
+2023-06-23, BUY EXECUTED, Size: 18, Price: 95.50, Cost: 1719.00, Comm 0.00
+2023-06-23, OPERATION PROFIT, GROSS -32.94, NET -32.94
+2023-06-23, Open, 94.46
+2023-06-26, SELL EXECUTED, Size: -18, Price: 94.33, Cost: 1719.00, Comm 0.00
+2023-06-26, BUY EXECUTED, Size: 18, Price: 94.33, Cost: 1697.94, Comm 0.00
+2023-06-26, OPERATION PROFIT, GROSS -21.06, NET -21.06
+2023-06-26, Open, 93.90
+2023-06-27, SELL EXECUTED, Size: -18, Price: 94.50, Cost: 1697.94, Comm 0.00
+2023-06-27, BUY EXECUTED, Size: 18, Price: 94.50, Cost: 1701.00, Comm 0.00
+2023-06-27, OPERATION PROFIT, GROSS 3.06, NET 3.06
+2023-06-27, Open, 94.38
+2023-06-28, SELL EXECUTED, Size: -18, Price: 94.64, Cost: 1701.00, Comm 0.00
+2023-06-28, BUY EXECUTED, Size: 18, Price: 94.64, Cost: 1703.52, Comm 0.00
+2023-06-28, OPERATION PROFIT, GROSS 2.52, NET 2.52
+2023-06-28, Open, 95.44
+2023-06-29, SELL EXECUTED, Size: -18, Price: 95.79, Cost: 1703.52, Comm 0.00
+2023-06-29, BUY EXECUTED, Size: 18, Price: 95.79, Cost: 1724.22, Comm 0.00
+2023-06-29, OPERATION PROFIT, GROSS 20.70, NET 20.70
+2023-06-29, Open, 95.95
+2023-06-30, SELL EXECUTED, Size: -18, Price: 96.04, Cost: 1724.22, Comm 0.00
+2023-06-30, BUY EXECUTED, Size: 18, Price: 96.04, Cost: 1728.72, Comm 0.00
+2023-06-30, OPERATION PROFIT, GROSS 4.50, NET 4.50
+2023-06-30, Open, 96.14
+2023-07-03, SELL EXECUTED, Size: -18, Price: 96.17, Cost: 1728.72, Comm 0.00
+2023-07-03, BUY EXECUTED, Size: 18, Price: 96.17, Cost: 1731.06, Comm 0.00
+2023-07-03, OPERATION PROFIT, GROSS 2.34, NET 2.34
+2023-07-03, Open, 96.79
+2023-07-04, SELL EXECUTED, Size: -18, Price: 96.89, Cost: 1731.06, Comm 0.00
+2023-07-04, BUY EXECUTED, Size: 18, Price: 96.89, Cost: 1744.02, Comm 0.00
+2023-07-04, OPERATION PROFIT, GROSS 12.96, NET 12.96
+2023-07-04, Open, 98.07
+2023-07-05, SELL EXECUTED, Size: -18, Price: 97.91, Cost: 1744.02, Comm 0.00
+2023-07-05, BUY EXECUTED, Size: 18, Price: 97.91, Cost: 1762.38, Comm 0.00
+2023-07-05, OPERATION PROFIT, GROSS 18.36, NET 18.36
+2023-07-05, Open, 97.59
+2023-07-06, SELL EXECUTED, Size: -18, Price: 96.90, Cost: 1762.38, Comm 0.00
+2023-07-06, BUY EXECUTED, Size: 18, Price: 96.90, Cost: 1744.20, Comm 0.00
+2023-07-06, OPERATION PROFIT, GROSS -18.18, NET -18.18
+2023-07-06, Open, 96.30
+2023-07-07, SELL EXECUTED, Size: -18, Price: 95.15, Cost: 1744.20, Comm 0.00
+2023-07-07, BUY EXECUTED, Size: 18, Price: 95.15, Cost: 1712.70, Comm 0.00
+2023-07-07, OPERATION PROFIT, GROSS -31.50, NET -31.50
+2023-07-07, Open, 94.67
+2023-07-10, SELL EXECUTED, Size: -18, Price: 95.06, Cost: 1712.70, Comm 0.00
+2023-07-10, BUY EXECUTED, Size: 18, Price: 95.06, Cost: 1711.08, Comm 0.00
+2023-07-10, OPERATION PROFIT, GROSS -1.62, NET -1.62
+2023-07-10, Open, 94.47
+2023-07-11, SELL EXECUTED, Size: -18, Price: 94.90, Cost: 1711.08, Comm 0.00
+2023-07-11, BUY EXECUTED, Size: 18, Price: 94.90, Cost: 1708.20, Comm 0.00
+2023-07-11, OPERATION PROFIT, GROSS -2.88, NET -2.88
+2023-07-11, Open, 95.52
+2023-07-12, SELL EXECUTED, Size: -18, Price: 95.90, Cost: 1708.20, Comm 0.00
+2023-07-12, BUY EXECUTED, Size: 18, Price: 95.90, Cost: 1726.20, Comm 0.00
+2023-07-12, OPERATION PROFIT, GROSS 18.00, NET 18.00
+2023-07-12, Open, 95.07
+2023-07-13, SELL EXECUTED, Size: -18, Price: 96.02, Cost: 1726.20, Comm 0.00
+2023-07-13, BUY EXECUTED, Size: 18, Price: 96.02, Cost: 1728.36, Comm 0.00
+2023-07-13, OPERATION PROFIT, GROSS 2.16, NET 2.16
+2023-07-13, Open, 96.48
+2023-07-14, SELL EXECUTED, Size: -18, Price: 96.73, Cost: 1728.36, Comm 0.00
+2023-07-14, BUY EXECUTED, Size: 18, Price: 96.73, Cost: 1741.14, Comm 0.00
+2023-07-14, OPERATION PROFIT, GROSS 12.78, NET 12.78
+2023-07-14, Open, 97.16
+2023-07-17, SELL EXECUTED, Size: -18, Price: 97.28, Cost: 1741.14, Comm 0.00
+2023-07-17, BUY EXECUTED, Size: 18, Price: 97.28, Cost: 1751.04, Comm 0.00
+2023-07-17, OPERATION PROFIT, GROSS 9.90, NET 9.90
+2023-07-17, Open, 97.68
+2023-07-18, SELL EXECUTED, Size: -18, Price: 98.09, Cost: 1751.04, Comm 0.00
+2023-07-18, BUY EXECUTED, Size: 18, Price: 98.09, Cost: 1765.62, Comm 0.00
+2023-07-18, OPERATION PROFIT, GROSS 14.58, NET 14.58
+2023-07-18, Open, 98.35
+2023-07-19, SELL EXECUTED, Size: -18, Price: 99.57, Cost: 1765.62, Comm 0.00
+2023-07-19, BUY EXECUTED, Size: 18, Price: 99.57, Cost: 1792.26, Comm 0.00
+2023-07-19, OPERATION PROFIT, GROSS 26.64, NET 26.64
+2023-07-19, Open, 100.34
+2023-07-20, SELL EXECUTED, Size: -18, Price: 101.16, Cost: 1792.26, Comm 0.00
+2023-07-20, BUY EXECUTED, Size: 18, Price: 101.16, Cost: 1820.88, Comm 0.00
+2023-07-20, OPERATION PROFIT, GROSS 28.62, NET 28.62
+2023-07-20, Open, 100.92
+2023-07-21, SELL EXECUTED, Size: -18, Price: 100.54, Cost: 1820.88, Comm 0.00
+2023-07-21, BUY EXECUTED, Size: 18, Price: 100.54, Cost: 1809.72, Comm 0.00
+2023-07-21, OPERATION PROFIT, GROSS -11.16, NET -11.16
+2023-07-21, Open, 100.25
+2023-07-24, SELL EXECUTED, Size: -18, Price: 100.97, Cost: 1809.72, Comm 0.00
+2023-07-24, BUY EXECUTED, Size: 18, Price: 100.97, Cost: 1817.46, Comm 0.00
+2023-07-24, OPERATION PROFIT, GROSS 7.74, NET 7.74
+2023-07-24, Open, 100.13
+2023-07-25, SELL EXECUTED, Size: -18, Price: 100.10, Cost: 1817.46, Comm 0.00
+2023-07-25, BUY EXECUTED, Size: 18, Price: 100.10, Cost: 1801.80, Comm 0.00
+2023-07-25, OPERATION PROFIT, GROSS -15.66, NET -15.66
+2023-07-25, Open, 99.91
+2023-07-26, SELL EXECUTED, Size: -18, Price: 99.65, Cost: 1801.80, Comm 0.00
+2023-07-26, BUY EXECUTED, Size: 18, Price: 99.65, Cost: 1793.70, Comm 0.00
+2023-07-26, OPERATION PROFIT, GROSS -8.10, NET -8.10
+2023-07-26, Open, 100.68
+2023-07-27, SELL EXECUTED, Size: -18, Price: 101.06, Cost: 1793.70, Comm 0.00
+2023-07-27, BUY EXECUTED, Size: 18, Price: 101.06, Cost: 1819.08, Comm 0.00
+2023-07-27, OPERATION PROFIT, GROSS 25.38, NET 25.38
+2023-07-27, Open, 102.15
+2023-07-28, SELL EXECUTED, Size: -18, Price: 101.17, Cost: 1819.08, Comm 0.00
+2023-07-28, BUY EXECUTED, Size: 18, Price: 101.17, Cost: 1821.06, Comm 0.00
+2023-07-28, OPERATION PROFIT, GROSS 1.98, NET 1.98
+2023-07-28, Open, 101.16
+2023-07-31, SELL EXECUTED, Size: -18, Price: 101.41, Cost: 1821.06, Comm 0.00
+2023-07-31, BUY EXECUTED, Size: 18, Price: 101.41, Cost: 1825.38, Comm 0.00
+2023-07-31, OPERATION PROFIT, GROSS 4.32, NET 4.32
+2023-07-31, Open, 101.36
+2023-08-01, SELL EXECUTED, Size: -18, Price: 100.89, Cost: 1825.38, Comm 0.00
+2023-08-01, BUY EXECUTED, Size: 18, Price: 100.89, Cost: 1816.02, Comm 0.00
+2023-08-01, OPERATION PROFIT, GROSS -9.36, NET -9.36
+2023-08-01, Open, 101.49
+2023-08-02, SELL EXECUTED, Size: -18, Price: 100.90, Cost: 1816.02, Comm 0.00
+2023-08-02, BUY EXECUTED, Size: 18, Price: 100.90, Cost: 1816.20, Comm 0.00
+2023-08-02, OPERATION PROFIT, GROSS 0.18, NET 0.18
+2023-08-02, Open, 99.20
+2023-08-03, SELL EXECUTED, Size: -18, Price: 98.72, Cost: 1816.20, Comm 0.00
+2023-08-03, BUY EXECUTED, Size: 18, Price: 98.72, Cost: 1776.96, Comm 0.00
+2023-08-03, OPERATION PROFIT, GROSS -39.24, NET -39.24
+2023-08-03, Open, 98.24
+2023-08-04, SELL EXECUTED, Size: -18, Price: 98.47, Cost: 1776.96, Comm 0.00
+2023-08-04, BUY EXECUTED, Size: 18, Price: 98.47, Cost: 1772.46, Comm 0.00
+2023-08-04, OPERATION PROFIT, GROSS -4.50, NET -4.50
+2023-08-04, Open, 97.68
+2023-08-07, SELL EXECUTED, Size: -18, Price: 97.89, Cost: 1772.46, Comm 0.00
+2023-08-07, BUY EXECUTED, Size: 18, Price: 97.89, Cost: 1762.02, Comm 0.00
+2023-08-07, OPERATION PROFIT, GROSS -10.44, NET -10.44
+2023-08-07, Open, 97.66
+2023-08-08, SELL EXECUTED, Size: -18, Price: 98.19, Cost: 1762.02, Comm 0.00
+2023-08-08, BUY EXECUTED, Size: 18, Price: 98.19, Cost: 1767.42, Comm 0.00
+2023-08-08, OPERATION PROFIT, GROSS 5.40, NET 5.40
+2023-08-08, Open, 98.00
+2023-08-09, SELL EXECUTED, Size: -18, Price: 100.50, Cost: 1767.42, Comm 0.00
+2023-08-09, BUY EXECUTED, Size: 18, Price: 100.50, Cost: 1809.00, Comm 0.00
+2023-08-09, OPERATION PROFIT, GROSS 41.58, NET 41.58
+2023-08-09, Open, 100.54
+2023-08-10, SELL EXECUTED, Size: -18, Price: 99.55, Cost: 1809.00, Comm 0.00
+2023-08-10, BUY EXECUTED, Size: 18, Price: 99.55, Cost: 1791.90, Comm 0.00
+2023-08-10, OPERATION PROFIT, GROSS -17.10, NET -17.10
+2023-08-10, Open, 100.17
+2023-08-11, SELL EXECUTED, Size: -18, Price: 100.02, Cost: 1791.90, Comm 0.00
+2023-08-11, BUY EXECUTED, Size: 18, Price: 100.02, Cost: 1800.36, Comm 0.00
+2023-08-11, OPERATION PROFIT, GROSS 8.46, NET 8.46
+2023-08-11, Open, 100.10
+2023-08-14, SELL EXECUTED, Size: -18, Price: 99.37, Cost: 1800.36, Comm 0.00
+2023-08-14, BUY EXECUTED, Size: 18, Price: 99.37, Cost: 1788.66, Comm 0.00
+2023-08-14, OPERATION PROFIT, GROSS -11.70, NET -11.70
+2023-08-14, Open, 99.43
+2023-08-15, SELL EXECUTED, Size: -18, Price: 99.72, Cost: 1788.66, Comm 0.00
+2023-08-15, BUY EXECUTED, Size: 18, Price: 99.72, Cost: 1794.96, Comm 0.00
+2023-08-15, OPERATION PROFIT, GROSS 6.30, NET 6.30
+2023-08-15, Open, 99.25
+2023-08-16, SELL EXECUTED, Size: -18, Price: 98.18, Cost: 1794.96, Comm 0.00
+2023-08-16, BUY EXECUTED, Size: 18, Price: 98.18, Cost: 1767.24, Comm 0.00
+2023-08-16, OPERATION PROFIT, GROSS -27.72, NET -27.72
+2023-08-16, Open, 97.96
+2023-08-17, SELL EXECUTED, Size: -18, Price: 98.06, Cost: 1767.24, Comm 0.00
+2023-08-17, BUY EXECUTED, Size: 18, Price: 98.06, Cost: 1765.08, Comm 0.00
+2023-08-17, OPERATION PROFIT, GROSS -2.16, NET -2.16
+2023-08-17, Open, 97.82
+2023-08-18, SELL EXECUTED, Size: -18, Price: 97.39, Cost: 1765.08, Comm 0.00
+2023-08-18, BUY EXECUTED, Size: 18, Price: 97.39, Cost: 1753.02, Comm 0.00
+2023-08-18, OPERATION PROFIT, GROSS -12.06, NET -12.06
+2023-08-18, Open, 97.23
+2023-08-21, SELL EXECUTED, Size: -18, Price: 97.10, Cost: 1753.02, Comm 0.00
+2023-08-21, BUY EXECUTED, Size: 18, Price: 97.10, Cost: 1747.80, Comm 0.00
+2023-08-21, OPERATION PROFIT, GROSS -5.22, NET -5.22
+2023-08-21, Open, 96.64
+2023-08-22, SELL EXECUTED, Size: -18, Price: 96.29, Cost: 1747.80, Comm 0.00
+2023-08-22, BUY EXECUTED, Size: 18, Price: 96.29, Cost: 1733.22, Comm 0.00
+2023-08-22, OPERATION PROFIT, GROSS -14.58, NET -14.58
+2023-08-22, Open, 96.86
+2023-08-23, SELL EXECUTED, Size: -18, Price: 96.39, Cost: 1733.22, Comm 0.00
+2023-08-23, BUY EXECUTED, Size: 18, Price: 96.39, Cost: 1735.02, Comm 0.00
+2023-08-23, OPERATION PROFIT, GROSS 1.80, NET 1.80
+2023-08-23, Open, 97.62
+2023-08-24, SELL EXECUTED, Size: -18, Price: 98.26, Cost: 1735.02, Comm 0.00
+2023-08-24, BUY EXECUTED, Size: 18, Price: 98.26, Cost: 1768.68, Comm 0.00
+2023-08-24, OPERATION PROFIT, GROSS 33.66, NET 33.66
+2023-08-24, Open, 98.76
+2023-08-25, SELL EXECUTED, Size: -18, Price: 98.40, Cost: 1768.68, Comm 0.00
+2023-08-25, BUY EXECUTED, Size: 18, Price: 98.40, Cost: 1771.20, Comm 0.00
+2023-08-25, OPERATION PROFIT, GROSS 2.52, NET 2.52
+2023-08-25, Open, 97.74
+2023-08-28, SELL EXECUTED, Size: -18, Price: 97.97, Cost: 1771.20, Comm 0.00
+2023-08-28, BUY EXECUTED, Size: 18, Price: 97.97, Cost: 1763.46, Comm 0.00
+2023-08-28, OPERATION PROFIT, GROSS -7.74, NET -7.74
+2023-08-28, Open, 98.93
+2023-08-29, SELL EXECUTED, Size: -18, Price: 99.53, Cost: 1763.46, Comm 0.00
+2023-08-29, BUY EXECUTED, Size: 18, Price: 99.53, Cost: 1791.54, Comm 0.00
+2023-08-29, OPERATION PROFIT, GROSS 28.08, NET 28.08
+2023-08-29, Open, 99.17
+2023-08-30, SELL EXECUTED, Size: -18, Price: 99.76, Cost: 1791.54, Comm 0.00
+2023-08-30, BUY EXECUTED, Size: 18, Price: 99.76, Cost: 1795.68, Comm 0.00
+2023-08-30, OPERATION PROFIT, GROSS 4.14, NET 4.14
+2023-08-30, Open, 99.97
+2023-08-31, SELL EXECUTED, Size: -18, Price: 99.96, Cost: 1795.68, Comm 0.00
+2023-08-31, BUY EXECUTED, Size: 18, Price: 99.96, Cost: 1799.28, Comm 0.00
+2023-08-31, OPERATION PROFIT, GROSS 3.60, NET 3.60
+2023-08-31, Open, 100.30
+2023-09-01, SELL EXECUTED, Size: -18, Price: 99.83, Cost: 1799.28, Comm 0.00
+2023-09-01, BUY EXECUTED, Size: 18, Price: 99.83, Cost: 1796.94, Comm 0.00
+2023-09-01, OPERATION PROFIT, GROSS -2.34, NET -2.34
+2023-09-01, Open, 99.49
+2023-09-04, SELL EXECUTED, Size: -18, Price: 99.82, Cost: 1796.94, Comm 0.00
+2023-09-04, BUY EXECUTED, Size: 18, Price: 99.82, Cost: 1796.76, Comm 0.00
+2023-09-04, OPERATION PROFIT, GROSS -0.18, NET -0.18
+2023-09-04, Open, 100.13
+2023-09-05, SELL EXECUTED, Size: -18, Price: 100.22, Cost: 1796.76, Comm 0.00
+2023-09-05, BUY EXECUTED, Size: 18, Price: 100.22, Cost: 1803.96, Comm 0.00
+2023-09-05, OPERATION PROFIT, GROSS 7.20, NET 7.20
+2023-09-05, Open, 100.34
+2023-09-06, SELL EXECUTED, Size: -18, Price: 100.86, Cost: 1803.96, Comm 0.00
+2023-09-06, BUY EXECUTED, Size: 18, Price: 100.86, Cost: 1815.48, Comm 0.00
+2023-09-06, OPERATION PROFIT, GROSS 11.52, NET 11.52
+2023-09-06, Open, 99.64
+2023-09-07, SELL EXECUTED, Size: -18, Price: 99.14, Cost: 1815.48, Comm 0.00
+2023-09-07, BUY EXECUTED, Size: 18, Price: 99.14, Cost: 1784.52, Comm 0.00
+2023-09-07, OPERATION PROFIT, GROSS -30.96, NET -30.96
+2023-09-07, Open, 99.05
+2023-09-08, SELL EXECUTED, Size: -18, Price: 99.37, Cost: 1784.52, Comm 0.00
+2023-09-08, BUY EXECUTED, Size: 18, Price: 99.37, Cost: 1788.66, Comm 0.00
+2023-09-08, OPERATION PROFIT, GROSS 4.14, NET 4.14
+2023-09-08, Open, 98.96
+2023-09-11, SELL EXECUTED, Size: -18, Price: 98.95, Cost: 1788.66, Comm 0.00
+2023-09-11, BUY EXECUTED, Size: 18, Price: 98.95, Cost: 1781.10, Comm 0.00
+2023-09-11, OPERATION PROFIT, GROSS -7.56, NET -7.56
+2023-09-11, Open, 100.16
+2023-09-12, SELL EXECUTED, Size: -18, Price: 100.52, Cost: 1781.10, Comm 0.00
+2023-09-12, BUY EXECUTED, Size: 18, Price: 100.52, Cost: 1809.36, Comm 0.00
+2023-09-12, OPERATION PROFIT, GROSS 28.26, NET 28.26
+2023-09-12, Open, 100.23
+2023-09-13, SELL EXECUTED, Size: -18, Price: 100.27, Cost: 1809.36, Comm 0.00
+2023-09-13, BUY EXECUTED, Size: 18, Price: 100.27, Cost: 1804.86, Comm 0.00
+2023-09-13, OPERATION PROFIT, GROSS -4.50, NET -4.50
+2023-09-13, Open, 99.83
+2023-09-14, SELL EXECUTED, Size: -18, Price: 99.31, Cost: 1804.86, Comm 0.00
+2023-09-14, BUY EXECUTED, Size: 18, Price: 99.31, Cost: 1787.58, Comm 0.00
+2023-09-14, OPERATION PROFIT, GROSS -17.28, NET -17.28
+2023-09-14, Open, 100.25
+2023-09-15, SELL EXECUTED, Size: -18, Price: 101.11, Cost: 1787.58, Comm 0.00
+2023-09-15, BUY EXECUTED, Size: 18, Price: 101.11, Cost: 1819.98, Comm 0.00
+2023-09-15, OPERATION PROFIT, GROSS 32.40, NET 32.40
+2023-09-15, Open, 101.26
+2023-09-18, SELL EXECUTED, Size: -18, Price: 100.71, Cost: 1819.98, Comm 0.00
+2023-09-18, BUY EXECUTED, Size: 18, Price: 100.71, Cost: 1812.78, Comm 0.00
+2023-09-18, OPERATION PROFIT, GROSS -7.20, NET -7.20
+2023-09-18, Open, 100.74
+2023-09-19, SELL EXECUTED, Size: -18, Price: 100.44, Cost: 1812.78, Comm 0.00
+2023-09-19, BUY EXECUTED, Size: 18, Price: 100.44, Cost: 1807.92, Comm 0.00
+2023-09-19, OPERATION PROFIT, GROSS -4.86, NET -4.86
+2023-09-19, Open, 100.25
+2023-09-20, SELL EXECUTED, Size: -18, Price: 100.39, Cost: 1807.92, Comm 0.00
+2023-09-20, BUY EXECUTED, Size: 18, Price: 100.39, Cost: 1807.02, Comm 0.00
+2023-09-20, OPERATION PROFIT, GROSS -0.90, NET -0.90
+2023-09-20, Open, 99.97
+2023-09-21, SELL EXECUTED, Size: -18, Price: 99.80, Cost: 1807.02, Comm 0.00
+2023-09-21, BUY EXECUTED, Size: 18, Price: 99.80, Cost: 1796.40, Comm 0.00
+2023-09-21, OPERATION PROFIT, GROSS -10.62, NET -10.62
+2023-09-21, Open, 98.24
+2023-09-22, SELL EXECUTED, Size: -18, Price: 96.69, Cost: 1796.40, Comm 0.00
+2023-09-22, BUY EXECUTED, Size: 18, Price: 96.69, Cost: 1740.42, Comm 0.00
+2023-09-22, OPERATION PROFIT, GROSS -55.98, NET -55.98
+2023-09-22, Open, 98.22
+2023-09-25, SELL EXECUTED, Size: -18, Price: 98.16, Cost: 1740.42, Comm 0.00
+2023-09-25, BUY EXECUTED, Size: 18, Price: 98.16, Cost: 1766.88, Comm 0.00
+2023-09-25, OPERATION PROFIT, GROSS 26.46, NET 26.46
+2023-09-25, Open, 98.04
+2023-09-26, SELL EXECUTED, Size: -18, Price: 97.87, Cost: 1766.88, Comm 0.00
+2023-09-26, BUY EXECUTED, Size: 18, Price: 97.87, Cost: 1761.66, Comm 0.00
+2023-09-26, OPERATION PROFIT, GROSS -5.22, NET -5.22
+2023-09-26, Open, 98.24
+2023-09-27, SELL EXECUTED, Size: -18, Price: 98.16, Cost: 1761.66, Comm 0.00
+2023-09-27, BUY EXECUTED, Size: 18, Price: 98.16, Cost: 1766.88, Comm 0.00
+2023-09-27, OPERATION PROFIT, GROSS 5.22, NET 5.22
+2023-09-27, Open, 98.68
+2023-09-28, SELL EXECUTED, Size: -18, Price: 98.64, Cost: 1766.88, Comm 0.00
+2023-09-28, BUY EXECUTED, Size: 18, Price: 98.64, Cost: 1775.52, Comm 0.00
+2023-09-28, OPERATION PROFIT, GROSS 8.64, NET 8.64
+2023-09-28, Open, 98.11
+2023-09-29, SELL EXECUTED, Size: -18, Price: 98.14, Cost: 1775.52, Comm 0.00
+2023-09-29, BUY EXECUTED, Size: 18, Price: 98.14, Cost: 1766.52, Comm 0.00
+2023-09-29, OPERATION PROFIT, GROSS -9.00, NET -9.00
+2023-09-29, Open, 98.13
+2023-10-02, SELL EXECUTED, Size: -18, Price: 97.53, Cost: 1766.52, Comm 0.00
+2023-10-02, BUY EXECUTED, Size: 18, Price: 97.53, Cost: 1755.54, Comm 0.00
+2023-10-02, OPERATION PROFIT, GROSS -10.98, NET -10.98
+2023-10-02, Open, 98.01
+2023-10-03, SELL EXECUTED, Size: -18, Price: 96.85, Cost: 1755.54, Comm 0.00
+2023-10-03, BUY EXECUTED, Size: 18, Price: 96.85, Cost: 1743.30, Comm 0.00
+2023-10-03, OPERATION PROFIT, GROSS -12.24, NET -12.24
+2023-10-03, Open, 97.86
+2023-10-04, SELL EXECUTED, Size: -18, Price: 97.18, Cost: 1743.30, Comm 0.00
+2023-10-04, BUY EXECUTED, Size: 18, Price: 97.18, Cost: 1749.24, Comm 0.00
+2023-10-04, OPERATION PROFIT, GROSS 5.94, NET 5.94
+2023-10-04, Open, 96.29
+2023-10-05, SELL EXECUTED, Size: -18, Price: 96.49, Cost: 1749.24, Comm 0.00
+2023-10-05, BUY EXECUTED, Size: 18, Price: 96.49, Cost: 1736.82, Comm 0.00
+2023-10-05, OPERATION PROFIT, GROSS -12.42, NET -12.42
+2023-10-05, Open, 97.16
+2023-10-06, SELL EXECUTED, Size: -18, Price: 97.23, Cost: 1736.82, Comm 0.00
+2023-10-06, BUY EXECUTED, Size: 18, Price: 97.23, Cost: 1750.14, Comm 0.00
+2023-10-06, OPERATION PROFIT, GROSS 13.32, NET 13.32
+2023-10-06, Open, 98.20
+2023-10-09, SELL EXECUTED, Size: -18, Price: 98.13, Cost: 1750.14, Comm 0.00
+2023-10-09, BUY EXECUTED, Size: 18, Price: 98.13, Cost: 1766.34, Comm 0.00
+2023-10-09, OPERATION PROFIT, GROSS 16.20, NET 16.20
+2023-10-09, Open, 98.19
+2023-10-10, SELL EXECUTED, Size: -18, Price: 99.13, Cost: 1766.34, Comm 0.00
+2023-10-10, BUY EXECUTED, Size: 18, Price: 99.13, Cost: 1784.34, Comm 0.00
+2023-10-10, OPERATION PROFIT, GROSS 18.00, NET 18.00
+2023-10-10, Open, 98.85
+2023-10-11, SELL EXECUTED, Size: -18, Price: 99.04, Cost: 1784.34, Comm 0.00
+2023-10-11, BUY EXECUTED, Size: 18, Price: 99.04, Cost: 1782.72, Comm 0.00
+2023-10-11, OPERATION PROFIT, GROSS -1.62, NET -1.62
+2023-10-11, Open, 98.79
+2023-10-12, SELL EXECUTED, Size: -18, Price: 99.31, Cost: 1782.72, Comm 0.00
+2023-10-12, BUY EXECUTED, Size: 18, Price: 99.31, Cost: 1787.58, Comm 0.00
+2023-10-12, OPERATION PROFIT, GROSS 4.86, NET 4.86
+2023-10-12, Open, 99.73
+2023-10-13, SELL EXECUTED, Size: -18, Price: 98.75, Cost: 1787.58, Comm 0.00
+2023-10-13, BUY EXECUTED, Size: 18, Price: 98.75, Cost: 1777.50, Comm 0.00
+2023-10-13, OPERATION PROFIT, GROSS -10.08, NET -10.08
+2023-10-13, Open, 99.11
+2023-10-16, SELL EXECUTED, Size: -18, Price: 98.65, Cost: 1777.50, Comm 0.00
+2023-10-16, BUY EXECUTED, Size: 18, Price: 98.65, Cost: 1775.70, Comm 0.00
+2023-10-16, OPERATION PROFIT, GROSS -1.80, NET -1.80
+2023-10-16, Open, 98.82
+2023-10-17, SELL EXECUTED, Size: -18, Price: 99.49, Cost: 1775.70, Comm 0.00
+2023-10-17, BUY EXECUTED, Size: 18, Price: 99.49, Cost: 1790.82, Comm 0.00
+2023-10-17, OPERATION PROFIT, GROSS 15.12, NET 15.12
+2023-10-17, Open, 99.34
+2023-10-18, SELL EXECUTED, Size: -18, Price: 99.32, Cost: 1790.82, Comm 0.00
+2023-10-18, BUY EXECUTED, Size: 18, Price: 99.32, Cost: 1787.76, Comm 0.00
+2023-10-18, OPERATION PROFIT, GROSS -3.06, NET -3.06
+2023-10-18, Open, 99.56
+2023-10-19, SELL EXECUTED, Size: -18, Price: 98.25, Cost: 1787.76, Comm 0.00
+2023-10-19, BUY EXECUTED, Size: 18, Price: 98.25, Cost: 1768.50, Comm 0.00
+2023-10-19, OPERATION PROFIT, GROSS -19.26, NET -19.26
+2023-10-19, Open, 97.95
+2023-10-20, SELL EXECUTED, Size: -18, Price: 97.27, Cost: 1768.50, Comm 0.00
+2023-10-20, BUY EXECUTED, Size: 18, Price: 97.27, Cost: 1750.86, Comm 0.00
+2023-10-20, OPERATION PROFIT, GROSS -17.64, NET -17.64
+2023-10-20, Open, 96.93
+2023-10-23, SELL EXECUTED, Size: -18, Price: 96.49, Cost: 1750.86, Comm 0.00
+2023-10-23, BUY EXECUTED, Size: 18, Price: 96.49, Cost: 1736.82, Comm 0.00
+2023-10-23, OPERATION PROFIT, GROSS -14.04, NET -14.04
+2023-10-23, Open, 96.02
+2023-10-24, SELL EXECUTED, Size: -18, Price: 96.57, Cost: 1736.82, Comm 0.00
+2023-10-24, BUY EXECUTED, Size: 18, Price: 96.57, Cost: 1738.26, Comm 0.00
+2023-10-24, OPERATION PROFIT, GROSS 1.44, NET 1.44
+2023-10-24, Open, 96.27
+2023-10-25, SELL EXECUTED, Size: -18, Price: 96.39, Cost: 1738.26, Comm 0.00
+2023-10-25, BUY EXECUTED, Size: 18, Price: 96.39, Cost: 1735.02, Comm 0.00
+2023-10-25, OPERATION PROFIT, GROSS -3.24, NET -3.24
+2023-10-25, Open, 95.56
+2023-10-26, SELL EXECUTED, Size: -18, Price: 95.21, Cost: 1735.02, Comm 0.00
+2023-10-26, BUY EXECUTED, Size: 18, Price: 95.21, Cost: 1713.78, Comm 0.00
+2023-10-26, OPERATION PROFIT, GROSS -21.24, NET -21.24
+2023-10-26, Open, 95.22
+2023-10-27, SELL EXECUTED, Size: -18, Price: 95.76, Cost: 1713.78, Comm 0.00
+2023-10-27, BUY EXECUTED, Size: 18, Price: 95.76, Cost: 1723.68, Comm 0.00
+2023-10-27, OPERATION PROFIT, GROSS 9.90, NET 9.90
+2023-10-27, Open, 96.00
+2023-10-30, SELL EXECUTED, Size: -18, Price: 94.94, Cost: 1723.68, Comm 0.00
+2023-10-30, BUY EXECUTED, Size: 18, Price: 94.94, Cost: 1708.92, Comm 0.00
+2023-10-30, OPERATION PROFIT, GROSS -14.76, NET -14.76
+2023-10-30, Open, 94.45
+2023-10-31, SELL EXECUTED, Size: -18, Price: 95.31, Cost: 1708.92, Comm 0.00
+2023-10-31, BUY EXECUTED, Size: 18, Price: 95.31, Cost: 1715.58, Comm 0.00
+2023-10-31, OPERATION PROFIT, GROSS 6.66, NET 6.66
+2023-10-31, Open, 94.78
+2023-11-01, SELL EXECUTED, Size: -18, Price: 95.12, Cost: 1715.58, Comm 0.00
+2023-11-01, BUY EXECUTED, Size: 18, Price: 95.12, Cost: 1712.16, Comm 0.00
+2023-11-01, OPERATION PROFIT, GROSS -3.42, NET -3.42
+2023-11-01, Open, 95.09
+2023-11-02, SELL EXECUTED, Size: -18, Price: 96.46, Cost: 1712.16, Comm 0.00
+2023-11-02, BUY EXECUTED, Size: 18, Price: 96.46, Cost: 1736.28, Comm 0.00
+2023-11-02, OPERATION PROFIT, GROSS 24.12, NET 24.12
+2023-11-02, Open, 96.62
+2023-11-03, SELL EXECUTED, Size: -18, Price: 97.77, Cost: 1736.28, Comm 0.00
+2023-11-03, BUY EXECUTED, Size: 18, Price: 97.77, Cost: 1759.86, Comm 0.00
+2023-11-03, OPERATION PROFIT, GROSS 23.58, NET 23.58
+2023-11-03, Open, 98.09
+2023-11-06, SELL EXECUTED, Size: -18, Price: 98.00, Cost: 1759.86, Comm 0.00
+2023-11-06, BUY EXECUTED, Size: 18, Price: 98.00, Cost: 1764.00, Comm 0.00
+2023-11-06, OPERATION PROFIT, GROSS 4.14, NET 4.14
+2023-11-06, Open, 98.57
+2023-11-07, SELL EXECUTED, Size: -18, Price: 98.78, Cost: 1764.00, Comm 0.00
+2023-11-07, BUY EXECUTED, Size: 18, Price: 98.78, Cost: 1778.04, Comm 0.00
+2023-11-07, OPERATION PROFIT, GROSS 14.04, NET 14.04
+2023-11-07, Open, 98.17
+2023-11-08, SELL EXECUTED, Size: -18, Price: 98.73, Cost: 1778.04, Comm 0.00
+2023-11-08, BUY EXECUTED, Size: 18, Price: 98.73, Cost: 1777.14, Comm 0.00
+2023-11-08, OPERATION PROFIT, GROSS -0.90, NET -0.90
+2023-11-08, Open, 98.84
+2023-11-09, SELL EXECUTED, Size: -18, Price: 99.44, Cost: 1777.14, Comm 0.00
+2023-11-09, BUY EXECUTED, Size: 18, Price: 99.44, Cost: 1789.92, Comm 0.00
+2023-11-09, OPERATION PROFIT, GROSS 12.78, NET 12.78
+2023-11-09, Open, 100.23
+2023-11-10, SELL EXECUTED, Size: -18, Price: 99.88, Cost: 1789.92, Comm 0.00
+2023-11-10, BUY EXECUTED, Size: 18, Price: 99.88, Cost: 1797.84, Comm 0.00
+2023-11-10, OPERATION PROFIT, GROSS 7.92, NET 7.92
+2023-11-10, Open, 99.46
+2023-11-13, SELL EXECUTED, Size: -18, Price: 99.37, Cost: 1797.84, Comm 0.00
+2023-11-13, BUY EXECUTED, Size: 18, Price: 99.37, Cost: 1788.66, Comm 0.00
+2023-11-13, OPERATION PROFIT, GROSS -9.18, NET -9.18
+2023-11-13, Open, 99.45
+2023-11-14, SELL EXECUTED, Size: -18, Price: 100.47, Cost: 1788.66, Comm 0.00
+2023-11-14, BUY EXECUTED, Size: 18, Price: 100.47, Cost: 1808.46, Comm 0.00
+2023-11-14, OPERATION PROFIT, GROSS 19.80, NET 19.80
+2023-11-14, Open, 100.40
+2023-11-15, SELL EXECUTED, Size: -18, Price: 101.40, Cost: 1808.46, Comm 0.00
+2023-11-15, BUY EXECUTED, Size: 18, Price: 101.40, Cost: 1825.20, Comm 0.00
+2023-11-15, OPERATION PROFIT, GROSS 16.74, NET 16.74
+2023-11-15, Open, 100.27
+2023-11-16, SELL EXECUTED, Size: -18, Price: 100.91, Cost: 1825.20, Comm 0.00
+2023-11-16, BUY EXECUTED, Size: 18, Price: 100.91, Cost: 1816.38, Comm 0.00
+2023-11-16, OPERATION PROFIT, GROSS -8.82, NET -8.82
+2023-11-16, Open, 100.41
+2023-11-17, SELL EXECUTED, Size: -18, Price: 100.50, Cost: 1816.38, Comm 0.00
+2023-11-17, BUY EXECUTED, Size: 18, Price: 100.50, Cost: 1809.00, Comm 0.00
+2023-11-17, OPERATION PROFIT, GROSS -7.38, NET -7.38
+2023-11-17, Open, 100.59
+2023-11-20, SELL EXECUTED, Size: -18, Price: 100.91, Cost: 1809.00, Comm 0.00
+2023-11-20, BUY EXECUTED, Size: 18, Price: 100.91, Cost: 1816.38, Comm 0.00
+2023-11-20, OPERATION PROFIT, GROSS 7.38, NET 7.38
+2023-11-20, Open, 101.27
+2023-11-21, SELL EXECUTED, Size: -18, Price: 101.62, Cost: 1816.38, Comm 0.00
+2023-11-21, BUY EXECUTED, Size: 18, Price: 101.62, Cost: 1829.16, Comm 0.00
+2023-11-21, OPERATION PROFIT, GROSS 12.78, NET 12.78
+2023-11-21, Open, 101.79
+2023-11-22, SELL EXECUTED, Size: -18, Price: 101.50, Cost: 1829.16, Comm 0.00
+2023-11-22, BUY EXECUTED, Size: 18, Price: 101.50, Cost: 1827.00, Comm 0.00
+2023-11-22, OPERATION PROFIT, GROSS -2.16, NET -2.16
+2023-11-22, Open, 101.89
+2023-11-23, SELL EXECUTED, Size: -18, Price: 101.64, Cost: 1827.00, Comm 0.00
+2023-11-23, BUY EXECUTED, Size: 18, Price: 101.64, Cost: 1829.52, Comm 0.00
+2023-11-23, OPERATION PROFIT, GROSS 2.52, NET 2.52
+2023-11-23, Open, 101.07
+2023-11-24, SELL EXECUTED, Size: -18, Price: 101.20, Cost: 1829.52, Comm 0.00
+2023-11-24, BUY EXECUTED, Size: 18, Price: 101.20, Cost: 1821.60, Comm 0.00
+2023-11-24, OPERATION PROFIT, GROSS -7.92, NET -7.92
+2023-11-24, Open, 101.78
+2023-11-27, SELL EXECUTED, Size: -18, Price: 102.11, Cost: 1821.60, Comm 0.00
+2023-11-27, BUY EXECUTED, Size: 18, Price: 102.11, Cost: 1837.98, Comm 0.00
+2023-11-27, OPERATION PROFIT, GROSS 16.38, NET 16.38
+2023-11-27, Open, 100.72
+2023-11-28, SELL EXECUTED, Size: -18, Price: 100.62, Cost: 1837.98, Comm 0.00
+2023-11-28, BUY EXECUTED, Size: 18, Price: 100.62, Cost: 1811.16, Comm 0.00
+2023-11-28, OPERATION PROFIT, GROSS -26.82, NET -26.82
+2023-11-28, Open, 101.44
+2023-11-29, SELL EXECUTED, Size: -18, Price: 101.88, Cost: 1811.16, Comm 0.00
+2023-11-29, BUY EXECUTED, Size: 18, Price: 101.88, Cost: 1833.84, Comm 0.00
+2023-11-29, OPERATION PROFIT, GROSS 22.68, NET 22.68
+2023-11-29, Open, 101.43
+2023-11-30, SELL EXECUTED, Size: -18, Price: 101.65, Cost: 1833.84, Comm 0.00
+2023-11-30, BUY EXECUTED, Size: 18, Price: 101.65, Cost: 1829.70, Comm 0.00
+2023-11-30, OPERATION PROFIT, GROSS -4.14, NET -4.14
+2023-11-30, Open, 102.74
+2023-12-01, SELL EXECUTED, Size: -18, Price: 102.73, Cost: 1829.70, Comm 0.00
+2023-12-01, BUY EXECUTED, Size: 18, Price: 102.73, Cost: 1849.14, Comm 0.00
+2023-12-01, OPERATION PROFIT, GROSS 19.44, NET 19.44
+2023-12-01, Open, 102.27
+2023-12-04, SELL EXECUTED, Size: -18, Price: 103.02, Cost: 1849.14, Comm 0.00
+2023-12-04, BUY EXECUTED, Size: 18, Price: 103.02, Cost: 1854.36, Comm 0.00
+2023-12-04, OPERATION PROFIT, GROSS 5.22, NET 5.22
+2023-12-04, Open, 103.19
+2023-12-05, SELL EXECUTED, Size: -18, Price: 103.06, Cost: 1854.36, Comm 0.00
+2023-12-05, BUY EXECUTED, Size: 18, Price: 103.06, Cost: 1855.08, Comm 0.00
+2023-12-05, OPERATION PROFIT, GROSS 0.72, NET 0.72
+2023-12-05, Open, 102.79
+2023-12-06, SELL EXECUTED, Size: -18, Price: 103.55, Cost: 1855.08, Comm 0.00
+2023-12-06, BUY EXECUTED, Size: 18, Price: 103.55, Cost: 1863.90, Comm 0.00
+2023-12-06, OPERATION PROFIT, GROSS 8.82, NET 8.82
+2023-12-06, Open, 104.39
+2023-12-07, SELL EXECUTED, Size: -18, Price: 104.03, Cost: 1863.90, Comm 0.00
+2023-12-07, BUY EXECUTED, Size: 18, Price: 104.03, Cost: 1872.54, Comm 0.00
+2023-12-07, OPERATION PROFIT, GROSS 8.64, NET 8.64
+2023-12-07, Open, 104.32
+2023-12-08, SELL EXECUTED, Size: -18, Price: 103.83, Cost: 1872.54, Comm 0.00
+2023-12-08, BUY EXECUTED, Size: 18, Price: 103.83, Cost: 1868.94, Comm 0.00
+2023-12-08, OPERATION PROFIT, GROSS -3.60, NET -3.60
+2023-12-08, Open, 104.48
+2023-12-11, SELL EXECUTED, Size: -18, Price: 104.71, Cost: 1868.94, Comm 0.00
+2023-12-11, BUY EXECUTED, Size: 18, Price: 104.71, Cost: 1884.78, Comm 0.00
+2023-12-11, OPERATION PROFIT, GROSS 15.84, NET 15.84
+2023-12-11, Open, 104.97
+2023-12-12, SELL EXECUTED, Size: -18, Price: 104.77, Cost: 1884.78, Comm 0.00
+2023-12-12, BUY EXECUTED, Size: 18, Price: 104.77, Cost: 1885.86, Comm 0.00
+2023-12-12, OPERATION PROFIT, GROSS 1.08, NET 1.08
+2023-12-12, Open, 105.44
+2023-12-13, SELL EXECUTED, Size: -18, Price: 105.82, Cost: 1885.86, Comm 0.00
+2023-12-13, BUY EXECUTED, Size: 18, Price: 105.82, Cost: 1904.76, Comm 0.00
+2023-12-13, OPERATION PROFIT, GROSS 18.90, NET 18.90
+2023-12-13, Open, 106.16
+2023-12-14, SELL EXECUTED, Size: -18, Price: 106.92, Cost: 1904.76, Comm 0.00
+2023-12-14, BUY EXECUTED, Size: 18, Price: 106.92, Cost: 1924.56, Comm 0.00
+2023-12-14, OPERATION PROFIT, GROSS 19.80, NET 19.80
+2023-12-14, Open, 107.51
+2023-12-15, SELL EXECUTED, Size: -18, Price: 107.98, Cost: 1924.56, Comm 0.00
+2023-12-15, BUY EXECUTED, Size: 18, Price: 107.98, Cost: 1943.64, Comm 0.00
+2023-12-15, OPERATION PROFIT, GROSS 19.08, NET 19.08
+2023-12-15, Open, 108.05
+2023-12-18, SELL EXECUTED, Size: -18, Price: 107.49, Cost: 1943.64, Comm 0.00
+2023-12-18, BUY EXECUTED, Size: 18, Price: 107.49, Cost: 1934.82, Comm 0.00
+2023-12-18, OPERATION PROFIT, GROSS -8.82, NET -8.82
+2023-12-18, Open, 107.98
+2023-12-19, SELL EXECUTED, Size: -18, Price: 108.32, Cost: 1934.82, Comm 0.00
+2023-12-19, BUY EXECUTED, Size: 18, Price: 108.32, Cost: 1949.76, Comm 0.00
+2023-12-19, OPERATION PROFIT, GROSS 14.94, NET 14.94
+2023-12-19, Open, 108.57
+2023-12-20, SELL EXECUTED, Size: -18, Price: 108.76, Cost: 1949.76, Comm 0.00
+2023-12-20, BUY EXECUTED, Size: 18, Price: 108.76, Cost: 1957.68, Comm 0.00
+2023-12-20, OPERATION PROFIT, GROSS 7.92, NET 7.92
+2023-12-20, Open, 108.93
+2023-12-21, SELL EXECUTED, Size: -18, Price: 108.69, Cost: 1957.68, Comm 0.00
+2023-12-21, BUY EXECUTED, Size: 18, Price: 108.69, Cost: 1956.42, Comm 0.00
+2023-12-21, OPERATION PROFIT, GROSS -1.26, NET -1.26
+2023-12-21, Open, 108.53
+2023-12-22, SELL EXECUTED, Size: -18, Price: 108.16, Cost: 1956.42, Comm 0.00
+2023-12-22, BUY EXECUTED, Size: 18, Price: 108.16, Cost: 1946.88, Comm 0.00
+2023-12-22, OPERATION PROFIT, GROSS -9.54, NET -9.54
+2023-12-22, Open, 108.47
+2023-12-27, SELL EXECUTED, Size: -18, Price: 109.08, Cost: 1946.88, Comm 0.00
+2023-12-27, BUY EXECUTED, Size: 18, Price: 109.08, Cost: 1963.44, Comm 0.00
+2023-12-27, OPERATION PROFIT, GROSS 16.56, NET 16.56
+2023-12-27, Open, 109.15
+2023-12-28, SELL EXECUTED, Size: -18, Price: 109.75, Cost: 1963.44, Comm 0.00
+2023-12-28, BUY EXECUTED, Size: 18, Price: 109.75, Cost: 1975.50, Comm 0.00
+2023-12-28, OPERATION PROFIT, GROSS 12.06, NET 12.06
+2023-12-28, Open, 110.23
+2023-12-29, SELL EXECUTED, Size: -18, Price: 110.09, Cost: 1975.50, Comm 0.00
+2023-12-29, BUY EXECUTED, Size: 18, Price: 110.09, Cost: 1981.62, Comm 0.00
+2023-12-29, OPERATION PROFIT, GROSS 6.12, NET 6.12
+2023-12-29, Open, 109.74
+Final Portfolio Value: 1977.22
+Total Profit: 977.22
