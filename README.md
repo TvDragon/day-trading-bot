@@ -35,10 +35,11 @@ The motivation behind creating this project is to create a day trading bot that 
 
 - [x] Backtest a simple strategy
 - [x] Backtest scalping strategy
-- [ ] Backtest trending strategy
+- [x] Backtest stochastic strategy
 - [ ] Implement a day trading bot
-	- [ ] Trending strategy
+	- [ ] Simple strategy
 	- [ ] Scalping strategy
+	- [ ] Stochastic strategy
 - [ ] Optimise day trading bot
 
 ## Results
@@ -68,7 +69,19 @@ Although this strategy provided positive yeld making profits changes made to det
 
 To implement this into the day trading bot the timeframe that would be used is either 1 minute or 5 minute timeframes.
 
-### Backtest Trending Strategy
+### Backtest Stochastic Strategy
+
+This stochastic strategy involved the use of the 200 exponential moving average, Stochastic and MACD indicator. This was tesed for the daily intervals where we looked for existing trends with the candles following an uptrend or downtrend and outside of the 200 EMA. During an uptrend if the prices were above the 200 EMA and the stochastic was at oversold and entered back above the oversold line and the macd line crossed above the signal line we took a buy position. Setting a stop-loss at the nearest swing-low and the take-profit at 2 times that of the stop-loss. During a downtrend if the prices were below the 200 EMA and the stochastic was at overbrought and entered back below the overbrought line and the macd line crossed below the signal line we took a sell position. Setting a stop-loss at the nearest swing-high and the take-profit at 2 times that of the stop-loss. Additionally, we set a duration for how long to hold onto the buy or sell option as part of the exit strategy if we fail to hit either the stop-loss or take-profit.
+
+The results displayed below show a positive yield making profits. The plotted graphs can be viewd inside the `results/stochastic` folder and the order executions inside the `order-execs/stochastic` folder which when calculated had a win-rate of 53%.
+
+![backtest-stochastic-strategy](./results/stochastic/backtest-stochastic-strategy.png)
+
+When comparing the stochastic strategy against the scalping strategy and simple strategy the combined profits for the daily interval from the stochastic strategy yielded $4035.52 whereas the scalping strategy yielded $4520.43 and the simple strategy yielded $3787.11. Although this may indicate that the stochastic does not perform as well compared against the scalping strategy we also need to take into consideration that more trades are taken from the scalping strategy than the stochastic strategy as the stochastic strategy relies on the oversold and overbrought conditions which may result in fewer trade opportunities for profit. Additionally, a stochastic strategy might underperform compared to a scalping strategy as stochastic indicators are generally more suited for range-bound markets and can give false signals in trending markets.
+
+Although this strategy provided positive yeld making profits changes made to determining when we are in an uptrend or downtrend and prices for stop-loss and take-profit could potentially yield higher profits which would need to be tested.
+
+To implement this into the day trading bot the timeframe is generally recommended to be ideal would be the 15 minute timeframe.
 
 ## Contact
 

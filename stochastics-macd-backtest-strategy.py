@@ -285,8 +285,5 @@ def perform_simulation(args):
 if __name__ == '__main__':
 
     args = parse_args()
-    choices=['cba', 'gmg', 'ioo', 'ndq', 'vas', 'wes']
-    for choice in choices:
-        args.dataname = choice
-        perform_simulation(args)
+    perform_simulation(args)
 
