@@ -38,6 +38,9 @@ class StochasticStrategy(bt.Strategy):
             ('exitbars', 5),
             ('file_handle', None),
             ('ema_period', 200),
+            ('fast_period', 12),
+            ('slow_period', 26),
+            ('signal_period', 9)
         )
 
     def log(self, txt, dt=None):
@@ -46,6 +49,17 @@ class StochasticStrategy(bt.Strategy):
     
     def __init__(self):
         self.stochastic = Stochastic(self.data)
+
+        # Initialise the MACD indicator
+        self.macd = bt.indicators.MACD(
+                self.data.close,
+                period_me1=self.params.fast_period,
+                period_me2=self.params.slow_period,
+                period_signal=self.params.signal_period
+            )
+
+        # Add a reference to the MACD histogram for convenience
+        self.macd_histogram = self.macd.macd - self.macd.signal
 
         # Keep a reference to the "close" line in the data[0] dataseries
         self.data_close = self.datas[0].close
